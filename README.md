@@ -1,10 +1,10 @@
-# Mineracao_de_Dados
+# 🔍 Mineracao_de_Dados
 Projeto da Disciplina de Mineração de Dados - Pós Estácio
 
 # Título do Projeto
 Projeto de Mineração de Dados: Análise e Segmentação de Clientes para o Programa "Alimentação Saudável"
 
-# Descrição do Projeto
+# 📄 Descrição do Projeto
 Este projeto de mineração de dados foi desenvolvido para a rede de supermercados SuperVida com o objetivo de identificar o público-alvo ideal para o lançamento de seu novo programa de fidelidade, focado em alimentação saudável.
 
 A análise completa, documentada em um relatório final, demonstra como a segmentação de clientes pode ser utilizada para tomar decisões estratégicas, otimizar campanhas de marketing e impulsionar o crescimento do negócio.
