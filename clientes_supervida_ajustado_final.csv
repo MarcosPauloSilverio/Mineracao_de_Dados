@@ -1,0 +1,1001 @@
+id_cliente,nome_cliente,sobrenome_cliente,data_nascimento,sexo,email_cliente,aceita_receber_newsletter,celular_cliente,whatsapp,aceita_receber_mensagens,fixo_cliente,logradouro,numero,bairro,cep,estado,ticket_medio,produtos_saudaveis_percentual
+1,Findley,Konzel,1966-12-29 06:13:22.143596,Outros,fkonzel0@gmail.com,Não,386-890-0415,Não,Sim,524-752-3098,Arizona,40552,Barra da Tijuca,226007-000,RJ,469.26,18.81
+2,Cinderella,Housecroft,2002-08-18 06:13:22.143596,Feminino,chousecroft1@gmail.com,Sim,486-377-1125,Sim,Não,554-608-6073,East,48,Tijuca,205009-000,RJ,393.51,25.99
+3,Tisha,Tellwright,1966-01-11 06:13:22.143596,Feminino,ttellwright2@gmail.com,Sim,267-294-7038,Sim,Sim,290-458-6581,New Castle,6,Tijuca,205004-000,RJ,346.09,47.3
+4,Lyn,Sidlow,2005-03-25 06:13:22.143596,Masculino,lsidlow3@gmail.com,Não,830-607-6947,Não,Não,900-184-9241,Monica,1906,Barra da Tijuca,226005-000,RJ,267.37,54.63
+5,Starlene,Allred,1997-03-24 06:13:22.143596,Feminino,sallred4@gmail.com,Não,369-172-1168,Não,Sim,921-931-9961,Hollow Ridge,88,Barra da Tijuca,226005-000,RJ,149.57,39.78
+6,Lauritz,De Bruyn,1977-07-26 06:13:22.143596,Masculino,ldebruyn5@hotmail.com,Sim,830-892-1678,Sim,Não,174-130-5905,Grim,82,Copacabana,220005-000,RJ,294.67,45.32
+7,Cecilia,Feare,1996-07-05 06:13:22.143596,Feminino,cfeare6@hotmail.com,Sim,567-720-0228,Não,Sim,221-152-0946,Green Ridge,48,Barra da Tijuca,226005-000,RJ,124.4,18.56
+8,Perceval,Pauleau,1989-10-25 06:13:22.143596,Masculino,ppauleau7@gmail.com,Não,436-869-9551,Não,Sim,112-312-4690,Coolidge,2,Copacabana,220004-000,RJ,491.62,41.72
+9,Milty,O'Carran,1994-11-27 06:13:22.143596,Masculino,mocarran8@gmail.com,Sim,290-597-0578,Não,Sim,362-768-0135,Knutson,2311,Copacabana,220001-000,RJ,148.55,25.45
+10,Silvio,Francklin,2002-08-23 06:13:22.143596,Masculino,sfrancklin9@gmail.com,Não,685-614-3006,Sim,Sim,501-577-5912,Green Ridge,612,Barra da Tijuca,226002-000,RJ,61.29,42.01
+11,Rollie,Beaford,2004-12-24 06:13:22.143596,Masculino,rbeaforda@hotmail.com,Sim,403-598-5038,Não,Sim,611-172-5005,Delladonna,462,Tijuca,205004-000,RJ,460.48,88.83
+12,Arabele,Bartley,2002-07-13 06:13:22.143596,Feminino,abartleyb@gmail.com,Sim,102-387-2709,Não,Sim,581-652-9996,Prairieview,27814,Tijuca,205008-000,RJ,443.09,21.76
+13,Nilson,Jeacocke,1989-10-26 06:13:22.143596,Masculino,njeacockec@gmail.com,Sim,365-679-6283,Não,Não,444-654-0796,Carioca,4,Copacabana,220004-000,RJ,426.6,23.74
+14,Gracie,Upsale,1990-08-24 06:13:22.143596,Feminino,gupsaled@hotmail.com,Não,201-277-3929,Não,Não,808-276-3872,Onsgard,7919,Tijuca,205002-000,RJ,98.33,39.14
+15,Ema,Adnam,1963-06-27 06:13:22.143596,Feminino,eadname@hotmail.com,Não,579-254-3986,Sim,Não,802-218-5184,Clove,5,Copacabana,220008-000,RJ,316.32,63.45
+16,Celestyna,Wringe,1973-10-29 06:13:22.143596,Feminino,cwringef@hotmail.com,Não,442-404-6263,Sim,Sim,509-433-0898,Toban,959,Tijuca,205008-000,RJ,132.11,80.99
+17,Ellene,Cantillon,1985-05-21 06:13:22.143596,Feminino,ecantillong@hotmail.com,Não,989-391-0421,Não,Não,946-144-5122,Bay,14,Barra da Tijuca,226006-000,RJ,381.5,9.39
+18,Papagena,Alaway,1963-04-15 06:13:22.143596,Feminino,palawayh@gmail.com,Sim,984-246-2566,Não,Não,530-713-8290,Mosinee,580,Tijuca,205007-000,RJ,308.89,26.54
+19,Gerri,Gann,1996-09-29 06:13:22.143596,Masculino,gganni@gmail.com,Sim,107-264-5045,Não,Sim,932-547-3677,Hanson,70396,Tijuca,205005-000,RJ,116.65,54.88
+20,Josh,Bonhan,1990-10-22 06:13:22.143596,Outros,jbonhanj@gmail.com,Sim,830-979-0333,Não,Não,474-635-3176,Westridge,14,Copacabana,220007-000,RJ,204.6,27.08
+21,Henka,Domelaw,1989-02-25 06:13:22.143596,Feminino,hdomelawk@gmail.com,Sim,808-275-3663,Sim,Não,798-159-9126,Riverside,453,Copacabana,220003-000,RJ,67.16,52.42
+22,Dion,Spadaro,1999-03-18 06:13:22.143596,Masculino,dspadarol@gmail.com,Sim,255-646-4997,Sim,Sim,783-626-0068,Bluestem,9,Barra da Tijuca,226008-000,RJ,271.96,96.37
+23,Hilary,Agglio,1988-11-29 06:13:22.143596,Feminino,haggliom@gmail.com,Não,385-492-9001,Não,Não,433-912-8307,Basil,55311,Tijuca,205003-000,RJ,86.9,49.91
+24,Carlynn,Gronaller,1966-02-27 06:13:22.143596,Feminino,cgronallern@hotmail.com,Não,269-762-3302,Não,Não,798-266-0723,Dexter,1952,Barra da Tijuca,226004-000,RJ,484.73,35.7
+25,Natale,Eilert,1967-04-05 06:13:22.143596,Masculino,neilerto@gmail.com,Não,378-842-3716,Sim,Não,195-171-2582,Bartillon,99761,Barra da Tijuca,226003-000,RJ,247.53,10.89
+26,Moises,De Santos,1981-03-02 06:13:22.143596,Masculino,mdesantosp@hotmail.com,Não,391-685-0769,Não,Sim,967-379-7500,Dexter,4,Tijuca,205006-000,RJ,296.04,84.26
+27,Rozella,Petranek,1987-12-29 06:13:22.143596,Outros,rpetranekq@hotmail.com,Não,670-650-0177,Sim,Não,607-369-7369,Porter,4868,Barra da Tijuca,226007-000,RJ,169.3,37.34
+28,Monty,Giovannini,1971-09-06 06:13:22.143596,Masculino,mgiovanninir@hotmail.com,Não,443-434-9020,Sim,Não,665-186-7609,Dryden,56647,Tijuca,205004-000,RJ,343.79,16.0
+29,Darci,Hiland,1965-06-04 06:13:22.143596,Feminino,dhilands@hotmail.com,Não,646-605-9534,Sim,Sim,783-441-2902,Spohn,515,Copacabana,220007-000,RJ,489.05,75.87
+30,Quintilla,Borwick,1976-01-22 06:13:22.143596,Feminino,qborwickt@hotmail.com,Não,955-931-1580,Não,Não,173-355-5590,Golf View,5,Tijuca,205009-000,RJ,425.42,68.47
+31,Cornelle,Wrack,1994-02-04 06:13:22.143596,Feminino,cwracku@hotmail.com,Não,118-563-5502,Não,Sim,979-740-9634,American Ash,89,Copacabana,220002-000,RJ,316.39,8.51
+32,Dallon,Ervin,1961-06-28 06:13:22.143596,Masculino,dervinv@gmail.com,Sim,610-669-5594,Sim,Não,239-644-7186,Erie,70678,Barra da Tijuca,226005-000,RJ,90.82,72.12
+33,Teador,Lincke,1993-04-29 06:13:22.143596,Masculino,tlinckew@hotmail.com,Não,207-543-3664,Não,Sim,377-504-5675,American Ash,76,Copacabana,220009-000,RJ,420.12,74.74
+34,Savina,Campa,1970-07-30 06:13:22.143596,Feminino,scampax@hotmail.com,Não,125-523-5086,Não,Sim,431-837-1000,Anniversary,295,Tijuca,205005-000,RJ,353.01,72.98
+35,Glyn,Sharplin,1988-02-18 06:13:22.143596,Masculino,gsharpliny@gmail.com,Sim,701-815-6699,Não,Sim,249-501-9975,Bayside,788,Barra da Tijuca,226006-000,RJ,480.92,50.93
+36,Humbert,Million,1964-03-26 06:13:22.143596,Masculino,hmillionz@gmail.com,Não,863-379-5317,Não,Não,818-141-0123,Calypso,9067,Barra da Tijuca,226006-000,RJ,354.1,55.78
+37,Melony,Doeg,1964-08-27 06:13:22.143596,Feminino,mdoeg10@hotmail.com,Sim,628-373-0429,Sim,Não,960-916-0199,Kim,7,Barra da Tijuca,226003-000,RJ,451.2,22.0
+38,Cullen,Moult,1993-04-25 06:13:22.143596,Masculino,cmoult11@hotmail.com,Não,720-137-3854,Não,Sim,931-639-0886,Porter,7022,Tijuca,205006-000,RJ,292.77,99.24
+39,Konstance,Finders,1963-02-26 06:13:22.143596,Feminino,kfinders12@gmail.com,Não,121-677-1501,Sim,Não,410-437-6066,Vernon,7,Copacabana,220001-000,RJ,257.3,17.73
+40,Peyton,Docksey,1988-02-19 06:13:22.143596,Masculino,pdocksey13@hotmail.com,Sim,435-242-7182,Não,Sim,202-705-9765,Morningstar,1,Tijuca,205004-000,RJ,457.21,57.99
+41,Derek,Janway,1963-12-12 06:13:22.143596,Masculino,djanway14@gmail.com,Não,561-750-2811,Não,Sim,883-255-5870,Oak Valley,35960,Barra da Tijuca,226006-000,RJ,118.37,91.66
+42,Jane,Andreev,1982-11-19 06:13:22.143596,Feminino,jandreev15@gmail.com,Sim,937-493-5452,Sim,Sim,157-758-1142,Petterle,9,Barra da Tijuca,226001-000,RJ,488.54,63.57
+43,Briney,Fillgate,1997-12-08 06:13:22.143596,Feminino,bfillgate16@gmail.com,Não,736-996-9842,Sim,Sim,150-501-5934,Kedzie,77764,Tijuca,205001-000,RJ,112.64,80.49
+44,Stephani,Crennan,1988-07-28 06:13:22.143596,Feminino,scrennan17@hotmail.com,Sim,248-286-0195,Sim,Não,901-983-7094,Fisk,36,Tijuca,205006-000,RJ,490.92,33.1
+45,Helena,Halliwell,1969-04-14 06:13:22.143596,Feminino,hhalliwell18@gmail.com,Sim,379-795-6204,Não,Sim,810-726-0160,Almo,2,Tijuca,205004-000,RJ,62.17,78.66
+46,Dominique,Redmile,1972-12-15 06:13:22.143596,Feminino,dredmile19@gmail.com,Não,427-476-5591,Não,Não,632-544-6837,Red Cloud,298,Copacabana,220004-000,RJ,248.15,36.0
+47,Stanley,Latan,1986-02-06 06:13:22.143596,Masculino,slatan1a@hotmail.com,Não,211-940-9183,Não,Sim,868-229-5283,Springview,57,Copacabana,220006-000,RJ,364.43,3.07
+48,Syd,Wrightem,1976-07-11 06:13:22.143596,Masculino,swrightem1b@gmail.com,Sim,288-187-0230,Não,Não,666-867-2441,Schmedeman,785,Tijuca,205003-000,RJ,178.53,37.73
+49,Jaime,Goldster,2007-03-27 06:13:22.143596,Outros,jgoldster1c@hotmail.com,Não,287-466-8992,Não,Sim,351-915-6078,Pleasure,777,Barra da Tijuca,226007-000,RJ,176.98,56.42
+50,Blane,Matyushkin,1962-11-22 06:13:22.143596,Masculino,bmatyushkin1d@hotmail.com,Não,471-669-2076,Não,Não,453-281-4605,Elka,59,Copacabana,220008-000,RJ,273.5,81.49
+51,Debera,Hubbocks,1996-11-15 06:13:22.143596,Feminino,dhubbocks1e@gmail.com,Não,663-692-9412,Não,Sim,616-715-0979,Pond,5,Copacabana,220007-000,RJ,65.36,67.98
+52,Drake,Foss,1988-05-09 06:13:22.143596,Masculino,dfoss1f@gmail.com,Sim,628-773-0503,Não,Não,341-619-5032,Maywood,52,Copacabana,220002-000,RJ,365.47,73.5
+53,Haywood,Whitwood,1969-07-29 06:13:22.143596,Masculino,hwhitwood1g@gmail.com,Não,329-927-6986,Não,Não,422-999-1245,Corry,778,Tijuca,205005-000,RJ,348.68,5.36
+54,Nicky,Donahue,1988-09-30 06:13:22.143596,Masculino,ndonahue1h@hotmail.com,Sim,359-462-3199,Sim,Sim,912-193-1107,Atwood,76238,Barra da Tijuca,226007-000,RJ,429.6,53.14
+55,Grata,Sollis,1997-03-23 06:13:22.143596,Feminino,gsollis1i@gmail.com,Não,991-334-3501,Sim,Sim,712-503-7481,Glacier Hill,25555,Tijuca,205006-000,RJ,457.13,29.33
+56,Stanton,Fallowfield,1975-07-25 06:13:22.143596,Masculino,sfallowfield1j@hotmail.com,Não,472-206-2335,Sim,Não,686-842-0890,Meadow Valley,1698,Tijuca,205007-000,RJ,309.14,45.35
+57,Artur,Dankersley,2007-03-27 06:13:22.143596,Masculino,adankersley1k@gmail.com,Não,452-892-2105,Sim,Não,612-570-3983,Montana,0,Tijuca,205008-000,RJ,444.43,56.07
+58,Bruis,Shee,1964-02-16 06:13:22.143596,Masculino,bshee1l@hotmail.com,Sim,729-292-0404,Não,Sim,353-949-2376,Beilfuss,570,Tijuca,205008-000,RJ,156.6,75.66
+59,Nealon,Challener,1969-04-06 06:13:22.143596,Masculino,nchallener1m@gmail.com,Não,100-653-7700,Sim,Sim,253-611-9613,Loomis,108,Tijuca,205004-000,RJ,110.26,63.54
+60,Pincas,Creebo,2005-04-05 06:13:22.143596,Masculino,pcreebo1n@hotmail.com,Não,828-274-5485,Sim,Sim,301-275-5771,Jana,0,Barra da Tijuca,226009-000,RJ,154.66,28.39
+61,Bev,Gargett,1993-12-19 06:13:22.143596,Masculino,bgargett1o@hotmail.com,Sim,663-864-3563,Sim,Não,242-487-8912,Shelley,24966,Barra da Tijuca,226006-000,RJ,434.75,38.03
+62,Creigh,Sanpher,1970-02-21 06:13:22.143596,Outros,csanpher1p@gmail.com,Sim,587-123-1753,Sim,Sim,824-886-6474,Elka,268,Barra da Tijuca,226007-000,RJ,443.94,96.51
+63,Ivett,Perrone,2001-03-19 06:13:22.143596,Feminino,iperrone1q@gmail.com,Sim,305-424-6074,Sim,Não,283-514-4492,Valley Edge,45075,Copacabana,220002-000,RJ,120.78,48.85
+64,Dolf,Studart,1987-11-11 06:13:22.143596,Masculino,dstudart1r@gmail.com,Sim,271-955-4671,Não,Sim,258-280-3355,Everett,449,Copacabana,220007-000,RJ,483.45,20.28
+65,Almeda,Cadalleder,1965-01-15 06:13:22.143596,Outros,acadalleder1s@hotmail.com,Sim,531-322-5337,Sim,Sim,297-542-7260,Cottonwood,95180,Barra da Tijuca,226005-000,RJ,262.78,87.75
+66,Adams,Mulcaster,2002-02-12 06:13:22.143596,Masculino,amulcaster1t@gmail.com,Sim,866-693-7550,Não,Sim,404-914-3235,Bobwhite,23,Copacabana,220005-000,RJ,161.97,88.51
+67,Bevan,Brill,1999-04-06 06:13:22.143596,Masculino,bbrill1u@hotmail.com,Sim,812-810-3165,Não,Não,904-904-6790,Mccormick,0,Copacabana,220002-000,RJ,409.5,88.21
+68,Robinette,Gulleford,1963-11-22 06:13:22.143596,Feminino,rgulleford1v@hotmail.com,Não,454-597-6392,Não,Sim,427-815-3838,Westerfield,245,Barra da Tijuca,226005-000,RJ,101.21,3.39
+69,Stephan,Casbourne,1971-05-17 06:13:22.143596,Masculino,scasbourne1w@hotmail.com,Não,356-155-7678,Sim,Sim,717-260-0691,Lillian,8438,Barra da Tijuca,226006-000,RJ,459.43,90.36
+70,Liesa,Bryan,2004-06-18 06:13:22.143596,Feminino,lbryan1x@hotmail.com,Não,642-202-5621,Sim,Não,553-275-2732,Anthes,8,Tijuca,205005-000,RJ,282.02,11.22
+71,Shepard,Scammonden,1977-08-18 06:13:22.143596,Masculino,sscammonden1y@hotmail.com,Sim,901-656-9753,Sim,Sim,217-649-9605,Green,2835,Tijuca,205006-000,RJ,453.51,75.49
+72,Dilan,Matthiesen,1995-06-09 06:13:22.143596,Masculino,dmatthiesen1z@hotmail.com,Não,646-881-8734,Não,Sim,413-934-9597,Pennsylvania,71,Tijuca,205005-000,RJ,328.06,54.54
+73,Donny,Yelding,1964-04-01 06:13:22.143596,Masculino,dyelding20@hotmail.com,Sim,813-261-8247,Sim,Não,624-714-1257,Westport,2,Barra da Tijuca,226008-000,RJ,272.78,83.08
+74,Shaun,Harbor,1985-08-21 06:13:22.143596,Masculino,sharbor21@hotmail.com,Não,524-547-4423,Não,Sim,424-749-4165,Springview,7,Barra da Tijuca,226001-000,RJ,117.06,87.2
+75,Giff,Papaminas,1990-03-13 06:13:22.143596,Masculino,gpapaminas22@gmail.com,Sim,458-102-7197,Sim,Não,856-994-0682,Browning,81080,Barra da Tijuca,226006-000,RJ,366.53,90.34
+76,Rayner,Peperell,1985-04-05 06:13:22.143596,Masculino,rpeperell23@gmail.com,Sim,220-167-5554,Sim,Não,288-122-7967,Anniversary,6600,Tijuca,205008-000,RJ,467.92,38.54
+77,Nancey,Grinnell,1992-01-13 06:13:22.143596,Feminino,ngrinnell24@gmail.com,Sim,919-204-7614,Não,Não,245-470-0182,Mallard,8935,Tijuca,205006-000,RJ,499.97,57.6
+78,Hermie,Yeandel,1998-02-01 06:13:22.143596,Masculino,hyeandel25@hotmail.com,Não,598-994-2241,Sim,Sim,546-504-1677,Mayer,11277,Tijuca,205009-000,RJ,252.59,83.75
+79,Sibeal,Dixcey,2003-04-11 06:13:22.143596,Feminino,sdixcey26@hotmail.com,Sim,968-701-7954,Não,Não,522-851-4747,Drewry,6,Barra da Tijuca,226001-000,RJ,88.25,5.6
+80,Shellie,Pelos,1971-07-10 06:13:22.143596,Outros,spelos27@hotmail.com,Não,777-379-3441,Não,Não,301-618-9607,Basil,4707,Barra da Tijuca,226009-000,RJ,282.28,59.51
+81,Kelby,Liggons,1978-05-01 06:13:22.143596,Masculino,kliggons28@gmail.com,Não,425-560-3699,Sim,Sim,412-851-4122,Brown,423,Tijuca,205006-000,RJ,478.79,40.23
+82,Vinnie,Sone,1962-10-03 06:13:22.143596,Masculino,vsone29@hotmail.com,Não,831-241-4303,Sim,Sim,676-746-8014,Declaration,9451,Barra da Tijuca,226004-000,RJ,474.33,26.92
+83,Kimbra,Kingscott,1997-01-20 06:13:22.143596,Feminino,kkingscott2a@gmail.com,Não,302-267-9538,Sim,Sim,134-413-6021,Mayer,495,Barra da Tijuca,226009-000,RJ,355.16,37.04
+84,Bentley,Giannazzo,1973-03-26 06:13:22.143596,Masculino,bgiannazzo2b@gmail.com,Sim,415-423-2003,Não,Não,455-218-1204,Morning,915,Barra da Tijuca,226002-000,RJ,476.91,18.34
+85,Ailyn,Klausen,1988-11-08 06:13:22.143596,Feminino,aklausen2c@hotmail.com,Não,336-189-5883,Não,Não,286-409-3831,Trailsway,9,Tijuca,205006-000,RJ,107.41,88.48
+86,Angelico,Fardon,1972-08-25 06:13:22.143596,Masculino,afardon2d@hotmail.com,Não,731-357-3480,Não,Sim,359-424-8992,Tennyson,732,Barra da Tijuca,226006-000,RJ,413.7,46.14
+87,Marshall,Cashell,1979-06-10 06:13:22.143596,Masculino,mcashell2e@hotmail.com,Sim,793-720-9481,Não,Não,463-345-9694,Jana,3695,Copacabana,220002-000,RJ,112.38,59.29
+88,Eric,Bartlomiejczyk,1963-05-03 06:13:22.143596,Masculino,ebartlomiejczyk2f@hotmail.com,Não,199-708-9917,Não,Sim,577-874-6105,Tomscot,2369,Tijuca,205004-000,RJ,318.5,25.42
+89,Vilma,Rosenbloom,2002-02-19 06:13:22.143596,Feminino,vrosenbloom2g@gmail.com,Não,665-381-0761,Sim,Sim,499-142-6935,Pankratz,54632,Tijuca,205005-000,RJ,144.12,7.22
+90,Brig,Pettipher,1977-11-21 06:13:22.143596,Outros,bpettipher2h@hotmail.com,Não,275-663-2115,Sim,Não,552-924-8860,Magdeline,4731,Copacabana,220007-000,RJ,450.11,87.05
+91,Jessalin,Blakey,1997-09-25 06:13:22.143596,Feminino,jblakey2i@gmail.com,Sim,562-823-4011,Não,Não,611-324-0797,Twin Pines,2912,Tijuca,205003-000,RJ,382.74,89.71
+92,Pablo,Wipfler,2005-12-24 06:13:22.143596,Masculino,pwipfler2j@hotmail.com,Sim,368-392-3738,Não,Não,252-120-1468,Raven,53,Copacabana,220009-000,RJ,354.15,38.24
+93,Wilt,Hurn,1985-06-05 06:13:22.143596,Masculino,whurn2k@hotmail.com,Não,827-825-9773,Sim,Sim,729-895-8521,Briar Crest,7,Copacabana,220002-000,RJ,391.92,92.03
+94,Desdemona,Agar,1987-02-18 06:13:22.143596,Feminino,dagar2l@gmail.com,Não,357-688-0902,Sim,Sim,997-338-1751,Bashford,8,Tijuca,205009-000,RJ,112.54,80.76
+95,Aili,Roskell,1965-06-07 06:13:22.143596,Feminino,aroskell2m@gmail.com,Sim,334-832-9327,Sim,Não,955-926-3386,Hansons,595,Barra da Tijuca,226004-000,RJ,446.46,78.99
+96,Cordie,Bull,1975-10-27 06:13:22.143596,Masculino,cbull2n@gmail.com,Sim,114-570-4033,Sim,Sim,734-513-4737,Aberg,1,Barra da Tijuca,226004-000,RJ,277.28,97.34
+97,Paxton,D'Agostino,2005-06-23 06:13:22.143596,Masculino,pdagostino2o@hotmail.com,Não,984-560-7015,Não,Não,977-729-8657,Kennedy,141,Tijuca,205008-000,RJ,287.76,68.74
+98,Melisa,Heaviside,1974-07-30 06:13:22.143596,Feminino,mheaviside2p@gmail.com,Não,232-341-0659,Sim,Sim,977-567-0170,Meadow Valley,4784,Copacabana,220005-000,RJ,279.99,51.54
+99,Ford,Buddington,1990-10-17 06:13:22.143596,Masculino,fbuddington2q@gmail.com,Sim,628-981-4008,Não,Não,587-887-1154,Charing Cross,9,Barra da Tijuca,226006-000,RJ,185.99,19.74
+100,Wittie,Ravenhills,1986-01-15 06:13:22.143596,Masculino,wravenhills2r@gmail.com,Não,434-405-2946,Não,Sim,267-213-1371,Hayes,790,Copacabana,220002-000,RJ,202.15,18.06
+101,Essy,Goulbourne,1976-06-27 06:13:22.143596,Feminino,egoulbourne2s@hotmail.com,Não,436-292-9603,Sim,Sim,682-603-9025,Raven,6,Barra da Tijuca,226004-000,RJ,413.79,85.21
+102,Gene,Hutable,2000-11-16 06:13:22.143596,Outros,ghutable2t@hotmail.com,Sim,842-215-0584,Não,Não,816-498-2747,Moulton,94,Tijuca,205001-000,RJ,463.01,10.43
+103,Kent,Mucklow,1994-07-07 06:13:22.143596,Masculino,kmucklow2u@gmail.com,Não,135-406-0657,Não,Sim,132-291-9727,Sutherland,28955,Tijuca,205008-000,RJ,430.11,74.01
+104,Tades,Phizackarley,1979-06-24 06:13:22.143596,Masculino,tphizackarley2v@hotmail.com,Sim,100-492-8121,Sim,Sim,266-242-7838,Loeprich,78176,Tijuca,205004-000,RJ,401.74,29.87
+105,Derward,Pinkstone,2006-12-12 06:13:22.143596,Masculino,dpinkstone2w@gmail.com,Não,564-532-9037,Sim,Não,822-302-1638,Fair Oaks,36,Barra da Tijuca,226008-000,RJ,399.71,70.06
+106,Meridith,Cossington,1996-11-29 06:13:22.143596,Feminino,mcossington2x@gmail.com,Não,608-114-5812,Não,Não,557-849-2607,Warbler,985,Tijuca,205001-000,RJ,192.91,44.06
+107,Edeline,Pavinese,2003-03-21 06:13:22.143596,Outros,epavinese2y@gmail.com,Não,955-316-9387,Sim,Não,752-525-8620,Schmedeman,506,Barra da Tijuca,226006-000,RJ,295.81,37.63
+108,Kathryne,Brennen,1965-04-21 06:13:22.143596,Feminino,kbrennen2z@gmail.com,Não,703-767-3502,Sim,Não,438-634-8223,Loftsgordon,14,Tijuca,205002-000,RJ,151.2,95.14
+109,Hollyanne,Dummett,1994-05-30 06:13:22.143596,Feminino,hdummett30@hotmail.com,Sim,849-852-7791,Não,Sim,532-698-2340,Evergreen,44,Tijuca,205005-000,RJ,433.3,74.99
+110,Shelby,Lowell,1963-06-14 06:13:22.143596,Feminino,slowell31@hotmail.com,Não,712-729-4832,Sim,Não,702-397-2193,Service,67,Tijuca,205005-000,RJ,104.75,70.27
+111,Tucky,Capaldo,1978-10-01 06:13:22.143596,Masculino,tcapaldo32@gmail.com,Não,828-715-7748,Não,Não,769-185-8840,John Wall,61,Barra da Tijuca,226001-000,RJ,85.42,36.46
+112,Pernell,St. Pierre,1981-02-20 06:13:22.143596,Masculino,pstpierre33@gmail.com,Sim,392-473-8997,Não,Sim,243-865-3276,Drewry,9,Copacabana,220003-000,RJ,408.07,56.13
+113,Nikolos,Denkel,1969-05-04 06:13:22.143596,Masculino,ndenkel34@gmail.com,Sim,678-233-0975,Sim,Sim,328-207-4270,Grasskamp,4,Tijuca,205007-000,RJ,258.47,57.91
+114,Eward,Rogans,1968-07-31 06:13:22.143596,Masculino,erogans35@hotmail.com,Não,202-595-0752,Sim,Não,198-320-7933,Declaration,0,Tijuca,205008-000,RJ,56.9,5.2
+115,Maddy,Sibylla,1999-12-11 06:13:22.143596,Feminino,msibylla36@hotmail.com,Não,258-417-3375,Sim,Não,177-833-1632,Fairview,5452,Tijuca,205003-000,RJ,338.94,73.62
+116,Michail,Matthis,1963-02-20 06:13:22.143596,Masculino,mmatthis37@hotmail.com,Não,269-699-6411,Sim,Sim,457-328-6478,Dunning,920,Barra da Tijuca,226009-000,RJ,374.08,3.7
+117,Herman,Ivison,1998-08-20 06:13:22.143596,Masculino,hivison38@gmail.com,Sim,466-780-2454,Não,Sim,510-718-7930,Center,35,Copacabana,220005-000,RJ,470.98,52.58
+118,Rosalynd,Labusch,1980-12-25 06:13:22.143596,Feminino,rlabusch39@gmail.com,Não,958-632-6355,Não,Não,637-458-6999,Autumn Leaf,0,Barra da Tijuca,226005-000,RJ,483.44,53.96
+119,Cornie,Spilsburie,1971-05-14 06:13:22.143596,Feminino,cspilsburie3a@gmail.com,Não,424-350-1790,Não,Não,547-377-6204,Lien,8809,Copacabana,220002-000,RJ,163.67,83.57
+120,Bernelle,Blest,1979-08-05 06:13:22.143596,Feminino,bblest3b@gmail.com,Não,476-644-8612,Não,Não,179-294-0432,Lunder,92021,Tijuca,205009-000,RJ,340.58,27.03
+121,Bert,Minkin,1993-12-06 06:13:22.143596,Masculino,bminkin3c@gmail.com,Não,606-510-7381,Não,Não,781-463-1900,Blue Bill Park,982,Copacabana,220006-000,RJ,125.41,23.86
+122,Geoff,Thomton,1978-06-12 06:13:22.143596,Masculino,gthomton3d@gmail.com,Sim,494-149-3257,Não,Não,724-793-1242,Mallard,43,Copacabana,220002-000,RJ,181.51,66.01
+123,Hamlin,Rosterne,1966-04-01 06:13:22.143596,Masculino,hrosterne3e@gmail.com,Sim,889-671-9262,Não,Não,322-934-0330,John Wall,3640,Barra da Tijuca,226002-000,RJ,283.35,86.2
+124,Tyrus,Casswell,1967-06-03 06:13:22.143596,Masculino,tcasswell3f@hotmail.com,Não,960-566-1512,Sim,Sim,789-743-2740,Shelley,3568,Tijuca,205003-000,RJ,475.16,42.7
+125,Weidar,Kinworthy,1974-01-19 06:13:22.143596,Masculino,wkinworthy3g@gmail.com,Sim,808-481-5294,Não,Sim,904-371-3111,Knutson,63540,Barra da Tijuca,226003-000,RJ,459.93,90.23
+126,Netty,Zeal,1995-02-26 06:13:22.143596,Feminino,nzeal3h@hotmail.com,Sim,345-549-7753,Sim,Não,451-946-4727,Cordelia,733,Copacabana,220005-000,RJ,274.08,75.33
+127,Case,Goodlip,1964-07-26 06:13:22.143596,Masculino,cgoodlip3i@hotmail.com,Sim,688-919-6212,Não,Sim,474-110-7348,Fair Oaks,4,Barra da Tijuca,226008-000,RJ,341.68,59.28
+128,Carrie,McAlarney,1995-03-13 06:13:22.143596,Feminino,cmcalarney3j@gmail.com,Não,892-377-9039,Sim,Sim,283-350-3956,Green Ridge,4,Tijuca,205004-000,RJ,308.79,34.06
+129,Jacqueline,Peattie,1988-12-23 06:13:22.143596,Feminino,jpeattie3k@gmail.com,Sim,336-455-5523,Sim,Sim,422-444-2416,Blackbird,333,Copacabana,220003-000,RJ,249.93,1.8
+130,Patricia,Hensmans,1986-05-17 06:13:22.143596,Outros,phensmans3l@hotmail.com,Sim,871-818-3855,Sim,Não,992-621-9893,Hayes,8090,Copacabana,220005-000,RJ,132.07,68.53
+131,Sigismund,O'Hengerty,1978-07-24 06:13:22.143596,Masculino,sohengerty3m@gmail.com,Sim,668-207-2528,Sim,Não,679-235-3515,Laurel,8124,Copacabana,220008-000,RJ,364.85,64.16
+132,Gisella,Goldes,1961-03-14 06:13:22.143596,Feminino,ggoldes3n@gmail.com,Não,850-315-8616,Não,Não,750-694-0938,Buell,423,Tijuca,205007-000,RJ,489.86,92.49
+133,Glyn,Kirtland,1981-12-25 06:13:22.143596,Masculino,gkirtland3o@gmail.com,Não,376-778-3684,Não,Sim,140-485-3717,Division,404,Copacabana,220002-000,RJ,425.47,15.81
+134,Bailey,Fairley,1968-08-01 06:13:22.143596,Outros,bfairley3p@hotmail.com,Sim,684-178-1094,Não,Sim,616-536-3678,Farragut,953,Tijuca,205006-000,RJ,430.47,26.03
+135,Sibbie,Cars,2007-08-12 06:13:22.143596,Feminino,scars3q@gmail.com,Não,700-253-1166,Não,Não,179-105-4196,Fulton,716,Copacabana,220004-000,RJ,345.58,75.66
+136,Blayne,Greed,1975-02-13 06:13:22.143596,Masculino,bgreed3r@hotmail.com,Sim,947-697-0032,Sim,Sim,766-466-0136,Vahlen,51118,Tijuca,205001-000,RJ,263.19,95.45
+137,Bernete,Pirkis,1993-07-22 06:13:22.143596,Feminino,bpirkis3s@hotmail.com,Sim,661-672-0531,Sim,Sim,399-553-2337,Daystar,85210,Tijuca,205002-000,RJ,235.19,54.69
+138,Renelle,Cowle,1961-10-03 06:13:22.143596,Feminino,rcowle3t@hotmail.com,Sim,351-349-1551,Sim,Não,520-487-8655,Memorial,131,Copacabana,220008-000,RJ,164.97,48.52
+139,Benoit,Fochs,1981-03-16 06:13:22.143596,Masculino,bfochs3u@gmail.com,Sim,568-891-5373,Sim,Não,538-854-1620,West,8,Copacabana,220004-000,RJ,421.37,56.37
+140,Dru,Maciaszek,1973-12-22 06:13:22.143596,Outros,dmaciaszek3v@hotmail.com,Sim,998-307-8451,Sim,Não,323-421-7197,Park Meadow,6,Copacabana,220001-000,RJ,69.95,28.41
+141,Richardo,Scriviner,1983-08-06 06:13:22.143596,Masculino,rscriviner3w@hotmail.com,Sim,217-372-8969,Não,Não,997-393-7075,Everett,442,Tijuca,205002-000,RJ,473.93,60.58
+142,Derry,Gerrish,1997-04-22 06:13:22.143596,Masculino,dgerrish3x@hotmail.com,Não,736-556-9726,Sim,Sim,517-921-5397,Jenna,3,Tijuca,205005-000,RJ,52.6,61.2
+143,Genovera,Bartos,1995-03-25 06:13:22.143596,Feminino,gbartos3y@gmail.com,Sim,797-606-6782,Sim,Não,154-523-6540,Hoepker,49790,Tijuca,205004-000,RJ,168.52,14.74
+144,Marie-jeanne,Cobbold,1995-02-02 06:13:22.143596,Feminino,mcobbold3z@hotmail.com,Não,806-959-4015,Não,Sim,153-337-9037,Muir,84414,Copacabana,220009-000,RJ,233.26,10.6
+145,Town,Trustram,1963-08-23 06:13:22.143596,Masculino,ttrustram40@hotmail.com,Não,637-786-4104,Não,Sim,801-517-3671,Fallview,57321,Copacabana,220003-000,RJ,329.05,51.01
+146,Salomone,Ipsley,1974-06-01 06:13:22.143596,Masculino,sipsley41@hotmail.com,Sim,739-862-9384,Sim,Sim,585-669-7480,Bay,6,Copacabana,220003-000,RJ,335.88,24.31
+147,Asa,Rackley,1977-08-18 06:13:22.143596,Masculino,arackley42@gmail.com,Sim,913-993-7218,Sim,Não,359-393-0024,Prairieview,6605,Tijuca,205009-000,RJ,418.05,97.51
+148,Diego,Thieme,1965-03-09 06:13:22.143596,Outros,dthieme43@hotmail.com,Não,627-210-7802,Não,Não,509-641-9224,Mandrake,467,Barra da Tijuca,226003-000,RJ,128.98,69.51
+149,Abbi,Pauncefoot,1972-03-10 06:13:22.143596,Feminino,apauncefoot44@hotmail.com,Não,180-413-8508,Sim,Sim,734-360-3384,Lakewood Gardens,2,Copacabana,220004-000,RJ,315.05,94.24
+150,Mildrid,Cattermole,1968-07-26 06:13:22.143596,Feminino,mcattermole45@hotmail.com,Não,408-846-6312,Não,Sim,634-734-4006,Becker,22,Barra da Tijuca,226002-000,RJ,409.35,67.82
+151,Willem,Plank,2005-03-10 06:13:22.143596,Outros,wplank46@gmail.com,Sim,732-938-3880,Não,Não,605-711-0248,Vernon,83,Barra da Tijuca,226003-000,RJ,197.93,82.4
+152,Maryanna,Calafate,2000-09-10 06:13:22.143596,Feminino,mcalafate47@gmail.com,Não,865-756-8900,Sim,Não,990-164-2213,David,60,Barra da Tijuca,226002-000,RJ,278.49,33.2
+153,Klement,Collett,2007-06-09 06:13:22.143596,Masculino,kcollett48@hotmail.com,Não,645-351-7588,Sim,Sim,431-426-4261,Division,240,Copacabana,220005-000,RJ,487.99,56.84
+154,Haley,McCloid,1990-02-20 06:13:22.143596,Outros,hmccloid49@hotmail.com,Sim,981-694-8424,Não,Sim,270-322-3616,Troy,363,Tijuca,205001-000,RJ,219.48,86.61
+155,Elene,Eronie,1978-11-27 06:13:22.143596,Feminino,eeronie4a@gmail.com,Sim,387-274-9878,Não,Não,998-378-1826,Muir,354,Tijuca,205003-000,RJ,147.68,0.3
+156,Buffy,Ledwith,1992-01-20 06:13:22.143596,Feminino,bledwith4b@gmail.com,Não,377-550-2558,Sim,Não,749-168-0943,Meadow Vale,527,Tijuca,205001-000,RJ,148.31,6.76
+157,Jillene,Lidell,1979-09-12 06:13:22.143596,Feminino,jlidell4c@gmail.com,Não,569-396-1884,Sim,Sim,579-982-9401,Nelson,30,Tijuca,205002-000,RJ,145.13,4.56
+158,Demetri,Struys,1965-01-27 06:13:22.143596,Masculino,dstruys4d@gmail.com,Não,220-158-5240,Sim,Sim,626-159-9958,Maple Wood,87,Barra da Tijuca,226009-000,RJ,150.17,42.56
+159,Lin,Woolvin,1963-09-15 06:13:22.143596,Feminino,lwoolvin4e@hotmail.com,Não,594-926-1544,Sim,Sim,198-476-1707,Sundown,0,Copacabana,220002-000,RJ,128.09,55.53
+160,Rita,Chowne,1984-10-16 06:13:22.143596,Feminino,rchowne4f@hotmail.com,Sim,193-569-2123,Sim,Não,161-825-2597,North,698,Tijuca,205003-000,RJ,465.05,98.31
+161,Lammond,Corcoran,2004-09-30 06:13:22.143596,Masculino,lcorcoran4g@hotmail.com,Sim,952-473-7168,Não,Não,941-189-8388,Birchwood,841,Tijuca,205005-000,RJ,448.83,34.68
+162,Sandie,Ineson,1966-10-13 06:13:22.143596,Feminino,sineson4h@gmail.com,Sim,859-699-3165,Sim,Não,126-671-2762,Tony,4,Tijuca,205007-000,RJ,410.5,50.85
+163,Conney,Burgis,1976-02-04 06:13:22.143596,Masculino,cburgis4i@gmail.com,Sim,183-462-6120,Não,Não,538-907-4668,Straubel,63621,Copacabana,220003-000,RJ,385.39,21.8
+164,Ulrick,Momery,2002-11-27 06:13:22.143596,Masculino,umomery4j@gmail.com,Sim,530-501-4203,Sim,Não,595-755-4663,Atwood,8,Copacabana,220001-000,RJ,402.19,38.22
+165,Boycey,Al Hirsi,1986-05-25 06:13:22.143596,Masculino,balhirsi4k@gmail.com,Sim,945-751-9679,Sim,Sim,889-235-0531,Brickson Park,24,Barra da Tijuca,226006-000,RJ,408.94,27.9
+166,Cirilo,Light,1999-05-27 06:13:22.143596,Masculino,clight4l@hotmail.com,Sim,148-272-9517,Sim,Não,183-102-5600,Shelley,4634,Copacabana,220002-000,RJ,162.46,97.98
+167,Kellsie,Ludlom,1974-10-15 06:13:22.143596,Feminino,kludlom4m@gmail.com,Sim,671-310-8284,Sim,Sim,527-728-8051,Rutledge,33,Barra da Tijuca,226009-000,RJ,376.94,62.36
+168,Estel,Billborough,2007-02-21 06:13:22.143596,Feminino,ebillborough4n@hotmail.com,Sim,171-593-9676,Não,Sim,888-782-1484,Erie,3,Barra da Tijuca,226009-000,RJ,452.35,27.43
+169,Emelda,Roskilly,2000-04-05 06:13:22.143596,Feminino,eroskilly4o@hotmail.com,Não,121-746-8434,Sim,Sim,452-136-9295,Reinke,2,Barra da Tijuca,226006-000,RJ,324.44,88.32
+170,Leif,Yeeles,1974-09-30 06:13:22.143596,Masculino,lyeeles4p@hotmail.com,Sim,596-743-7282,Não,Não,185-554-9031,Jenna,93741,Barra da Tijuca,226001-000,RJ,490.29,4.56
+171,Amata,Callicott,1995-07-04 06:13:22.143596,Feminino,acallicott4q@hotmail.com,Não,917-213-3371,Sim,Não,997-351-4885,Fulton,2,Barra da Tijuca,226003-000,RJ,484.55,4.2
+172,Frederic,McCrea,1977-06-15 06:13:22.143596,Masculino,fmccrea4r@hotmail.com,Não,932-555-3002,Não,Sim,739-974-0669,Talmadge,549,Barra da Tijuca,226006-000,RJ,245.39,3.72
+173,Zack,Turl,1996-12-02 06:13:22.143596,Masculino,zturl4s@gmail.com,Sim,976-491-9861,Sim,Sim,515-796-8874,Grayhawk,40101,Copacabana,220007-000,RJ,458.82,16.28
+174,Erich,China,1988-08-25 06:13:22.143596,Masculino,echina4t@gmail.com,Não,314-335-0613,Não,Sim,461-552-4133,Basil,6800,Barra da Tijuca,226006-000,RJ,97.84,27.51
+175,Kora,Sleney,1972-03-25 06:13:22.143596,Feminino,ksleney4u@gmail.com,Não,976-405-1768,Não,Não,794-350-0478,Coolidge,5,Copacabana,220005-000,RJ,137.49,98.95
+176,Kerri,Khomishin,1962-10-12 06:13:22.143596,Outros,kkhomishin4v@gmail.com,Não,740-148-6987,Sim,Não,482-128-2430,Paget,83,Barra da Tijuca,226002-000,RJ,283.93,63.13
+177,Berny,Yard,1971-02-16 06:13:22.143596,Masculino,byard4w@hotmail.com,Sim,148-841-2854,Sim,Sim,136-406-6862,Monica,0,Tijuca,205002-000,RJ,384.85,30.19
+178,Ronni,Campion,1975-12-11 06:13:22.143596,Feminino,rcampion4x@hotmail.com,Não,579-358-7164,Sim,Não,509-600-1292,Claremont,3,Barra da Tijuca,226009-000,RJ,332.19,90.69
+179,Simmonds,McClean,1987-12-07 06:13:22.143596,Masculino,smcclean4y@gmail.com,Não,383-143-9464,Não,Sim,181-860-9622,Superior,704,Barra da Tijuca,226009-000,RJ,343.44,52.48
+180,Terencio,Shearsby,1975-01-07 06:13:22.143596,Masculino,tshearsby4z@gmail.com,Não,647-239-4349,Sim,Sim,207-924-3635,International,67,Barra da Tijuca,226001-000,RJ,227.44,26.0
+181,Herb,Greggs,1962-10-31 06:13:22.143596,Masculino,hgreggs50@gmail.com,Não,242-587-2779,Sim,Não,506-383-9062,Marquette,2,Copacabana,220004-000,RJ,442.71,79.8
+182,Bernadette,Hilley,1989-04-14 06:13:22.143596,Feminino,bhilley51@hotmail.com,Não,294-966-9677,Não,Não,702-117-1100,Caliangt,711,Tijuca,205006-000,RJ,141.52,62.76
+183,Lorrie,Egglestone,1998-10-07 06:13:22.143596,Masculino,legglestone52@gmail.com,Não,219-755-1096,Não,Sim,271-505-7738,Mosinee,51234,Barra da Tijuca,226005-000,RJ,387.13,6.79
+184,Kelby,Pettengell,1975-03-05 06:13:22.143596,Masculino,kpettengell53@gmail.com,Sim,753-810-9950,Sim,Sim,670-823-2409,Red Cloud,2602,Tijuca,205005-000,RJ,55.84,24.09
+185,Erastus,Montford,2001-02-12 06:13:22.143596,Masculino,emontford54@hotmail.com,Sim,174-326-5497,Não,Sim,113-958-8910,Melvin,837,Copacabana,220008-000,RJ,90.72,10.2
+186,Vassily,Keyme,1987-05-24 06:13:22.143596,Masculino,vkeyme55@gmail.com,Sim,406-126-0990,Não,Sim,887-820-5131,Knutson,73462,Barra da Tijuca,226005-000,RJ,308.96,47.18
+187,Megen,Suthworth,2005-09-13 06:13:22.143596,Outros,msuthworth56@hotmail.com,Não,409-155-1323,Sim,Sim,389-825-1918,Glacier Hill,81031,Tijuca,205009-000,RJ,410.62,60.9
+188,Virgil,Daile,1972-01-11 06:13:22.143596,Masculino,vdaile57@hotmail.com,Sim,535-781-0513,Não,Não,942-114-2992,Menomonie,52,Barra da Tijuca,226006-000,RJ,316.75,45.26
+189,Cynthie,Spurden,1985-06-17 06:13:22.143596,Feminino,cspurden58@gmail.com,Sim,512-276-7694,Não,Não,192-558-8945,North,2,Barra da Tijuca,226003-000,RJ,302.18,8.92
+190,Hagen,Baseley,1986-07-06 06:13:22.143596,Masculino,hbaseley59@gmail.com,Sim,972-310-5494,Sim,Não,312-645-7843,Gateway,3932,Barra da Tijuca,226008-000,RJ,422.72,61.06
+191,Urson,Denton,1975-06-29 06:13:22.143596,Masculino,udenton5a@hotmail.com,Sim,747-484-9227,Não,Sim,915-883-5428,Rutledge,83676,Barra da Tijuca,226005-000,RJ,347.42,68.83
+192,Waylon,Dartnell,1993-03-09 06:13:22.143596,Masculino,wdartnell5b@gmail.com,Sim,776-578-4234,Não,Sim,765-545-4450,Birchwood,37268,Copacabana,220006-000,RJ,251.38,22.62
+193,Bekki,Cuttell,1987-10-03 06:13:22.143596,Feminino,bcuttell5c@hotmail.com,Sim,305-689-1785,Sim,Sim,573-678-9328,Merchant,4,Barra da Tijuca,226006-000,RJ,467.87,51.88
+194,Gordon,Nanetti,1978-02-14 06:13:22.143596,Masculino,gnanetti5d@gmail.com,Sim,702-814-6413,Não,Sim,357-751-3584,Marcy,6655,Barra da Tijuca,226001-000,RJ,305.96,65.34
+195,Dennis,Franz-Schoninger,1993-06-16 06:13:22.143596,Masculino,dfranzschoninger5e@gmail.com,Sim,507-577-3412,Sim,Não,322-108-8210,International,6129,Barra da Tijuca,226001-000,RJ,261.25,88.13
+196,Nikola,Lyver,1968-11-18 06:13:22.143596,Outros,nlyver5f@gmail.com,Sim,882-558-3679,Sim,Não,686-386-6016,Westridge,94507,Copacabana,220008-000,RJ,241.62,59.16
+197,Mandy,Rayne,1983-11-13 06:13:22.143596,Feminino,mrayne5g@gmail.com,Não,968-286-3823,Sim,Não,104-525-0035,Mallard,59,Tijuca,205001-000,RJ,272.9,69.83
+198,Hoebart,Shapira,1966-02-06 06:13:22.143596,Masculino,hshapira5h@hotmail.com,Não,494-211-0571,Sim,Não,126-907-5974,Fairfield,105,Copacabana,220008-000,RJ,350.06,49.89
+199,Kailey,Baise,1994-10-31 06:13:22.143596,Feminino,kbaise5i@hotmail.com,Sim,485-763-1883,Sim,Sim,621-837-9781,Jay,0,Barra da Tijuca,226008-000,RJ,183.18,58.87
+200,Thoma,Justis,1993-10-31 06:13:22.143596,Masculino,tjustis5j@hotmail.com,Não,390-265-6662,Sim,Não,824-938-4633,Gateway,4575,Copacabana,220007-000,RJ,134.71,61.3
+201,Bo,Glanders,1975-03-01 06:13:22.143596,Masculino,bglanders5k@gmail.com,Sim,239-970-8261,Não,Não,111-985-5672,Superior,4,Barra da Tijuca,226005-000,RJ,342.3,19.86
+202,Rorke,Benford,1999-08-26 06:13:22.143596,Masculino,rbenford5l@hotmail.com,Não,274-778-7135,Não,Sim,709-805-4640,Troy,13,Copacabana,220001-000,RJ,63.94,76.55
+203,Brinn,Orwin,2005-03-04 06:13:22.143596,Feminino,borwin5m@hotmail.com,Sim,124-545-5759,Não,Sim,772-299-0656,Sachs,417,Copacabana,220006-000,RJ,285.26,38.53
+204,Arly,Camous,1966-09-25 06:13:22.143596,Outros,acamous5n@hotmail.com,Sim,814-771-5070,Não,Sim,579-504-3585,Gateway,17,Barra da Tijuca,226009-000,RJ,465.81,2.4
+205,Ulla,Wills,1984-08-30 06:13:22.143596,Feminino,uwills5o@hotmail.com,Sim,977-918-1398,Sim,Sim,475-332-4661,Forest Dale,661,Tijuca,205009-000,RJ,293.58,42.46
+206,Alonso,Caudell,1990-09-18 06:13:22.143596,Masculino,acaudell5p@hotmail.com,Não,952-327-1925,Sim,Sim,706-550-0627,Farragut,536,Tijuca,205001-000,RJ,98.3,83.26
+207,Cherey,Noulton,1975-10-23 06:13:22.143596,Feminino,cnoulton5q@gmail.com,Sim,124-185-5592,Não,Não,983-825-0521,Iowa,33,Tijuca,205007-000,RJ,146.99,87.0
+208,Siusan,Huzzey,1977-05-09 06:13:22.143596,Feminino,shuzzey5r@gmail.com,Sim,381-216-5789,Não,Sim,330-529-1323,Ohio,2,Tijuca,205003-000,RJ,438.5,89.37
+209,Priscella,Cabral,1966-02-05 06:13:22.143596,Feminino,pcabral5s@hotmail.com,Não,918-163-7937,Não,Sim,751-296-9692,Corry,73,Barra da Tijuca,226002-000,RJ,334.15,34.62
+210,Addie,Eltune,1977-12-24 06:13:22.143596,Feminino,aeltune5t@hotmail.com,Sim,475-497-2910,Não,Não,543-616-5266,Continental,3190,Copacabana,220009-000,RJ,373.15,16.42
+211,Lock,Mudle,2000-02-01 06:13:22.143596,Masculino,lmudle5u@hotmail.com,Não,516-606-4515,Não,Não,101-672-0333,Blackbird,5023,Copacabana,220008-000,RJ,484.84,31.42
+212,Delcina,Martindale,2000-06-17 06:13:22.143596,Feminino,dmartindale5v@hotmail.com,Sim,318-144-7868,Não,Não,183-534-5910,Shelley,1,Barra da Tijuca,226001-000,RJ,395.73,53.49
+213,Gallard,Teenan,1981-08-28 06:13:22.143596,Masculino,gteenan5w@gmail.com,Não,416-128-4042,Sim,Não,533-550-1186,Prentice,88,Copacabana,220006-000,RJ,423.84,49.2
+214,Maryellen,Korf,1963-03-13 06:13:22.143596,Feminino,mkorf5x@gmail.com,Não,847-906-8336,Sim,Sim,566-281-7893,7th,5,Copacabana,220002-000,RJ,100.72,89.99
+215,Jeanette,Arderne,1995-11-07 06:13:22.143596,Outros,jarderne5y@hotmail.com,Não,427-559-8823,Não,Sim,310-983-1563,Larry,610,Tijuca,205007-000,RJ,59.12,91.54
+216,Octavius,Bothe,1990-07-15 06:13:22.143596,Masculino,obothe5z@hotmail.com,Sim,235-276-6617,Sim,Sim,199-428-8864,Thackeray,9837,Tijuca,205001-000,RJ,135.05,98.95
+217,Geraldine,Garrat,1974-12-11 06:13:22.143596,Feminino,ggarrat60@hotmail.com,Sim,680-309-0056,Sim,Não,286-271-5462,Bartelt,21635,Tijuca,205009-000,RJ,456.4,63.13
+218,Ardis,Frape,2000-08-25 06:13:22.143596,Outros,afrape61@hotmail.com,Sim,566-545-6622,Não,Sim,476-434-0503,Novick,62,Tijuca,205008-000,RJ,329.38,23.84
+219,Byron,MacCoveney,1988-07-09 06:13:22.143596,Masculino,bmaccoveney62@gmail.com,Sim,262-650-5993,Não,Sim,727-815-9471,Killdeer,9959,Tijuca,205002-000,RJ,55.0,26.84
+220,Tyrus,Gravestone,1985-12-17 06:13:22.143596,Masculino,tgravestone63@gmail.com,Sim,431-232-3665,Não,Não,982-553-1442,Lakeland,4881,Barra da Tijuca,226005-000,RJ,237.02,37.91
+221,Farrand,Seaward,1993-08-29 06:13:22.143596,Outros,fseaward64@hotmail.com,Sim,959-278-6901,Não,Sim,750-957-0549,Clarendon,688,Tijuca,205001-000,RJ,385.15,55.28
+222,Nerissa,Mulran,1987-06-06 06:13:22.143596,Feminino,nmulran65@hotmail.com,Não,796-702-7709,Sim,Não,644-769-7184,Kings,8,Barra da Tijuca,226002-000,RJ,219.69,82.87
+223,Torrance,Clowley,1989-08-09 06:13:22.143596,Masculino,tclowley66@gmail.com,Não,699-120-0143,Não,Sim,749-166-8808,Milwaukee,4,Barra da Tijuca,226002-000,RJ,486.97,59.9
+224,Verna,Riby,1972-12-13 06:13:22.143596,Feminino,vriby67@gmail.com,Não,424-747-6544,Sim,Sim,890-660-9344,Pawling,5,Tijuca,205006-000,RJ,106.47,10.68
+225,Vergil,Jaeggi,1967-07-15 06:13:22.143596,Masculino,vjaeggi68@hotmail.com,Sim,143-663-2190,Não,Sim,321-916-2426,Carpenter,105,Copacabana,220006-000,RJ,335.71,73.04
+226,Madge,Gilffilland,2002-04-18 06:13:22.143596,Feminino,mgilffilland69@hotmail.com,Não,403-860-2237,Não,Não,234-879-7068,Sutherland,12130,Tijuca,205009-000,RJ,138.66,32.65
+227,Tisha,Macauley,2001-11-01 06:13:22.143596,Feminino,tmacauley6a@hotmail.com,Não,675-732-5252,Não,Não,532-633-4905,Shasta,31483,Tijuca,205005-000,RJ,486.32,57.69
+228,Nehemiah,Baldelli,1996-08-04 06:13:22.143596,Outros,nbaldelli6b@hotmail.com,Não,464-311-2312,Não,Não,343-655-0370,Express,86810,Barra da Tijuca,226004-000,RJ,242.68,97.98
+229,Janna,Polk,1987-07-06 06:13:22.143596,Outros,jpolk6c@gmail.com,Sim,503-274-2500,Sim,Sim,810-816-7051,Melody,80974,Tijuca,205008-000,RJ,137.17,59.2
+230,Flin,Sabatier,1999-03-17 06:13:22.143596,Masculino,fsabatier6d@gmail.com,Não,691-281-0928,Sim,Não,526-363-4114,Morrow,55,Copacabana,220004-000,RJ,347.3,39.15
+231,Chrystal,Hallick,1991-09-09 06:13:22.143596,Feminino,challick6e@hotmail.com,Sim,156-493-3705,Sim,Não,924-437-4749,Spohn,5,Tijuca,205005-000,RJ,174.37,5.45
+232,Steffie,Grigoli,1961-08-15 06:13:22.143596,Feminino,sgrigoli6f@hotmail.com,Não,411-513-0796,Sim,Sim,753-913-5294,Tony,0,Copacabana,220001-000,RJ,68.82,38.52
+233,Audrie,Simkiss,1985-12-04 06:13:22.143596,Feminino,asimkiss6g@hotmail.com,Não,564-382-7230,Sim,Sim,797-434-5899,Troy,305,Copacabana,220001-000,RJ,159.23,26.59
+234,Torin,Strachan,2001-03-29 06:13:22.143596,Masculino,tstrachan6h@hotmail.com,Não,388-176-3704,Sim,Sim,502-127-4553,Bobwhite,22,Copacabana,220008-000,RJ,134.48,63.49
+235,Myrwyn,Rubinfeld,1978-01-01 06:13:22.143596,Masculino,mrubinfeld6i@gmail.com,Sim,355-455-8939,Não,Sim,682-143-1366,Cottonwood,102,Copacabana,220001-000,RJ,183.07,50.47
+236,Burt,Bedberry,1976-12-27 06:13:22.143596,Masculino,bbedberry6j@gmail.com,Sim,308-776-9396,Não,Sim,553-749-3982,International,59718,Tijuca,205004-000,RJ,294.67,59.82
+237,Gregor,Weekly,1979-02-07 06:13:22.143596,Masculino,gweekly6k@gmail.com,Não,831-595-7802,Sim,Não,821-660-4257,Jay,42530,Barra da Tijuca,226009-000,RJ,274.91,32.97
+238,Miranda,Truckell,1971-01-24 06:13:22.143596,Feminino,mtruckell6l@gmail.com,Sim,485-994-6536,Não,Sim,863-782-4128,Comanche,9,Tijuca,205002-000,RJ,269.14,90.99
+239,Shandee,Varnals,1987-12-28 06:13:22.143596,Feminino,svarnals6m@gmail.com,Não,944-952-6306,Não,Sim,666-236-8203,Mifflin,1311,Barra da Tijuca,226004-000,RJ,107.79,63.53
+240,Brittne,Duddle,2002-01-03 06:13:22.143596,Feminino,bduddle6n@gmail.com,Sim,633-244-8008,Não,Sim,913-131-2674,Rieder,8042,Copacabana,220002-000,RJ,136.11,37.63
+241,Tess,Pauluzzi,1963-03-22 06:13:22.143596,Feminino,tpauluzzi6o@hotmail.com,Sim,504-612-8210,Não,Sim,181-921-0496,Mifflin,265,Copacabana,220008-000,RJ,420.46,78.07
+242,Matthiew,Burstowe,1962-04-10 06:13:22.143596,Masculino,mburstowe6p@hotmail.com,Não,395-918-0006,Não,Não,627-345-2968,Graedel,61,Tijuca,205004-000,RJ,78.13,47.53
+243,Britta,McShea,1979-10-11 06:13:22.143596,Feminino,bmcshea6q@gmail.com,Não,996-224-5750,Não,Não,635-562-3209,Holy Cross,46596,Copacabana,220001-000,RJ,467.5,17.64
+244,Tory,Bailes,2003-01-19 06:13:22.143596,Outros,tbailes6r@hotmail.com,Não,967-853-6615,Não,Não,847-259-6442,Norway Maple,8871,Tijuca,205005-000,RJ,276.15,75.55
+245,Laryssa,Roubeix,1993-04-17 06:13:22.143596,Feminino,lroubeix6s@hotmail.com,Sim,496-662-9520,Não,Não,750-979-0235,Moose,885,Copacabana,220006-000,RJ,90.02,63.94
+246,Marsh,Ivanitsa,2003-04-30 06:13:22.143596,Masculino,mivanitsa6t@hotmail.com,Não,502-822-4358,Sim,Não,278-356-6955,Iowa,662,Barra da Tijuca,226001-000,RJ,268.28,13.24
+247,Clare,Elintune,1998-10-30 06:13:22.143596,Feminino,celintune6u@hotmail.com,Sim,751-410-6931,Não,Sim,863-985-5565,Stuart,873,Barra da Tijuca,226009-000,RJ,65.74,38.47
+248,Whittaker,Whawell,1966-05-24 06:13:22.143596,Masculino,wwhawell6v@gmail.com,Sim,608-751-3222,Não,Sim,230-214-2366,Surrey,8,Barra da Tijuca,226008-000,RJ,342.4,64.91
+249,Bail,Quadri,2005-06-05 06:13:22.143596,Masculino,bquadri6w@gmail.com,Sim,915-822-6342,Não,Não,960-736-1582,Hermina,9916,Copacabana,220002-000,RJ,138.84,84.61
+250,Madge,Brundill,1987-03-19 06:13:22.143596,Outros,mbrundill6x@hotmail.com,Sim,369-796-6791,Sim,Não,686-932-8014,Express,1,Tijuca,205003-000,RJ,451.96,71.93
+251,Waylen,Islep,1963-07-04 06:13:22.143596,Masculino,wislep6y@hotmail.com,Sim,792-156-1515,Sim,Não,510-573-7296,Lake View,59,Tijuca,205009-000,RJ,366.42,68.02
+252,Germaine,MacFadzan,2001-06-30 06:13:22.143596,Outros,gmacfadzan6z@hotmail.com,Sim,938-910-1783,Sim,Não,411-998-6307,Larry,13,Barra da Tijuca,226009-000,RJ,138.23,19.15
+253,Lizzy,Presnail,1990-03-21 06:13:22.143596,Feminino,lpresnail70@hotmail.com,Não,294-275-4957,Não,Sim,872-488-9571,Mockingbird,89,Tijuca,205007-000,RJ,448.92,41.99
+254,Lorry,Baus,1964-07-15 06:13:22.143596,Masculino,lbaus71@hotmail.com,Sim,602-991-8247,Não,Não,337-336-6885,Brickson Park,18,Barra da Tijuca,226004-000,RJ,394.86,77.69
+255,Ephraim,Henkens,1967-07-19 06:13:22.143596,Masculino,ehenkens72@hotmail.com,Não,117-491-0972,Não,Não,387-552-3657,Annamark,91,Barra da Tijuca,226007-000,RJ,179.43,94.01
+256,Mariya,Geldart,1965-01-07 06:13:22.143596,Feminino,mgeldart73@hotmail.com,Não,626-369-3505,Não,Sim,346-590-4655,Farragut,9,Barra da Tijuca,226004-000,RJ,120.56,63.33
+257,Hertha,Dennistoun,2006-04-19 06:13:22.143596,Feminino,hdennistoun74@hotmail.com,Não,447-302-1697,Não,Sim,822-411-6382,6th,4,Copacabana,220003-000,RJ,490.0,19.78
+258,Henderson,Perford,1969-12-08 06:13:22.143596,Masculino,hperford75@gmail.com,Sim,761-357-8384,Sim,Sim,616-982-9684,Roth,4128,Tijuca,205004-000,RJ,441.33,68.09
+259,Cully,Gibb,1999-08-22 06:13:22.143596,Masculino,cgibb76@hotmail.com,Sim,521-499-4022,Não,Não,723-101-1578,Rusk,70867,Copacabana,220002-000,RJ,66.99,43.62
+260,Donna,Georg,1982-01-06 06:13:22.143596,Feminino,dgeorg77@hotmail.com,Sim,186-968-6506,Não,Não,966-836-7529,Paget,265,Barra da Tijuca,226006-000,RJ,141.09,74.45
+261,Stephani,Brownsmith,2005-07-16 06:13:22.143596,Feminino,sbrownsmith78@gmail.com,Sim,737-507-6584,Não,Não,515-769-0251,Merry,5,Barra da Tijuca,226001-000,RJ,116.53,76.57
+262,Ross,Aucourte,1970-06-07 06:13:22.143596,Masculino,raucourte79@gmail.com,Sim,111-266-8736,Não,Sim,614-894-1490,Bay,44317,Copacabana,220001-000,RJ,220.17,19.73
+263,Claudio,Klarzynski,1988-04-08 06:13:22.143596,Masculino,cklarzynski7a@hotmail.com,Sim,502-870-4793,Sim,Não,414-252-0652,Pierstorff,917,Tijuca,205001-000,RJ,417.98,31.65
+264,Vally,Thieme,1969-08-07 06:13:22.143596,Feminino,vthieme7b@gmail.com,Não,506-511-9167,Sim,Não,151-122-5015,Bayside,62337,Barra da Tijuca,226005-000,RJ,283.19,6.34
+265,Hillier,O'Griffin,1993-04-04 06:13:22.143596,Masculino,hogriffin7c@gmail.com,Não,493-999-2821,Não,Não,977-796-3955,Rockefeller,76,Barra da Tijuca,226004-000,RJ,97.18,11.43
+266,Alexei,Gane,2005-06-27 06:13:22.143596,Masculino,agane7d@hotmail.com,Sim,702-775-8987,Não,Não,368-684-1367,Sauthoff,11,Tijuca,205001-000,RJ,303.92,51.06
+267,Esmeralda,Hartin,1996-02-06 06:13:22.143596,Feminino,ehartin7e@gmail.com,Sim,700-469-4008,Sim,Sim,743-588-8592,Porter,20419,Barra da Tijuca,226001-000,RJ,410.8,71.82
+268,Townsend,Castilla,1961-10-12 06:13:22.143596,Outros,tcastilla7f@gmail.com,Não,174-763-1316,Sim,Não,860-824-2852,Beilfuss,794,Copacabana,220009-000,RJ,300.84,10.83
+269,Amble,MacGragh,1970-07-30 06:13:22.143596,Masculino,amacgragh7g@hotmail.com,Não,862-393-0396,Não,Não,428-850-8841,Heffernan,48,Copacabana,220008-000,RJ,439.72,12.27
+270,Roger,Lowers,2004-09-26 06:13:22.143596,Masculino,rlowers7h@gmail.com,Sim,955-898-8599,Sim,Sim,974-100-1087,Superior,87,Copacabana,220001-000,RJ,240.71,32.45
+271,Clair,Leebetter,2006-09-19 06:13:22.143596,Masculino,cleebetter7i@hotmail.com,Não,542-141-2586,Sim,Não,747-759-7416,Grayhawk,485,Tijuca,205006-000,RJ,104.13,40.12
+272,Barbra,Eliasson,1964-12-11 06:13:22.143596,Feminino,beliasson7j@hotmail.com,Sim,892-306-8355,Não,Não,242-694-1653,Holy Cross,839,Copacabana,220006-000,RJ,243.75,7.95
+273,Lucius,Aleshkov,1994-10-05 06:13:22.143596,Masculino,laleshkov7k@gmail.com,Não,756-317-7456,Sim,Não,661-265-7065,Kings,197,Tijuca,205009-000,RJ,371.32,27.16
+274,Regan,Josephy,1996-12-14 06:13:22.143596,Masculino,rjosephy7l@hotmail.com,Não,402-162-0804,Sim,Sim,605-376-5680,Johnson,87,Barra da Tijuca,226002-000,RJ,483.26,18.08
+275,Reinold,Simla,1974-03-30 06:13:22.143596,Masculino,rsimla7m@hotmail.com,Sim,908-444-3503,Sim,Sim,982-355-5041,Ridgeview,61,Tijuca,205009-000,RJ,439.14,80.11
+276,Emanuele,Hovee,1985-04-12 06:13:22.143596,Outros,ehovee7n@gmail.com,Não,281-205-5545,Não,Não,105-728-3955,Farwell,1,Barra da Tijuca,226004-000,RJ,259.51,10.64
+277,Obidiah,McVicar,1976-09-11 06:13:22.143596,Masculino,omcvicar7o@hotmail.com,Não,771-139-4365,Sim,Sim,373-771-4188,Eliot,73,Copacabana,220005-000,RJ,194.25,17.8
+278,Jewel,Simmig,1997-12-22 06:13:22.143596,Feminino,jsimmig7p@hotmail.com,Não,281-154-7260,Não,Sim,417-198-2895,Rigney,88210,Tijuca,205004-000,RJ,136.77,77.34
+279,Junia,Conachy,1972-01-11 06:13:22.143596,Feminino,jconachy7q@hotmail.com,Não,208-164-4935,Sim,Sim,768-898-7496,Farwell,25559,Copacabana,220005-000,RJ,109.24,82.44
+280,Fraze,Barnson,1961-02-18 06:13:22.143596,Masculino,fbarnson7r@hotmail.com,Não,876-410-5037,Sim,Sim,427-224-1625,Oak,349,Copacabana,220006-000,RJ,311.1,56.53
+281,Waiter,Thiolier,1977-10-31 06:13:22.143596,Outros,wthiolier7s@gmail.com,Sim,650-443-9306,Sim,Não,976-628-7911,Fair Oaks,10365,Copacabana,220002-000,RJ,168.76,87.17
+282,Laurice,Saffrin,1981-07-13 06:13:22.143596,Feminino,lsaffrin7t@gmail.com,Sim,234-568-0184,Sim,Sim,226-325-8872,Oak Valley,2,Copacabana,220006-000,RJ,209.75,65.61
+283,Maurie,Dyble,1985-01-06 06:13:22.143596,Masculino,mdyble7u@hotmail.com,Sim,412-982-4438,Não,Não,479-667-6474,Bashford,46012,Copacabana,220006-000,RJ,88.79,66.45
+284,Amandie,Winpenny,1970-06-18 06:13:22.143596,Feminino,awinpenny7v@hotmail.com,Sim,370-400-1587,Sim,Sim,461-624-3366,Del Mar,43500,Barra da Tijuca,226003-000,RJ,382.49,72.32
+285,Abram,Kupker,2007-05-13 06:13:22.143596,Masculino,akupker7w@gmail.com,Sim,586-474-6941,Sim,Sim,429-565-8879,Manufacturers,283,Copacabana,220004-000,RJ,180.41,43.65
+286,Dyann,Jinkin,1961-02-19 06:13:22.143596,Feminino,djinkin7x@hotmail.com,Sim,864-801-8494,Não,Sim,366-533-3682,Grover,6,Barra da Tijuca,226005-000,RJ,246.74,55.62
+287,Lizzy,Vlasin,1964-04-04 06:13:22.143596,Feminino,lvlasin7y@hotmail.com,Sim,707-618-7193,Sim,Não,397-637-7042,Maywood,8,Copacabana,220009-000,RJ,486.31,88.8
+288,Tatiania,Edger,1961-08-20 06:13:22.143596,Feminino,tedger7z@hotmail.com,Não,558-360-8323,Sim,Não,451-701-7685,Lawn,8877,Tijuca,205004-000,RJ,132.22,93.1
+289,Chauncey,Webermann,2002-08-02 06:13:22.143596,Masculino,cwebermann80@gmail.com,Sim,256-244-6396,Não,Sim,966-530-0724,Pennsylvania,344,Tijuca,205004-000,RJ,287.59,99.5
+290,Zollie,Edmund,1986-07-29 06:13:22.143596,Masculino,zedmund81@hotmail.com,Não,364-357-6148,Não,Sim,370-803-4842,Susan,7,Barra da Tijuca,226001-000,RJ,243.06,67.37
+291,Koralle,Renny,1996-11-24 06:13:22.143596,Feminino,krenny82@gmail.com,Sim,598-604-5396,Sim,Sim,798-860-9236,Roxbury,5539,Tijuca,205006-000,RJ,107.89,0.1
+292,Gabi,Duckhouse,1974-10-28 06:13:22.143596,Feminino,gduckhouse83@gmail.com,Sim,401-841-5759,Sim,Não,911-320-0147,Sullivan,3,Tijuca,205001-000,RJ,490.28,6.05
+293,Alfonso,Musson,1964-12-26 06:13:22.143596,Masculino,amusson84@hotmail.com,Não,238-213-5098,Sim,Não,869-727-9010,Elgar,8,Tijuca,205009-000,RJ,117.34,76.71
+294,Demetris,Mollene,2005-07-03 06:13:22.143596,Feminino,dmollene85@hotmail.com,Não,770-376-7087,Sim,Não,878-823-5140,Norway Maple,62,Barra da Tijuca,226003-000,RJ,320.9,76.98
+295,Mariska,Kerr,1979-02-20 06:13:22.143596,Feminino,mkerr86@hotmail.com,Sim,832-338-7774,Não,Sim,585-990-4758,Anthes,3822,Barra da Tijuca,226006-000,RJ,273.4,43.15
+296,Jeremie,Larwood,1994-04-01 06:13:22.143596,Masculino,jlarwood87@gmail.com,Sim,894-676-6611,Sim,Sim,691-916-1778,Saint Paul,8,Tijuca,205009-000,RJ,282.18,40.51
+297,Leontine,Ranshaw,1996-04-23 06:13:22.143596,Feminino,lranshaw88@gmail.com,Não,351-959-9157,Não,Não,339-631-1447,Main,782,Tijuca,205003-000,RJ,331.12,66.16
+298,Nicolea,Loughhead,1992-02-14 06:13:22.143596,Feminino,nloughhead89@hotmail.com,Não,168-663-8419,Não,Não,382-858-2817,Pond,94349,Barra da Tijuca,226008-000,RJ,487.21,87.41
+299,Wallas,Pau,2003-09-23 06:13:22.143596,Masculino,wpau8a@gmail.com,Sim,470-128-5012,Sim,Não,181-811-8174,Granby,5517,Barra da Tijuca,226005-000,RJ,159.38,85.71
+300,Nathaniel,Tschirasche,1965-09-20 06:13:22.143596,Masculino,ntschirasche8b@gmail.com,Sim,365-720-0817,Sim,Não,820-877-6980,Scott,83201,Tijuca,205004-000,RJ,207.17,10.43
+301,Cass,Ficken,1992-05-30 06:13:22.143596,Masculino,cficken8c@gmail.com,Não,161-282-1534,Sim,Não,210-194-3637,Elmside,2982,Copacabana,220008-000,RJ,55.44,65.34
+302,Griffin,Scampion,1992-04-27 06:13:22.143596,Masculino,gscampion8d@gmail.com,Não,622-325-9201,Sim,Sim,912-430-0292,Burning Wood,3696,Copacabana,220007-000,RJ,492.17,44.32
+303,Thedric,Sloam,1974-02-14 06:13:22.143596,Masculino,tsloam8e@hotmail.com,Sim,277-306-9358,Sim,Sim,695-782-1120,Oak Valley,432,Copacabana,220003-000,RJ,135.45,66.38
+304,Roxane,Panas,1991-09-17 06:13:22.143596,Feminino,rpanas8f@hotmail.com,Sim,785-874-1932,Sim,Não,274-519-8474,Gerald,7468,Copacabana,220003-000,RJ,308.9,83.56
+305,Wendel,Gerrish,1973-06-15 06:13:22.143596,Masculino,wgerrish8g@gmail.com,Sim,817-569-6410,Sim,Sim,263-571-6999,Homewood,9777,Copacabana,220007-000,RJ,361.94,30.93
+306,Remus,Uman,2000-09-18 06:13:22.143596,Masculino,ruman8h@hotmail.com,Não,577-668-9199,Sim,Sim,205-778-4288,Mesta,13,Tijuca,205002-000,RJ,403.16,56.25
+307,Nichols,Heustice,1981-10-18 06:13:22.143596,Masculino,nheustice8i@gmail.com,Sim,554-534-9878,Sim,Não,822-383-7721,Lakewood Gardens,54,Tijuca,205001-000,RJ,230.06,53.78
+308,Christal,Storie,2001-02-05 06:13:22.143596,Feminino,cstorie8j@gmail.com,Não,615-654-4138,Sim,Não,843-916-4613,Steensland,71,Copacabana,220008-000,RJ,245.2,95.61
+309,Crichton,Menel,1989-08-13 06:13:22.143596,Masculino,cmenel8k@gmail.com,Não,947-402-2159,Sim,Sim,506-855-3481,Beilfuss,563,Barra da Tijuca,226003-000,RJ,390.57,52.08
+310,Vladamir,Clear,1976-11-27 06:13:22.143596,Masculino,vclear8l@hotmail.com,Não,176-912-3751,Sim,Sim,266-456-4757,Walton,60105,Barra da Tijuca,226008-000,RJ,67.34,25.61
+311,Koral,Buckerfield,1992-09-10 06:13:22.143596,Feminino,kbuckerfield8m@hotmail.com,Não,561-939-9471,Não,Não,422-416-9307,Dorton,822,Tijuca,205005-000,RJ,351.81,97.3
+312,Amberly,Korb,1987-05-09 06:13:22.143596,Outros,akorb8n@gmail.com,Não,660-638-8984,Não,Sim,634-725-8918,Surrey,9098,Tijuca,205007-000,RJ,63.3,63.7
+313,Star,Ellcome,1972-09-01 06:13:22.143596,Feminino,sellcome8o@hotmail.com,Sim,333-215-4677,Sim,Sim,723-836-1133,Crowley,29,Barra da Tijuca,226001-000,RJ,191.42,80.56
+314,Christean,Witheridge,2001-08-04 06:13:22.143596,Feminino,cwitheridge8p@gmail.com,Sim,668-829-2905,Sim,Não,706-654-9668,Springs,2,Tijuca,205001-000,RJ,432.44,60.66
+315,Katey,McConnal,1972-05-04 06:13:22.143596,Feminino,kmcconnal8q@hotmail.com,Não,237-590-6180,Sim,Não,202-845-1654,Canary,21,Copacabana,220008-000,RJ,295.47,9.62
+316,Nona,Rouge,1987-03-03 06:13:22.143596,Feminino,nrouge8r@hotmail.com,Não,206-113-5158,Sim,Não,799-144-5440,Montana,58279,Copacabana,220008-000,RJ,174.89,93.4
+317,Rahel,Provost,1966-08-30 06:13:22.143596,Feminino,rprovost8s@gmail.com,Não,342-526-5954,Não,Não,959-158-0982,Eastwood,0,Copacabana,220001-000,RJ,139.92,68.11
+318,Evvie,Minkin,1989-07-15 06:13:22.143596,Feminino,eminkin8t@hotmail.com,Não,557-413-4608,Sim,Não,675-240-9830,Shelley,1,Copacabana,220005-000,RJ,384.6,19.76
+319,Aubrey,Wormstone,1976-05-07 06:13:22.143596,Outros,awormstone8u@hotmail.com,Não,589-119-9047,Não,Sim,557-587-2164,Dixon,5,Tijuca,205007-000,RJ,314.04,77.08
+320,Eugene,Farloe,1989-12-11 06:13:22.143596,Outros,efarloe8v@hotmail.com,Sim,412-708-5160,Sim,Sim,853-833-0269,Carberry,7,Barra da Tijuca,226005-000,RJ,253.14,73.16
+321,Balduin,Korneichuk,1978-02-22 06:13:22.143596,Masculino,bkorneichuk8w@hotmail.com,Não,974-311-9072,Sim,Não,984-757-3134,Lerdahl,2757,Tijuca,205002-000,RJ,298.66,18.96
+322,Nealson,Rodolico,2006-01-29 06:13:22.143596,Masculino,nrodolico8x@hotmail.com,Sim,447-187-6723,Não,Não,816-600-4745,Bellgrove,395,Copacabana,220009-000,RJ,186.05,30.09
+323,Gloria,Dudbridge,1999-11-15 06:13:22.143596,Feminino,gdudbridge8y@hotmail.com,Sim,407-387-9885,Não,Não,850-443-3865,Jackson,88,Barra da Tijuca,226004-000,RJ,491.59,42.2
+324,Danica,Oakenfull,1997-06-14 06:13:22.143596,Feminino,doakenfull8z@hotmail.com,Não,447-303-2645,Não,Não,753-253-0793,Weeping Birch,557,Tijuca,205003-000,RJ,73.92,79.15
+325,Staffard,McEachern,1989-10-08 06:13:22.143596,Masculino,smceachern90@gmail.com,Sim,696-312-4715,Sim,Sim,422-558-7717,Aberg,28924,Tijuca,205003-000,RJ,381.08,16.42
+326,Reiko,O'Dunniom,1966-10-05 06:13:22.143596,Feminino,rodunniom91@gmail.com,Sim,931-156-7571,Sim,Não,598-588-4128,Sherman,43908,Copacabana,220004-000,RJ,205.04,64.67
+327,Saxon,Litster,1997-04-03 06:13:22.143596,Masculino,slitster92@hotmail.com,Sim,319-822-9005,Sim,Sim,196-131-6622,Maple Wood,3652,Barra da Tijuca,226004-000,RJ,60.68,0.53
+328,Ernaline,Vevers,2005-10-12 06:13:22.143596,Feminino,evevers93@gmail.com,Não,321-634-2118,Sim,Sim,142-513-4717,Westend,3325,Tijuca,205005-000,RJ,312.97,89.66
+329,Chaim,Capinetti,1980-02-10 06:13:22.143596,Masculino,ccapinetti94@hotmail.com,Sim,415-847-4027,Não,Não,924-281-9336,Pleasure,7,Tijuca,205007-000,RJ,403.88,33.45
+330,Tam,Minshull,1982-11-17 06:13:22.143596,Masculino,tminshull95@gmail.com,Sim,825-918-1941,Não,Não,520-152-6998,Brickson Park,4351,Copacabana,220001-000,RJ,114.57,13.49
+331,Jillana,Aizik,1965-05-05 06:13:22.143596,Outros,jaizik96@gmail.com,Sim,149-526-4090,Não,Não,714-381-6255,Saint Paul,6761,Tijuca,205004-000,RJ,91.63,99.11
+332,Marietta,Ilyasov,1980-05-25 06:13:22.143596,Masculino,milyasov97@gmail.com,Não,877-866-7307,Não,Sim,201-820-8564,Randy,921,Copacabana,220008-000,RJ,355.17,78.75
+333,Carlin,Jarley,1982-11-04 06:13:22.143596,Masculino,cjarley98@gmail.com,Sim,625-889-6795,Não,Não,683-281-8147,6th,929,Barra da Tijuca,226006-000,RJ,400.49,4.5
+334,Fulton,Choak,1982-03-10 06:13:22.143596,Masculino,fchoak99@gmail.com,Sim,308-323-1948,Sim,Sim,720-836-6439,Bellgrove,5,Barra da Tijuca,226004-000,RJ,81.12,29.51
+335,Perry,Foxley,2007-05-25 06:13:22.143596,Feminino,pfoxley9a@gmail.com,Sim,719-546-9361,Não,Sim,626-231-5168,Bonner,2374,Barra da Tijuca,226005-000,RJ,80.97,6.37
+336,Cinnamon,Pooly,1985-01-20 06:13:22.143596,Feminino,cpooly9b@hotmail.com,Não,112-152-6575,Não,Não,298-146-8902,Lakewood,513,Copacabana,220002-000,RJ,193.53,5.03
+337,Doralyn,Ocklin,2001-06-18 06:13:22.143596,Feminino,docklin9c@gmail.com,Não,580-966-4495,Sim,Sim,411-763-4208,Vernon,33,Copacabana,220005-000,RJ,176.86,74.25
+338,Sergei,Eakly,1996-04-09 06:13:22.143596,Masculino,seakly9d@gmail.com,Não,196-385-3585,Sim,Sim,709-167-0767,Larry,97062,Copacabana,220008-000,RJ,156.62,42.61
+339,Alidia,Vercruysse,1983-02-21 06:13:22.143596,Feminino,avercruysse9e@gmail.com,Não,629-332-9647,Não,Sim,644-599-1277,Bartillon,962,Copacabana,220005-000,RJ,439.22,81.03
+340,Carlyn,Beville,1993-03-12 06:13:22.143596,Feminino,cbeville9f@hotmail.com,Não,668-407-2830,Sim,Não,609-207-4567,Bultman,6,Barra da Tijuca,226006-000,RJ,360.45,25.39
+341,Jose,Lapish,1995-01-31 06:13:22.143596,Outros,jlapish9g@hotmail.com,Não,574-246-5475,Sim,Sim,853-258-7004,Arrowood,38118,Barra da Tijuca,226009-000,RJ,478.02,11.26
+342,Dyana,Sapir,1978-08-04 06:13:22.143596,Feminino,dsapir9h@gmail.com,Sim,639-901-0167,Sim,Sim,194-467-9631,Eagle Crest,5315,Barra da Tijuca,226009-000,RJ,199.08,78.96
+343,Shelly,Earley,1994-09-30 06:13:22.143596,Feminino,searley9i@hotmail.com,Não,787-169-5478,Sim,Sim,589-603-1700,John Wall,68,Copacabana,220008-000,RJ,421.41,83.43
+344,Norby,Whelpdale,1964-10-19 06:13:22.143596,Masculino,nwhelpdale9j@gmail.com,Não,255-200-0061,Não,Sim,794-469-4365,Heffernan,0,Barra da Tijuca,226001-000,RJ,54.61,3.64
+345,Margareta,Runge,1992-05-06 06:13:22.143596,Feminino,mrunge9k@gmail.com,Sim,982-631-8097,Não,Sim,581-481-8687,Oak,86,Barra da Tijuca,226004-000,RJ,154.61,4.23
+346,Tatiana,Janes,1984-02-19 06:13:22.143596,Outros,tjanes9l@gmail.com,Sim,820-475-0895,Não,Não,542-838-8207,Aberg,35,Copacabana,220009-000,RJ,151.32,8.55
+347,Perl,Mouncher,1967-02-22 06:13:22.143596,Feminino,pmouncher9m@hotmail.com,Não,420-296-0774,Sim,Não,279-231-0643,Judy,696,Barra da Tijuca,226001-000,RJ,405.12,38.24
+348,Normy,Dybbe,2006-05-27 06:13:22.143596,Masculino,ndybbe9n@gmail.com,Não,963-722-4618,Sim,Não,151-574-3670,Parkside,7,Barra da Tijuca,226003-000,RJ,161.54,8.54
+349,Rodrick,Cocher,1980-05-25 06:13:22.143596,Masculino,rcocher9o@hotmail.com,Sim,894-169-6711,Não,Sim,668-563-3224,Lakeland,5,Barra da Tijuca,226005-000,RJ,317.77,52.73
+350,Gwendolin,Zanicchi,1989-01-29 06:13:22.143596,Feminino,gzanicchi9p@gmail.com,Não,335-315-1693,Sim,Não,463-255-7928,Hanover,36,Tijuca,205007-000,RJ,401.31,62.68
+351,Bliss,Eversley,1962-03-25 06:13:22.143596,Feminino,beversley9q@hotmail.com,Não,374-729-3927,Sim,Sim,246-213-2278,Corry,28099,Copacabana,220002-000,RJ,366.07,11.2
+352,Alberto,Comsty,1984-06-12 06:13:22.143596,Masculino,acomsty9r@gmail.com,Sim,199-421-6669,Não,Não,994-286-7256,Roth,22456,Copacabana,220007-000,RJ,375.57,67.71
+353,Rollin,Pick,1983-10-21 06:13:22.143596,Outros,rpick9s@gmail.com,Não,946-277-9692,Não,Não,601-187-2684,Sommers,43414,Copacabana,220006-000,RJ,113.4,28.61
+354,Pegeen,Durber,1986-10-18 06:13:22.143596,Outros,pdurber9t@hotmail.com,Sim,642-298-9474,Não,Não,472-950-5937,Maple,6,Tijuca,205001-000,RJ,152.79,45.73
+355,Sanderson,Crispin,1995-12-20 06:13:22.143596,Masculino,scrispin9u@hotmail.com,Não,996-687-8914,Não,Não,628-869-3712,Farragut,68,Tijuca,205004-000,RJ,210.0,35.36
+356,Caressa,Sands,2007-03-11 06:13:22.143596,Feminino,csands9v@hotmail.com,Não,173-109-9757,Não,Não,899-339-3070,John Wall,7322,Tijuca,205007-000,RJ,244.42,13.9
+357,Rawley,Bushill,1988-04-11 06:13:22.143596,Masculino,rbushill9w@gmail.com,Não,726-556-4279,Não,Não,915-318-2747,Stone Corner,4178,Tijuca,205009-000,RJ,277.29,51.95
+358,Sofie,Whitsun,1984-09-11 06:13:22.143596,Feminino,swhitsun9x@gmail.com,Sim,580-267-8722,Sim,Não,922-750-7044,Merrick,0,Tijuca,205008-000,RJ,448.63,82.44
+359,Andros,MacDonell,1984-03-06 06:13:22.143596,Masculino,amacdonell9y@gmail.com,Não,214-634-5168,Não,Não,416-215-0020,Cherokee,5141,Barra da Tijuca,226004-000,RJ,95.2,25.27
+360,Ellie,Feuell,1995-10-25 06:13:22.143596,Feminino,efeuell9z@gmail.com,Sim,861-124-3000,Não,Não,794-184-2405,Tony,889,Barra da Tijuca,226004-000,RJ,294.0,68.03
+361,Cesare,Kenney,2004-02-19 06:13:22.143596,Masculino,ckenneya0@gmail.com,Sim,988-340-4283,Não,Sim,506-940-1754,Northland,2451,Tijuca,205008-000,RJ,134.0,61.28
+362,Freddy,Walduck,1967-01-04 06:13:22.143596,Feminino,fwalducka1@hotmail.com,Não,247-539-5316,Sim,Não,155-839-3199,Upham,96,Barra da Tijuca,226008-000,RJ,107.27,99.61
+363,Emmett,Hatherall,1982-11-08 06:13:22.143596,Masculino,ehatheralla2@gmail.com,Sim,640-954-6136,Sim,Não,989-915-3758,Clemons,8198,Barra da Tijuca,226008-000,RJ,227.33,32.51
+364,Verney,Pizzie,1968-11-13 06:13:22.143596,Masculino,vpizziea3@gmail.com,Sim,682-357-5850,Não,Não,929-465-2131,Golf View,9564,Copacabana,220002-000,RJ,431.21,60.53
+365,Lorelei,Mussolini,1998-03-29 06:13:22.143596,Feminino,lmussolinia4@hotmail.com,Não,439-461-7612,Sim,Sim,297-367-5715,Oxford,21,Copacabana,220001-000,RJ,484.69,99.51
+366,Eduino,Chewter,2001-04-25 06:13:22.143596,Masculino,echewtera5@gmail.com,Sim,370-741-8991,Sim,Não,510-186-4074,Sundown,6517,Barra da Tijuca,226005-000,RJ,456.47,27.56
+367,Horatia,Kier,1980-04-08 06:13:22.143596,Feminino,hkiera6@hotmail.com,Não,694-253-7410,Não,Sim,446-818-8707,Loeprich,857,Copacabana,220007-000,RJ,318.83,62.76
+368,Bryn,Ranklin,1971-01-18 06:13:22.143596,Masculino,branklina7@hotmail.com,Não,768-635-6307,Não,Sim,696-796-4636,Ridgeway,947,Tijuca,205007-000,RJ,465.06,95.35
+369,Arda,Refford,1996-11-08 06:13:22.143596,Feminino,arefforda8@hotmail.com,Não,689-299-8820,Sim,Não,729-929-6992,Eagle Crest,7188,Copacabana,220009-000,RJ,414.81,93.97
+370,Jana,Bewley,1969-11-25 06:13:22.143596,Feminino,jbewleya9@hotmail.com,Não,367-337-9990,Não,Sim,901-920-0863,Mayer,89,Copacabana,220008-000,RJ,250.56,64.8
+371,Teodorico,Rycroft,1991-05-25 06:13:22.143596,Masculino,trycroftaa@hotmail.com,Não,692-689-3257,Sim,Sim,553-911-3626,Talmadge,79,Copacabana,220002-000,RJ,433.88,96.31
+372,Prissie,Phelan,1971-03-28 06:13:22.143596,Feminino,pphelanab@gmail.com,Não,898-579-1212,Não,Não,774-577-4522,Oak,74,Tijuca,205001-000,RJ,176.91,7.81
+373,Sonnnie,Winsiowiecki,2004-10-20 06:13:22.143596,Feminino,swinsiowieckiac@gmail.com,Sim,806-166-0390,Sim,Não,493-745-4680,Debra,62294,Copacabana,220009-000,RJ,101.05,4.05
+374,Jermaine,O'Lennachain,1976-08-31 06:13:22.143596,Masculino,jolennachainad@gmail.com,Não,249-150-8756,Sim,Não,138-925-3063,Raven,440,Tijuca,205002-000,RJ,310.87,16.32
+375,Tana,Sautter,1994-03-31 06:13:22.143596,Outros,tsautterae@hotmail.com,Não,268-703-0685,Sim,Não,137-564-7250,Vera,20835,Tijuca,205001-000,RJ,185.39,40.74
+376,Kinnie,Alpe,2000-11-23 06:13:22.143596,Masculino,kalpeaf@gmail.com,Sim,731-127-1425,Sim,Sim,645-994-0866,Pond,6523,Barra da Tijuca,226008-000,RJ,376.72,11.02
+377,Quentin,Domange,1991-07-02 06:13:22.143596,Masculino,qdomangeag@hotmail.com,Não,824-787-1524,Não,Sim,504-525-7257,Thompson,4227,Barra da Tijuca,226009-000,RJ,162.46,22.74
+378,Margareta,Galvin,1974-07-29 06:13:22.143596,Feminino,mgalvinah@gmail.com,Não,548-220-7430,Não,Sim,315-776-5693,Northridge,7,Tijuca,205003-000,RJ,301.1,26.48
+379,Sidney,Rosenzveig,1987-08-31 06:13:22.143596,Masculino,srosenzveigai@gmail.com,Sim,272-550-2126,Sim,Sim,226-723-6370,Marcy,2448,Tijuca,205001-000,RJ,380.57,76.28
+380,Carleen,Viollet,1980-09-27 06:13:22.143596,Feminino,cviolletaj@hotmail.com,Não,760-940-2652,Sim,Sim,882-467-2404,Dovetail,4745,Copacabana,220002-000,RJ,473.76,9.11
+381,Lowell,Woollacott,2001-10-20 06:13:22.143596,Masculino,lwoollacottak@gmail.com,Não,259-134-7912,Não,Sim,615-400-1962,Donald,1,Barra da Tijuca,226009-000,RJ,360.28,31.38
+382,Chris,Maingot,1969-12-21 06:13:22.143596,Masculino,cmaingotal@gmail.com,Não,103-553-6648,Não,Sim,558-720-8271,Dennis,2259,Copacabana,220007-000,RJ,331.75,35.85
+383,Matthew,Scotchbourouge,1983-05-19 06:13:22.143596,Masculino,mscotchbourougeam@hotmail.com,Sim,746-959-1823,Sim,Sim,892-824-5376,Vermont,52,Barra da Tijuca,226004-000,RJ,83.73,98.86
+384,Diane,MacCauley,1981-04-11 06:13:22.143596,Feminino,dmaccauleyan@hotmail.com,Sim,423-719-7843,Sim,Não,981-569-7349,Chive,84,Barra da Tijuca,226007-000,RJ,80.93,52.41
+385,Gusta,Muldoon,1992-11-01 06:13:22.143596,Feminino,gmuldoonao@gmail.com,Sim,741-306-3118,Sim,Não,916-375-3186,Morningstar,81411,Barra da Tijuca,226002-000,RJ,110.39,55.59
+386,Huntley,Wardle,2000-09-12 06:13:22.143596,Masculino,hwardleap@gmail.com,Sim,684-538-4149,Sim,Não,461-253-2388,Fallview,83,Copacabana,220009-000,RJ,113.49,71.41
+387,Theodosia,Wyndham,1994-03-11 06:13:22.143596,Feminino,twyndhamaq@hotmail.com,Sim,176-863-2547,Não,Não,280-202-0530,Portage,4,Copacabana,220009-000,RJ,76.31,52.24
+388,Corny,Warlawe,1978-05-09 06:13:22.143596,Masculino,cwarlawear@gmail.com,Sim,338-375-8692,Não,Não,357-907-9352,Hooker,75,Barra da Tijuca,226004-000,RJ,368.24,91.31
+389,Lesli,Grabb,2002-07-28 06:13:22.143596,Feminino,lgrabbas@hotmail.com,Sim,919-754-8775,Não,Sim,332-143-0732,Aberg,63,Tijuca,205005-000,RJ,196.21,20.71
+390,Chase,Vaudin,1978-04-22 06:13:22.143596,Masculino,cvaudinat@gmail.com,Não,834-143-5779,Sim,Não,516-913-2576,Helena,322,Copacabana,220002-000,RJ,149.12,41.55
+391,Deeyn,Guttridge,2002-03-17 06:13:22.143596,Feminino,dguttridgeau@gmail.com,Não,520-573-8196,Não,Sim,532-131-7869,Mayfield,32598,Tijuca,205003-000,RJ,355.98,3.1
+392,Rebeca,Crichmere,1967-07-21 06:13:22.143596,Feminino,rcrichmereav@gmail.com,Não,424-506-4672,Sim,Não,328-565-4207,Di Loreto,1,Copacabana,220003-000,RJ,152.36,41.73
+393,Crichton,Lehrer,1994-10-15 06:13:22.143596,Masculino,clehreraw@hotmail.com,Sim,785-701-7710,Não,Não,972-176-1565,Westerfield,7912,Tijuca,205003-000,RJ,326.57,87.69
+394,Min,Monier,1978-05-18 06:13:22.143596,Feminino,mmonierax@gmail.com,Não,999-801-1472,Sim,Sim,379-407-3313,Prairieview,10,Tijuca,205006-000,RJ,73.33,49.72
+395,Dulcie,Nussii,1971-08-17 06:13:22.143596,Feminino,dnussiiay@hotmail.com,Sim,233-797-2816,Sim,Não,743-500-3718,Morrow,575,Barra da Tijuca,226001-000,RJ,142.37,28.5
+396,Sterling,Skones,1994-01-09 06:13:22.143596,Masculino,sskonesaz@hotmail.com,Não,983-648-0584,Sim,Sim,457-367-9285,2nd,77410,Tijuca,205005-000,RJ,409.5,47.32
+397,Xymenes,Brewis,1973-08-05 06:13:22.143596,Masculino,xbrewisb0@gmail.com,Sim,608-746-3084,Sim,Sim,617-483-1710,Miller,15,Tijuca,205005-000,RJ,325.8,47.81
+398,Edeline,Gertz,2005-05-05 06:13:22.143596,Feminino,egertzb1@gmail.com,Não,504-719-1441,Sim,Sim,503-389-2225,Dawn,93641,Copacabana,220009-000,RJ,152.87,57.43
+399,Mariska,Domenc,1966-09-25 06:13:22.143596,Feminino,mdomencb2@gmail.com,Sim,225-775-2996,Não,Sim,226-297-5177,Dixon,3,Copacabana,220008-000,RJ,146.29,45.18
+400,Darryl,Vischi,1977-12-29 06:13:22.143596,Masculino,dvischib3@gmail.com,Não,615-350-7213,Sim,Não,781-618-2962,Gerald,98,Barra da Tijuca,226006-000,RJ,88.02,77.37
+401,Skyler,Biss,1985-08-22 06:13:22.143596,Masculino,sbissb4@gmail.com,Não,892-605-7189,Não,Não,334-942-2172,Maple Wood,18054,Copacabana,220009-000,RJ,340.25,69.78
+402,Tailor,Jurries,1984-12-17 06:13:22.143596,Masculino,tjurriesb5@hotmail.com,Não,613-747-4814,Não,Sim,793-250-8764,Stephen,206,Barra da Tijuca,226005-000,RJ,398.01,23.07
+403,Baily,Floyde,2006-05-19 06:13:22.143596,Masculino,bfloydeb6@gmail.com,Sim,672-834-7346,Sim,Sim,973-625-1617,Porter,322,Barra da Tijuca,226004-000,RJ,369.33,66.71
+404,Eileen,Eyles,1982-03-18 06:13:22.143596,Feminino,eeylesb7@gmail.com,Não,683-309-2247,Não,Sim,404-654-4980,Oak Valley,0,Tijuca,205001-000,RJ,219.01,62.04
+405,Petrina,Lorrain,2001-04-02 06:13:22.143596,Feminino,plorrainb8@hotmail.com,Não,601-971-0134,Não,Não,900-552-0060,Moland,6900,Tijuca,205005-000,RJ,330.4,21.84
+406,Netti,Reubel,1999-09-30 06:13:22.143596,Outros,nreubelb9@gmail.com,Sim,179-638-9409,Não,Sim,492-549-0438,Red Cloud,73,Barra da Tijuca,226004-000,RJ,79.5,23.86
+407,Abagail,Sheerin,1968-10-19 06:13:22.143596,Outros,asheerinba@hotmail.com,Sim,570-263-1051,Sim,Não,940-574-5058,Fair Oaks,6418,Barra da Tijuca,226007-000,RJ,313.49,15.53
+408,Noll,Drewes,1981-10-19 06:13:22.143596,Masculino,ndrewesbb@hotmail.com,Sim,918-744-1012,Não,Sim,573-814-0721,Warbler,419,Copacabana,220007-000,RJ,153.13,82.37
+409,Emile,Darby,1965-11-01 06:13:22.143596,Outros,edarbybc@gmail.com,Sim,356-611-2103,Não,Não,892-921-5442,Fair Oaks,57327,Barra da Tijuca,226003-000,RJ,311.49,58.79
+410,Jade,Bartolozzi,1990-01-26 06:13:22.143596,Feminino,jbartolozzibd@gmail.com,Não,150-520-8944,Não,Não,216-814-7078,Graedel,80878,Tijuca,205008-000,RJ,72.54,83.17
+411,Kahlil,Herity,1967-12-05 06:13:22.143596,Masculino,kheritybe@gmail.com,Sim,998-179-2819,Sim,Não,973-755-6560,Golf,42,Copacabana,220009-000,RJ,266.84,49.77
+412,Evelyn,Blundell,2000-09-08 06:13:22.143596,Masculino,eblundellbf@hotmail.com,Sim,810-441-0030,Sim,Sim,721-615-4440,Clove,7912,Copacabana,220002-000,RJ,160.38,21.11
+413,Eolande,Liston,1973-10-02 06:13:22.143596,Feminino,elistonbg@gmail.com,Sim,692-166-8277,Não,Não,162-402-7865,Dakota,3,Copacabana,220002-000,RJ,240.3,13.94
+414,Romonda,Underdown,1968-04-12 06:13:22.143596,Feminino,runderdownbh@gmail.com,Não,878-674-3867,Sim,Não,758-792-6817,Oak,7,Tijuca,205008-000,RJ,234.59,51.1
+415,Annabelle,Gianiello,1995-12-05 06:13:22.143596,Feminino,agianiellobi@hotmail.com,Não,757-669-4131,Não,Não,678-175-6035,Northport,30515,Tijuca,205007-000,RJ,241.35,67.74
+416,Aida,Haverty,1996-05-19 06:13:22.143596,Feminino,ahavertybj@hotmail.com,Não,701-206-7636,Não,Não,207-581-2367,Almo,34166,Tijuca,205001-000,RJ,251.73,43.8
+417,Octavia,Perigeaux,1994-12-31 06:13:22.143596,Feminino,operigeauxbk@gmail.com,Sim,602-834-3204,Sim,Não,389-858-5442,Toban,4,Copacabana,220008-000,RJ,109.85,23.17
+418,Bryana,Beldon,2000-04-08 06:13:22.143596,Feminino,bbeldonbl@hotmail.com,Sim,102-153-2010,Não,Não,785-417-4949,Stang,18126,Tijuca,205007-000,RJ,285.0,42.06
+419,Ellary,Van der Hoeven,1968-10-12 06:13:22.143596,Masculino,evanderhoevenbm@gmail.com,Sim,849-533-2954,Sim,Não,938-584-2892,Welch,85,Barra da Tijuca,226006-000,RJ,286.12,18.41
+420,Cesare,Johnsee,2000-06-02 06:13:22.143596,Masculino,cjohnseebn@hotmail.com,Sim,391-555-7324,Não,Não,646-379-0125,Lindbergh,8576,Tijuca,205009-000,RJ,225.13,73.81
+421,Woodie,Norgan,1993-11-03 06:13:22.143596,Masculino,wnorganbo@gmail.com,Não,875-349-4495,Não,Sim,536-729-4008,Esch,71092,Copacabana,220006-000,RJ,489.25,41.69
+422,Breanne,Kuhnt,1983-01-14 06:13:22.143596,Feminino,bkuhntbp@gmail.com,Não,857-106-3362,Sim,Não,915-903-8748,Swallow,57,Tijuca,205004-000,RJ,214.35,3.24
+423,Odille,Delve,2006-02-14 06:13:22.143596,Outros,odelvebq@hotmail.com,Sim,977-930-9453,Não,Sim,132-851-3890,Wayridge,1306,Barra da Tijuca,226005-000,RJ,164.59,68.33
+424,Deni,Huckleby,2002-06-28 06:13:22.143596,Outros,dhucklebybr@hotmail.com,Sim,721-785-6383,Não,Sim,280-472-2887,Lukken,776,Tijuca,205006-000,RJ,199.68,20.71
+425,Gray,Barkley,1983-05-08 06:13:22.143596,Feminino,gbarkleybs@hotmail.com,Não,562-569-7149,Não,Sim,592-379-8243,Transport,846,Copacabana,220001-000,RJ,297.98,93.01
+426,Arleen,Riccardo,1999-05-03 06:13:22.143596,Outros,ariccardobt@gmail.com,Não,960-466-0467,Não,Sim,888-943-5133,Debra,7832,Copacabana,220007-000,RJ,480.23,33.78
+427,Pepito,Adaway,1999-07-22 06:13:22.143596,Masculino,padawaybu@gmail.com,Sim,773-354-5483,Não,Não,843-189-6745,Longview,60,Tijuca,205005-000,RJ,159.92,7.33
+428,Far,Twydell,2001-12-19 06:13:22.143596,Masculino,ftwydellbv@gmail.com,Sim,825-488-7422,Não,Sim,306-501-6455,Maryland,2,Copacabana,220004-000,RJ,441.2,26.19
+429,Inessa,Nevill,1967-12-07 06:13:22.143596,Feminino,inevillbw@hotmail.com,Não,436-938-7453,Não,Sim,114-337-7419,Kings,984,Tijuca,205007-000,RJ,372.53,26.92
+430,Yves,Jaggers,1970-09-25 06:13:22.143596,Masculino,yjaggersbx@gmail.com,Não,285-406-9976,Sim,Sim,543-272-7630,Schmedeman,587,Tijuca,205009-000,RJ,365.55,54.16
+431,Clari,Luckett,1974-03-18 06:13:22.143596,Feminino,cluckettby@gmail.com,Sim,980-485-0595,Sim,Não,487-397-1844,Jackson,64195,Tijuca,205008-000,RJ,154.15,12.53
+432,Theodore,Spata,1961-10-12 06:13:22.143596,Masculino,tspatabz@gmail.com,Sim,865-491-2402,Não,Sim,604-971-0946,Onsgard,164,Tijuca,205006-000,RJ,365.75,87.77
+433,Rani,Melland,1994-08-06 06:13:22.143596,Feminino,rmellandc0@gmail.com,Não,286-205-4643,Não,Sim,135-336-5696,Stuart,84,Copacabana,220004-000,RJ,227.69,7.26
+434,Maurita,Kose,1975-09-24 06:13:22.143596,Feminino,mkosec1@gmail.com,Não,428-163-1592,Sim,Não,268-665-9216,Melrose,473,Copacabana,220005-000,RJ,279.4,35.58
+435,Karole,Polin,1991-09-11 06:13:22.143596,Feminino,kpolinc2@hotmail.com,Não,520-278-6788,Sim,Sim,165-664-2774,Garrison,5044,Tijuca,205005-000,RJ,193.84,32.47
+436,Phillida,Whiteley,1990-03-24 06:13:22.143596,Feminino,pwhiteleyc3@gmail.com,Sim,983-507-0620,Sim,Sim,790-595-3298,Thompson,55907,Copacabana,220008-000,RJ,138.08,41.6
+437,Giovanni,Beranek,1996-09-19 06:13:22.143596,Masculino,gberanekc4@gmail.com,Não,748-307-9821,Sim,Não,772-272-2982,Delaware,13,Tijuca,205001-000,RJ,108.65,97.51
+438,Thane,Endley,1971-06-04 06:13:22.143596,Masculino,tendleyc5@gmail.com,Sim,993-539-7909,Sim,Sim,179-266-5134,Mallard,892,Copacabana,220005-000,RJ,318.02,83.13
+439,Chance,Eckersall,2005-11-21 06:13:22.143596,Masculino,ceckersallc6@gmail.com,Não,371-164-8818,Sim,Sim,426-405-4103,Buell,82502,Copacabana,220001-000,RJ,448.81,60.34
+440,Katlin,Trusler,1975-10-29 06:13:22.143596,Feminino,ktruslerc7@gmail.com,Não,203-753-4979,Não,Não,758-839-2368,Brown,3742,Tijuca,205005-000,RJ,398.24,93.14
+441,Adelind,McArtan,1962-10-19 06:13:22.143596,Feminino,amcartanc8@hotmail.com,Sim,885-226-6552,Não,Sim,110-123-9812,Hazelcrest,111,Barra da Tijuca,226004-000,RJ,194.91,46.11
+442,Anetta,Vallender,1985-11-26 06:13:22.143596,Feminino,avallenderc9@gmail.com,Sim,493-493-5828,Não,Sim,523-791-7825,Bashford,40,Tijuca,205004-000,RJ,205.83,53.47
+443,Eziechiele,Fomichkin,1997-05-03 06:13:22.143596,Masculino,efomichkinca@gmail.com,Sim,240-733-7550,Não,Não,867-815-1640,Meadow Vale,73638,Copacabana,220008-000,RJ,344.53,37.05
+444,Onfroi,Noice,2002-03-24 06:13:22.143596,Masculino,onoicecb@gmail.com,Sim,641-301-8056,Não,Não,173-477-4987,Morrow,2770,Barra da Tijuca,226009-000,RJ,236.94,97.12
+445,Anne-corinne,Beall,1976-05-31 06:13:22.143596,Feminino,abeallcc@hotmail.com,Não,411-364-8598,Sim,Não,366-980-0372,Northwestern,72,Tijuca,205003-000,RJ,425.3,66.81
+446,Nicky,Terrans,1973-10-28 06:13:22.143596,Masculino,nterranscd@hotmail.com,Sim,591-562-0362,Não,Não,207-503-8109,Jana,402,Barra da Tijuca,226007-000,RJ,374.13,8.1
+447,Caryl,Scinelli,1984-08-04 06:13:22.143596,Feminino,cscinellice@gmail.com,Não,759-917-3080,Sim,Sim,924-956-8178,7th,96419,Copacabana,220008-000,RJ,395.12,90.07
+448,Lulu,Shoutt,2001-01-30 06:13:22.143596,Feminino,lshouttcf@gmail.com,Sim,207-842-1291,Sim,Não,556-548-1613,Steensland,910,Tijuca,205008-000,RJ,61.21,39.36
+449,Stafford,Jorcke,1977-07-22 06:13:22.143596,Masculino,sjorckecg@hotmail.com,Sim,641-913-7156,Não,Sim,753-543-6085,Crest Line,2,Barra da Tijuca,226008-000,RJ,208.34,98.82
+450,Janeva,Skells,1972-01-06 06:13:22.143596,Feminino,jskellsch@gmail.com,Sim,652-851-3112,Sim,Sim,249-376-0737,Butterfield,6666,Copacabana,220009-000,RJ,186.83,23.41
+451,Cris,Hakey,1962-10-16 06:13:22.143596,Masculino,chakeyci@gmail.com,Não,295-477-5808,Não,Sim,818-315-4381,Talisman,4503,Copacabana,220003-000,RJ,50.93,73.71
+452,Pooh,Roscam,1975-09-12 06:13:22.143596,Feminino,proscamcj@hotmail.com,Não,420-189-8239,Não,Não,694-270-7677,Lighthouse Bay,8,Tijuca,205004-000,RJ,460.97,42.07
+453,Bernardo,Tierny,2005-11-03 06:13:22.143596,Masculino,btiernyck@gmail.com,Não,278-865-0848,Sim,Sim,492-953-7112,Pond,64,Barra da Tijuca,226005-000,RJ,69.76,74.44
+454,Ingeberg,Gittoes,1983-04-24 06:13:22.143596,Feminino,igittoescl@gmail.com,Sim,394-807-1986,Sim,Sim,803-826-1684,Prentice,36882,Tijuca,205009-000,RJ,470.88,64.34
+455,Jesselyn,Trevascus,2003-12-25 06:13:22.143596,Feminino,jtrevascuscm@gmail.com,Sim,555-572-4384,Sim,Sim,595-853-3088,Schurz,7,Barra da Tijuca,226001-000,RJ,117.33,36.41
+456,Bobbie,Nerger,1996-08-02 06:13:22.143596,Masculino,bnergercn@gmail.com,Não,674-359-0388,Não,Sim,927-152-7360,Mifflin,9,Copacabana,220005-000,RJ,396.11,28.99
+457,Norah,Halbert,1976-04-12 06:13:22.143596,Feminino,nhalbertco@gmail.com,Não,441-930-5584,Sim,Sim,976-576-2107,Rowland,462,Copacabana,220009-000,RJ,214.93,68.16
+458,Stepha,Blayney,1987-02-07 06:13:22.143596,Feminino,sblayneycp@gmail.com,Não,873-532-0267,Não,Não,712-323-8997,Washington,293,Copacabana,220005-000,RJ,152.29,89.1
+459,Sherwin,Summers,1968-10-22 06:13:22.143596,Masculino,ssummerscq@hotmail.com,Não,246-429-6357,Não,Não,272-445-8722,Myrtle,0,Copacabana,220006-000,RJ,412.64,10.1
+460,Bartholemy,Stallworth,1993-05-16 06:13:22.143596,Masculino,bstallworthcr@hotmail.com,Não,281-278-8072,Não,Não,288-644-9279,Lerdahl,57,Barra da Tijuca,226008-000,RJ,74.17,41.89
+461,Imogene,Gawkes,2001-07-15 06:13:22.143596,Feminino,igawkescs@hotmail.com,Não,914-255-3977,Não,Não,403-795-9750,Doe Crossing,89,Tijuca,205001-000,RJ,402.91,55.71
+462,Travis,Sitlinton,1981-02-11 06:13:22.143596,Masculino,tsitlintonct@hotmail.com,Não,163-247-2601,Não,Sim,640-596-3997,Rowland,96,Copacabana,220006-000,RJ,257.05,10.26
+463,Bondie,Parsonson,1973-05-11 06:13:22.143596,Masculino,bparsonsoncu@hotmail.com,Sim,407-873-8209,Sim,Não,450-207-4858,Donald,1646,Tijuca,205006-000,RJ,438.39,51.55
+464,Jarrett,McPeake,2001-03-20 06:13:22.143596,Masculino,jmcpeakecv@gmail.com,Não,174-352-1883,Sim,Sim,329-884-9321,Fuller,34,Barra da Tijuca,226003-000,RJ,468.1,26.65
+465,Vanna,Champniss,1961-08-25 06:13:22.143596,Feminino,vchampnisscw@hotmail.com,Não,448-265-4337,Não,Não,527-321-6024,Lighthouse Bay,2115,Barra da Tijuca,226008-000,RJ,462.79,96.69
+466,Ernst,Fazan,1989-01-28 06:13:22.143596,Masculino,efazancx@hotmail.com,Sim,517-242-6730,Sim,Sim,482-275-9687,Roth,13210,Barra da Tijuca,226001-000,RJ,224.49,82.56
+467,Brok,Hought,2004-05-27 06:13:22.143596,Masculino,bhoughtcy@gmail.com,Sim,506-840-5170,Sim,Sim,632-869-0471,Kipling,328,Copacabana,220002-000,RJ,357.37,73.83
+468,Margeaux,MattiCCI,1978-09-11 06:13:22.143596,Feminino,mmatticcicz@gmail.com,Não,821-778-2112,Sim,Não,739-368-5716,Nelson,69,Copacabana,220007-000,RJ,215.27,96.27
+469,Ulrikaumeko,Gabbitas,1979-12-12 06:13:22.143596,Feminino,ugabbitasd0@gmail.com,Não,605-933-7630,Sim,Não,667-482-5003,Kings,487,Barra da Tijuca,226008-000,RJ,209.11,99.4
+470,Perle,Cocher,2002-01-11 06:13:22.143596,Feminino,pcocherd1@gmail.com,Sim,279-307-9289,Sim,Não,692-854-6404,Spohn,91,Copacabana,220006-000,RJ,364.13,87.0
+471,Taylor,Girardot,2007-08-18 06:13:22.143596,Masculino,tgirardotd2@gmail.com,Não,216-956-2753,Não,Não,638-338-2929,Swallow,0,Barra da Tijuca,226003-000,RJ,127.94,88.12
+472,Joel,Bricham,1981-09-04 06:13:22.143596,Masculino,jbrichamd3@hotmail.com,Não,720-609-2783,Não,Não,110-117-2905,Pawling,33,Tijuca,205003-000,RJ,109.63,33.51
+473,Mac,Fernant,2000-07-14 06:13:22.143596,Masculino,mfernantd4@hotmail.com,Não,753-515-0988,Sim,Não,659-479-1200,Loeprich,1,Barra da Tijuca,226001-000,RJ,420.01,65.64
+474,Elene,Rosone,1979-10-31 06:13:22.143596,Feminino,erosoned5@gmail.com,Não,528-458-9068,Sim,Sim,418-594-1774,Walton,7095,Barra da Tijuca,226007-000,RJ,80.18,29.18
+475,Grace,Laxson,1994-07-04 06:13:22.143596,Masculino,glaxsond6@gmail.com,Não,828-267-0352,Sim,Não,710-844-8905,Knutson,6399,Tijuca,205007-000,RJ,54.21,22.91
+476,Hobey,Priestland,1996-04-09 06:13:22.143596,Masculino,hpriestlandd7@gmail.com,Não,985-184-8069,Sim,Sim,710-888-4477,Express,6,Tijuca,205003-000,RJ,473.87,78.87
+477,Woodrow,Darthe,1996-09-12 06:13:22.143596,Masculino,wdarthed8@hotmail.com,Sim,856-590-5807,Não,Sim,456-472-1137,Grasskamp,9464,Tijuca,205007-000,RJ,302.93,45.51
+478,Ricki,Neylon,1975-05-14 06:13:22.143596,Feminino,rneylond9@hotmail.com,Sim,551-940-8844,Sim,Sim,812-255-4221,Dennis,2851,Tijuca,205001-000,RJ,337.65,51.86
+479,Nicky,Josuweit,1979-01-13 06:13:22.143596,Masculino,njosuweitda@hotmail.com,Sim,811-743-3724,Sim,Sim,433-327-6866,Cordelia,3,Copacabana,220003-000,RJ,228.65,80.24
+480,Clayton,Elgy,1967-04-26 06:13:22.143596,Masculino,celgydb@gmail.com,Sim,525-922-1965,Não,Não,624-735-8629,Sheridan,1990,Tijuca,205001-000,RJ,143.13,15.54
+481,Dian,Sulley,1985-07-29 06:13:22.143596,Feminino,dsulleydc@gmail.com,Não,492-713-9896,Sim,Sim,974-870-5561,Algoma,71148,Tijuca,205004-000,RJ,319.0,58.62
+482,Myrwyn,Nisby,1972-09-12 06:13:22.143596,Masculino,mnisbydd@hotmail.com,Não,702-566-4070,Não,Não,166-308-0998,Spohn,4,Copacabana,220004-000,RJ,210.98,72.12
+483,Steward,Vasovic,1995-04-13 06:13:22.143596,Masculino,svasovicde@hotmail.com,Sim,348-239-0265,Não,Não,777-148-2281,Di Loreto,4,Copacabana,220008-000,RJ,394.18,19.41
+484,Sharline,Kem,2005-10-30 06:13:22.143596,Feminino,skemdf@hotmail.com,Não,964-126-4577,Sim,Não,743-612-7402,Aberg,2,Copacabana,220004-000,RJ,436.83,47.68
+485,Kareem,Gepson,1975-07-02 06:13:22.143596,Masculino,kgepsondg@hotmail.com,Sim,947-933-7673,Sim,Não,184-768-0634,Monterey,187,Copacabana,220006-000,RJ,445.43,36.08
+486,Tabb,Coveley,1992-07-24 06:13:22.143596,Masculino,tcoveleydh@hotmail.com,Não,760-479-3193,Não,Não,437-768-5436,Bowman,3515,Copacabana,220002-000,RJ,494.06,43.01
+487,Karlis,Coggins,1963-12-31 06:13:22.143596,Masculino,kcogginsdi@hotmail.com,Sim,202-957-4792,Sim,Sim,509-956-6190,Lakeland,35605,Tijuca,205009-000,RJ,206.6,28.22
+488,Virge,Paoletti,1968-01-14 06:13:22.143596,Outros,vpaolettidj@gmail.com,Não,166-638-1597,Sim,Sim,629-522-7391,Barby,829,Barra da Tijuca,226005-000,RJ,59.22,95.84
+489,Alexio,Heinel,1996-07-18 06:13:22.143596,Masculino,aheineldk@gmail.com,Não,460-791-1216,Sim,Não,808-255-3414,Darwin,59271,Barra da Tijuca,226004-000,RJ,102.82,69.01
+490,Glynda,Almon,1978-05-23 06:13:22.143596,Feminino,galmondl@hotmail.com,Não,631-276-4697,Sim,Sim,306-613-8207,Badeau,413,Tijuca,205001-000,RJ,296.75,86.1
+491,Suzy,Krink,1999-01-09 06:13:22.143596,Feminino,skrinkdm@hotmail.com,Sim,735-531-0031,Sim,Não,502-933-6892,Golf Course,4218,Copacabana,220006-000,RJ,249.65,93.06
+492,Gaultiero,Laundon,1986-07-03 06:13:22.143596,Masculino,glaundondn@gmail.com,Sim,703-474-7018,Não,Sim,831-363-6339,Cambridge,1,Copacabana,220006-000,RJ,307.2,53.31
+493,Liz,Rawstorn,1999-02-12 06:13:22.143596,Outros,lrawstorndo@hotmail.com,Sim,291-914-2417,Sim,Sim,261-299-6113,Pleasure,957,Copacabana,220006-000,RJ,84.77,26.44
+494,Bartholomeo,Donati,1988-12-21 06:13:22.143596,Masculino,bdonatidp@hotmail.com,Não,628-707-8551,Sim,Não,860-496-7800,Lighthouse Bay,78,Barra da Tijuca,226002-000,RJ,115.18,0.07
+495,Mehetabel,Bleackly,1986-03-16 06:13:22.143596,Feminino,mbleacklydq@hotmail.com,Não,776-196-8887,Sim,Não,111-819-4966,Beilfuss,43921,Copacabana,220003-000,RJ,263.73,35.03
+496,Ashbey,Bessey,1974-11-28 06:13:22.143596,Masculino,abesseydr@hotmail.com,Sim,542-865-4836,Sim,Sim,449-672-2834,Carberry,8,Tijuca,205003-000,RJ,180.69,80.7
+497,Silvio,Latimer,1977-09-06 06:13:22.143596,Masculino,slatimerds@gmail.com,Não,619-927-7333,Não,Sim,417-553-9048,Summer Ridge,1444,Copacabana,220008-000,RJ,452.94,28.96
+498,Gerladina,Collishaw,1982-10-19 06:13:22.143596,Feminino,gcollishawdt@hotmail.com,Não,307-930-5065,Sim,Não,855-920-5653,Farwell,7,Tijuca,205004-000,RJ,203.69,68.65
+499,Xenos,Streatfeild,1980-10-21 06:13:22.143596,Masculino,xstreatfeilddu@hotmail.com,Não,676-598-7186,Sim,Sim,187-138-4075,Mccormick,7988,Tijuca,205003-000,RJ,493.59,92.38
+500,Manfred,MacDuffie,2001-05-03 06:13:22.143596,Masculino,mmacduffiedv@hotmail.com,Sim,104-437-4191,Sim,Sim,336-497-7787,Armistice,681,Copacabana,220003-000,RJ,434.09,11.93
+501,Roman,Wannan,1980-09-11 06:13:22.143596,Masculino,rwannandw@gmail.com,Não,926-368-3036,Sim,Sim,376-962-4307,5th,48,Tijuca,205004-000,RJ,284.21,30.74
+502,Irina,O'Hannay,1976-05-25 06:13:22.143596,Feminino,iohannaydx@gmail.com,Não,940-715-2058,Sim,Sim,407-577-8246,Dixon,7101,Barra da Tijuca,226008-000,RJ,106.27,65.3
+503,Kalvin,Wankel,1998-10-04 06:13:22.143596,Masculino,kwankeldy@gmail.com,Não,110-694-8940,Sim,Não,270-848-9725,Packers,1343,Tijuca,205001-000,RJ,218.66,65.03
+504,Glenn,Kubicek,1986-02-12 06:13:22.143596,Masculino,gkubicekdz@hotmail.com,Não,485-656-9499,Não,Não,618-652-5259,Grayhawk,47,Tijuca,205009-000,RJ,308.89,58.96
+505,Sarge,Peffer,1973-12-11 06:13:22.143596,Masculino,speffere0@gmail.com,Sim,236-989-5951,Sim,Não,515-366-4180,Mockingbird,59169,Barra da Tijuca,226009-000,RJ,244.76,20.09
+506,Welsh,Langtree,1988-09-29 06:13:22.143596,Masculino,wlangtreee1@hotmail.com,Sim,651-443-7245,Sim,Sim,918-806-8294,Huxley,71611,Copacabana,220004-000,RJ,120.42,95.31
+507,Candi,Garrold,1986-07-08 06:13:22.143596,Outros,cgarrolde2@gmail.com,Não,281-277-3326,Sim,Não,938-362-7197,Basil,939,Copacabana,220001-000,RJ,256.63,60.96
+508,Lloyd,Kuhnke,1984-01-08 06:13:22.143596,Masculino,lkuhnkee3@gmail.com,Não,206-210-4206,Não,Sim,219-269-4876,Hudson,478,Barra da Tijuca,226006-000,RJ,233.26,13.22
+509,Lance,Blanchard,2002-01-15 06:13:22.143596,Masculino,lblancharde4@gmail.com,Não,187-178-0441,Não,Não,431-547-1949,Emmet,3551,Barra da Tijuca,226005-000,RJ,419.79,76.01
+510,Alfi,Pywell,1968-05-29 06:13:22.143596,Feminino,apywelle5@hotmail.com,Não,450-389-6373,Sim,Sim,946-138-8085,Butterfield,81,Barra da Tijuca,226009-000,RJ,274.6,77.73
+511,Pieter,Benkhe,2007-02-24 06:13:22.143596,Masculino,pbenkhee6@hotmail.com,Sim,875-919-7019,Sim,Não,348-203-8870,Blaine,264,Copacabana,220008-000,RJ,211.64,89.73
+512,Martguerita,Peacock,1981-08-22 06:13:22.143596,Feminino,mpeacocke7@gmail.com,Sim,976-354-7559,Sim,Não,858-205-3433,Amoth,23,Barra da Tijuca,226009-000,RJ,151.43,42.95
+513,Boy,Fradson,1983-10-06 06:13:22.143596,Masculino,bfradsone8@hotmail.com,Sim,993-118-2779,Sim,Não,979-139-0573,Johnson,8103,Barra da Tijuca,226009-000,RJ,133.37,29.46
+514,Willi,Hele,1995-04-24 06:13:22.143596,Feminino,whelee9@gmail.com,Sim,517-486-3481,Não,Não,874-807-9857,Russell,988,Barra da Tijuca,226003-000,RJ,148.54,58.04
+515,Corenda,Friedank,2005-08-19 06:13:22.143596,Feminino,cfriedankea@gmail.com,Não,303-481-8595,Não,Sim,743-257-2048,Bayside,7,Tijuca,205007-000,RJ,145.74,24.12
+516,Antons,O'Fallon,1971-10-16 06:13:22.143596,Masculino,aofalloneb@gmail.com,Sim,723-473-6132,Sim,Não,335-185-4370,Marcy,38,Copacabana,220005-000,RJ,358.53,21.32
+517,Andrus,Monketon,1975-05-04 06:13:22.143596,Masculino,amonketonec@gmail.com,Sim,116-489-4647,Não,Não,160-808-0318,Atwood,71521,Tijuca,205009-000,RJ,495.23,49.69
+518,Petronella,Dymidowski,1963-11-13 06:13:22.143596,Feminino,pdymidowskied@hotmail.com,Sim,631-833-9485,Não,Não,438-898-7018,Clove,3,Tijuca,205004-000,RJ,497.07,53.04
+519,Gerry,Fabbro,1983-11-23 06:13:22.143596,Feminino,gfabbroee@hotmail.com,Sim,382-445-0803,Não,Não,127-320-2628,Katie,8,Tijuca,205008-000,RJ,183.53,86.62
+520,Taber,Ballinghall,2004-07-29 06:13:22.143596,Masculino,tballinghallef@gmail.com,Não,424-505-0847,Não,Sim,733-698-9193,1st,3,Tijuca,205004-000,RJ,147.35,29.75
+521,Chevalier,Ham,1984-10-19 06:13:22.143596,Masculino,chameg@hotmail.com,Sim,812-447-9604,Não,Não,894-894-1744,Sundown,13301,Barra da Tijuca,226004-000,RJ,267.17,23.86
+522,Ketty,Garrals,1995-02-04 06:13:22.143596,Feminino,kgarralseh@gmail.com,Não,867-866-6135,Sim,Não,302-959-3080,Sullivan,2,Barra da Tijuca,226009-000,RJ,187.72,1.59
+523,Warren,Evison,1972-07-18 06:13:22.143596,Masculino,wevisonei@gmail.com,Sim,771-299-6305,Não,Não,594-369-9106,Blue Bill Park,55347,Barra da Tijuca,226002-000,RJ,140.27,89.44
+524,Tully,Samwyse,1970-11-20 06:13:22.143596,Masculino,tsamwyseej@hotmail.com,Sim,968-901-4375,Sim,Não,550-474-4511,Sunnyside,4640,Tijuca,205005-000,RJ,89.67,45.83
+525,Udale,Poate,1967-12-09 06:13:22.143596,Masculino,upoateek@hotmail.com,Sim,740-246-5397,Não,Sim,790-315-3944,Northport,98060,Tijuca,205008-000,RJ,332.48,18.39
+526,Gar,O'Caherny,1965-06-04 06:13:22.143596,Masculino,gocahernyel@hotmail.com,Não,436-489-2799,Não,Não,313-864-4517,Claremont,356,Tijuca,205005-000,RJ,216.46,93.29
+527,Riane,Cranny,1990-03-11 06:13:22.143596,Feminino,rcrannyem@gmail.com,Sim,377-892-6771,Não,Não,609-211-1180,Mallard,684,Barra da Tijuca,226001-000,RJ,443.52,40.11
+528,Bartram,Stopforth,1981-02-21 06:13:22.143596,Masculino,bstopforthen@gmail.com,Não,736-139-6176,Não,Sim,275-151-0615,Stephen,2,Tijuca,205005-000,RJ,214.36,63.08
+529,Kerby,Brend,1993-03-18 06:13:22.143596,Masculino,kbrendeo@gmail.com,Não,685-111-6984,Não,Sim,919-149-4313,Troy,220,Copacabana,220007-000,RJ,448.43,97.58
+530,Clovis,Hearon,1977-03-31 06:13:22.143596,Feminino,chearonep@hotmail.com,Não,598-476-8984,Sim,Não,967-798-8802,Milwaukee,56446,Tijuca,205009-000,RJ,318.94,56.46
+531,Dix,Cleverley,2000-07-25 06:13:22.143596,Feminino,dcleverleyeq@gmail.com,Não,660-100-9743,Sim,Sim,327-740-4252,Lakewood,35810,Barra da Tijuca,226001-000,RJ,408.71,45.49
+532,Brandtr,Courtier,1988-05-29 06:13:22.143596,Masculino,bcourtierer@gmail.com,Sim,962-414-1365,Não,Não,130-627-6467,Upham,6,Copacabana,220006-000,RJ,96.01,57.53
+533,Olenka,Maunsell,1971-01-05 06:13:22.143596,Feminino,omaunselles@hotmail.com,Não,494-861-6956,Não,Sim,734-730-7222,Northwestern,9,Tijuca,205009-000,RJ,86.16,61.52
+534,Erv,Gianetti,1998-02-28 06:13:22.143596,Masculino,egianettiet@hotmail.com,Não,690-831-5568,Não,Sim,275-569-2479,Knutson,9050,Copacabana,220001-000,RJ,426.46,66.01
+535,Jenda,Blyth,1989-12-29 06:13:22.143596,Feminino,jblytheu@hotmail.com,Não,802-423-8501,Não,Sim,657-147-1772,Barby,4339,Barra da Tijuca,226005-000,RJ,495.21,90.48
+536,Carmelita,Tooth,1986-09-05 06:13:22.143596,Feminino,ctoothev@gmail.com,Não,968-681-6095,Não,Sim,953-414-6113,Sommers,9,Copacabana,220006-000,RJ,64.91,77.47
+537,Hanan,Delafont,1984-05-18 06:13:22.143596,Outros,hdelafontew@gmail.com,Sim,238-411-4713,Sim,Sim,793-801-0105,Fairfield,6,Copacabana,220008-000,RJ,301.16,49.46
+538,Mariana,Helling,1992-06-04 06:13:22.143596,Feminino,mhellingex@hotmail.com,Não,404-862-2766,Não,Não,306-442-8037,School,98,Barra da Tijuca,226001-000,RJ,187.23,99.5
+539,Hallsy,Dawltrey,1965-04-05 06:13:22.143596,Masculino,hdawltreyey@gmail.com,Sim,691-284-8682,Não,Sim,744-858-9353,Stone Corner,19,Copacabana,220009-000,RJ,213.7,85.34
+540,Onfroi,Parradine,1971-10-08 06:13:22.143596,Masculino,oparradineez@gmail.com,Sim,941-839-4351,Sim,Não,858-739-2818,Forest Run,10,Copacabana,220009-000,RJ,359.46,38.34
+541,Alric,Giff,1988-08-22 06:13:22.143596,Masculino,agifff0@hotmail.com,Sim,759-153-5955,Sim,Não,330-256-5224,Messerschmidt,3659,Tijuca,205003-000,RJ,65.79,30.27
+542,Rosy,Antonognoli,1982-06-27 06:13:22.143596,Feminino,rantonognolif1@gmail.com,Sim,389-783-7838,Não,Não,675-555-4410,Hazelcrest,8,Copacabana,220001-000,RJ,366.86,3.42
+543,Evangeline,Stilgo,1972-07-28 06:13:22.143596,Feminino,estilgof2@gmail.com,Sim,490-915-8650,Não,Sim,181-111-7319,Maple Wood,33,Tijuca,205002-000,RJ,306.78,51.9
+544,Brose,Guyet,1969-10-13 06:13:22.143596,Masculino,bguyetf3@hotmail.com,Sim,665-230-9803,Não,Sim,123-101-1996,Randy,297,Tijuca,205006-000,RJ,351.23,38.21
+545,Molli,Fitzsymonds,1970-10-18 06:13:22.143596,Feminino,mfitzsymondsf4@gmail.com,Sim,459-492-0330,Sim,Sim,239-232-4579,Anzinger,441,Barra da Tijuca,226005-000,RJ,497.82,62.85
+546,Rosemary,Stockau,2005-12-19 06:13:22.143596,Feminino,rstockauf5@hotmail.com,Não,570-311-1261,Sim,Sim,386-570-4865,Manufacturers,4,Copacabana,220001-000,RJ,349.33,12.06
+547,Heddi,Garnsey,1966-02-15 06:13:22.143596,Outros,hgarnseyf6@hotmail.com,Não,154-170-2909,Não,Sim,574-732-7349,Kedzie,85,Copacabana,220006-000,RJ,147.4,65.43
+548,Nonna,Woolfenden,1961-05-13 06:13:22.143596,Feminino,nwoolfendenf7@gmail.com,Não,990-329-8650,Sim,Não,127-487-3724,Comanche,766,Copacabana,220002-000,RJ,321.81,9.92
+549,Flory,Buddington,1965-05-13 06:13:22.143596,Masculino,fbuddingtonf8@gmail.com,Sim,281-363-0616,Não,Não,815-648-9082,Transport,22200,Copacabana,220009-000,RJ,110.27,65.31
+550,Lesley,Trowsdale,2003-01-29 06:13:22.143596,Masculino,ltrowsdalef9@hotmail.com,Não,750-183-0312,Não,Não,120-189-2411,Caliangt,8,Tijuca,205008-000,RJ,376.44,14.72
+551,Helsa,Llorente,1969-08-19 06:13:22.143596,Feminino,hllorentefa@gmail.com,Sim,510-218-9166,Sim,Sim,905-104-1661,Prairie Rose,6,Barra da Tijuca,226003-000,RJ,308.98,4.05
+552,Liza,Akehurst,2006-09-04 06:13:22.143596,Feminino,lakehurstfb@gmail.com,Sim,805-657-5837,Sim,Não,961-911-9485,Transport,80,Tijuca,205009-000,RJ,182.97,24.26
+553,Star,Lanegran,2001-10-14 06:13:22.143596,Feminino,slanegranfc@gmail.com,Sim,211-881-5078,Não,Sim,893-467-3713,Blaine,653,Copacabana,220004-000,RJ,120.11,75.66
+554,Dinah,Ransbury,1966-09-09 06:13:22.143596,Feminino,dransburyfd@gmail.com,Sim,214-347-7792,Não,Não,289-582-8316,Eastwood,126,Barra da Tijuca,226007-000,RJ,229.97,77.81
+555,Rinaldo,Ovitz,1976-07-14 06:13:22.143596,Masculino,rovitzfe@gmail.com,Sim,233-101-2536,Não,Sim,923-614-2210,Dexter,43949,Barra da Tijuca,226009-000,RJ,164.73,72.03
+556,Jany,Vella,1961-09-06 06:13:22.143596,Feminino,jvellaff@gmail.com,Sim,786-711-3147,Não,Não,726-544-5310,Cascade,28543,Barra da Tijuca,226004-000,RJ,431.35,24.18
+557,Laughton,Goldring,2004-12-12 06:13:22.143596,Masculino,lgoldringfg@hotmail.com,Não,649-207-0321,Sim,Sim,837-240-5949,Goodland,364,Tijuca,205005-000,RJ,216.68,91.26
+558,Chicky,Tissell,1978-04-02 06:13:22.143596,Masculino,ctissellfh@hotmail.com,Não,559-735-6253,Sim,Não,381-875-3593,Elmside,18396,Barra da Tijuca,226008-000,RJ,178.63,70.9
+559,Basilio,Adrienne,1989-08-09 06:13:22.143596,Masculino,badriennefi@hotmail.com,Sim,153-157-0000,Não,Sim,732-691-9186,Magdeline,85005,Tijuca,205005-000,RJ,66.92,13.83
+560,Gradey,Knibb,1980-02-14 06:13:22.143596,Masculino,gknibbfj@gmail.com,Sim,428-853-9902,Não,Não,493-614-5231,Dennis,4,Tijuca,205008-000,RJ,398.13,15.51
+561,Conroy,O'Keeffe,1985-07-26 06:13:22.143596,Masculino,cokeeffefk@gmail.com,Sim,453-306-6821,Não,Sim,633-863-9997,Dahle,267,Barra da Tijuca,226002-000,RJ,272.98,37.32
+562,Bjorn,Pendry,2006-07-18 06:13:22.143596,Masculino,bpendryfl@hotmail.com,Não,681-800-0966,Não,Não,585-744-3834,Oak Valley,8,Copacabana,220003-000,RJ,333.84,75.6
+563,Rollie,Effnert,1971-03-23 06:13:22.143596,Masculino,reffnertfm@hotmail.com,Sim,805-423-4938,Sim,Sim,891-286-9872,Forest Dale,98,Tijuca,205004-000,RJ,163.38,48.45
+564,Tommy,Danelut,1991-04-08 06:13:22.143596,Feminino,tdanelutfn@hotmail.com,Não,936-857-4082,Não,Sim,115-102-0058,Hermina,604,Barra da Tijuca,226005-000,RJ,66.54,94.64
+565,Freddie,Bumpus,1978-07-16 06:13:22.143596,Feminino,fbumpusfo@hotmail.com,Sim,690-440-0933,Não,Sim,437-553-8567,Sutteridge,14393,Copacabana,220002-000,RJ,196.71,67.71
+566,Jolene,Gotliffe,1984-08-17 06:13:22.143596,Feminino,jgotliffefp@hotmail.com,Não,734-236-5837,Sim,Não,392-936-9487,Tennessee,84,Copacabana,220008-000,RJ,434.87,72.54
+567,Tiertza,Hilhouse,1965-05-22 06:13:22.143596,Feminino,thilhousefq@hotmail.com,Não,880-466-5909,Não,Sim,191-331-1098,Esker,944,Barra da Tijuca,226008-000,RJ,123.86,70.48
+568,Rudolf,Bentje,1974-08-19 06:13:22.143596,Masculino,rbentjefr@hotmail.com,Não,521-255-7854,Sim,Sim,400-279-1469,La Follette,174,Tijuca,205003-000,RJ,106.64,27.05
+569,Harrie,Whissell,1983-06-05 06:13:22.143596,Feminino,hwhissellfs@hotmail.com,Sim,624-966-2908,Não,Sim,277-923-9434,Dexter,21,Tijuca,205006-000,RJ,424.28,37.96
+570,Konstantin,Denslow,1994-10-11 06:13:22.143596,Masculino,kdenslowft@gmail.com,Não,769-121-4707,Não,Não,103-322-1405,Anderson,852,Tijuca,205003-000,RJ,123.14,72.89
+571,Lotty,Lumsdale,2000-03-04 06:13:22.143596,Feminino,llumsdalefu@gmail.com,Sim,243-856-1991,Não,Sim,797-428-0523,Trailsway,8862,Barra da Tijuca,226005-000,RJ,83.37,82.77
+572,Ricki,Welch,1994-06-16 06:13:22.143596,Outros,rwelchfv@gmail.com,Não,796-182-7229,Não,Sim,451-485-8464,Packers,250,Tijuca,205006-000,RJ,75.18,60.58
+573,Liam,Records,1962-01-10 06:13:22.143596,Masculino,lrecordsfw@gmail.com,Não,721-491-8492,Não,Sim,969-927-0137,Vahlen,5217,Barra da Tijuca,226002-000,RJ,243.29,81.46
+574,Paxon,Signori,2001-11-01 06:13:22.143596,Masculino,psignorifx@hotmail.com,Não,528-335-8009,Sim,Não,606-903-7587,Arrowood,24,Copacabana,220002-000,RJ,174.15,85.79
+575,Darin,Hamilton,1974-05-24 06:13:22.143596,Outros,dhamiltonfy@gmail.com,Não,877-867-3370,Não,Sim,990-927-2443,Eagan,257,Tijuca,205002-000,RJ,380.38,55.33
+576,Sol,McCorley,1985-08-01 06:13:22.143596,Masculino,smccorleyfz@hotmail.com,Sim,932-187-7498,Não,Não,392-250-6647,Lerdahl,27187,Copacabana,220004-000,RJ,264.89,16.07
+577,Korney,Sarten,2004-12-23 06:13:22.143596,Feminino,ksarteng0@gmail.com,Não,997-188-0976,Não,Sim,184-221-6414,Anniversary,29975,Copacabana,220005-000,RJ,115.39,76.76
+578,Michaeline,Swaine,1992-06-08 06:13:22.143596,Outros,mswaineg1@gmail.com,Sim,769-614-7431,Sim,Não,820-704-4080,Anderson,93,Copacabana,220009-000,RJ,454.15,88.85
+579,Cherida,Briant,1967-04-14 06:13:22.143596,Outros,cbriantg2@gmail.com,Não,644-725-0600,Sim,Não,245-508-5031,Oxford,50,Tijuca,205005-000,RJ,191.7,27.8
+580,Inness,Gibbens,2000-11-06 06:13:22.143596,Masculino,igibbensg3@gmail.com,Não,742-526-6308,Não,Não,161-142-6545,Meadow Ridge,225,Tijuca,205004-000,RJ,63.53,81.49
+581,Maurice,Yitzhakov,1997-09-26 06:13:22.143596,Masculino,myitzhakovg4@hotmail.com,Não,270-595-3595,Não,Não,340-671-9459,Farwell,60861,Tijuca,205006-000,RJ,135.12,58.92
+582,Marita,Corbishley,1982-06-15 06:13:22.143596,Feminino,mcorbishleyg5@gmail.com,Sim,651-279-9523,Sim,Não,756-488-4532,Welch,74179,Copacabana,220007-000,RJ,348.06,60.08
+583,Kali,Hazle,1974-12-20 06:13:22.143596,Feminino,khazleg6@gmail.com,Sim,437-368-7358,Não,Não,323-635-6605,Steensland,6621,Tijuca,205005-000,RJ,154.95,11.35
+584,Bridget,Pesic,1992-08-09 06:13:22.143596,Feminino,bpesicg7@hotmail.com,Não,979-108-9539,Não,Não,863-504-2374,Kenwood,9917,Copacabana,220002-000,RJ,444.36,71.42
+585,Bree,McIlwain,1999-11-21 06:13:22.143596,Feminino,bmcilwaing8@hotmail.com,Não,820-333-7905,Não,Não,787-197-8427,Milwaukee,3,Copacabana,220004-000,RJ,325.04,7.19
+586,Randie,Everist,1976-01-30 06:13:22.143596,Feminino,reveristg9@gmail.com,Sim,259-106-5818,Sim,Não,934-695-4258,Saint Paul,5989,Tijuca,205007-000,RJ,204.11,59.62
+587,Pincas,Dunbobin,1981-10-25 06:13:22.143596,Masculino,pdunbobinga@gmail.com,Não,739-814-7435,Sim,Não,989-257-4167,Cardinal,546,Barra da Tijuca,226001-000,RJ,496.25,86.34
+588,Rea,Bru,1993-02-24 06:13:22.143596,Feminino,rbrugb@hotmail.com,Sim,425-215-1196,Não,Não,629-222-9508,Kennedy,579,Copacabana,220002-000,RJ,490.56,32.11
+589,Judy,Pawden,1993-06-10 06:13:22.143596,Outros,jpawdengc@hotmail.com,Sim,545-794-0626,Não,Não,266-822-9676,John Wall,549,Copacabana,220001-000,RJ,265.46,86.59
+590,Barnard,Ghelardoni,1969-06-15 06:13:22.143596,Masculino,bghelardonigd@hotmail.com,Não,610-375-7287,Não,Não,979-858-8825,Thierer,9740,Barra da Tijuca,226004-000,RJ,125.55,48.98
+591,Maxie,Jaffrey,1978-06-20 06:13:22.143596,Feminino,mjaffreyge@hotmail.com,Não,139-718-6346,Sim,Sim,715-535-4248,Westport,2,Barra da Tijuca,226001-000,RJ,354.73,89.87
+592,Adeline,Beckett,1963-02-09 06:13:22.143596,Feminino,abeckettgf@gmail.com,Não,327-450-7901,Sim,Sim,194-659-5294,3rd,1104,Tijuca,205008-000,RJ,233.43,71.36
+593,Kristofor,Barbrick,1965-07-05 06:13:22.143596,Masculino,kbarbrickgg@hotmail.com,Não,413-620-0573,Sim,Sim,294-236-3358,Stephen,4,Barra da Tijuca,226004-000,RJ,215.37,48.05
+594,Von,Fanshaw,1987-07-13 06:13:22.143596,Masculino,vfanshawgh@hotmail.com,Não,510-702-9750,Sim,Não,592-500-7998,Walton,78746,Tijuca,205004-000,RJ,451.24,5.24
+595,Bobette,Grealish,2000-09-10 06:13:22.143596,Feminino,bgrealishgi@gmail.com,Sim,982-467-3971,Sim,Sim,187-363-0148,Petterle,9707,Barra da Tijuca,226002-000,RJ,87.04,78.7
+596,Yorgos,Climpson,1991-09-29 06:13:22.143596,Masculino,yclimpsongj@hotmail.com,Não,683-333-1364,Sim,Não,809-197-1526,Superior,84,Copacabana,220004-000,RJ,157.33,45.52
+597,Ara,Houlahan,1964-06-17 06:13:22.143596,Masculino,ahoulahangk@gmail.com,Sim,725-275-3313,Não,Não,487-930-2601,Hallows,8268,Copacabana,220005-000,RJ,88.49,2.48
+598,Katha,Macauley,1987-08-29 06:13:22.143596,Outros,kmacauleygl@hotmail.com,Sim,691-707-7546,Não,Não,236-381-0888,Bonner,9,Copacabana,220005-000,RJ,395.9,30.13
+599,Nanette,Holsey,1966-05-04 06:13:22.143596,Feminino,nholseygm@hotmail.com,Não,241-520-6854,Não,Sim,840-962-3255,Vidon,47,Barra da Tijuca,226006-000,RJ,97.06,34.33
+600,Dion,Sweating,1989-04-30 06:13:22.143596,Masculino,dsweatinggn@gmail.com,Não,917-402-0775,Não,Sim,787-763-8420,Hintze,8,Copacabana,220007-000,RJ,344.36,94.93
+601,Kerwin,Bolsover,1982-01-29 06:13:22.143596,Masculino,kbolsovergo@hotmail.com,Não,765-732-8586,Sim,Sim,755-484-8224,Monica,252,Tijuca,205002-000,RJ,444.56,49.07
+602,Karylin,Ocklin,1996-05-07 06:13:22.143596,Feminino,kocklingp@hotmail.com,Não,136-935-6878,Sim,Sim,133-335-1899,South,0,Copacabana,220009-000,RJ,351.46,32.26
+603,Anthea,Jaycock,2006-11-13 06:13:22.143596,Feminino,ajaycockgq@hotmail.com,Sim,247-291-2666,Não,Não,955-456-7601,Forest Dale,28,Barra da Tijuca,226002-000,RJ,385.04,66.39
+604,Rafaellle,Dawkins,1985-09-30 06:13:22.143596,Masculino,rdawkinsgr@hotmail.com,Não,726-869-8366,Sim,Sim,322-738-0905,Clyde Gallagher,108,Tijuca,205007-000,RJ,75.88,65.92
+605,Aube,Petrecz,1986-08-11 06:13:22.143596,Masculino,apetreczgs@gmail.com,Sim,658-760-2316,Sim,Sim,621-314-5354,Logan,8,Barra da Tijuca,226008-000,RJ,437.58,75.55
+606,Courtenay,Hubner,1965-01-19 06:13:22.143596,Outros,chubnergt@gmail.com,Não,389-826-0218,Sim,Sim,412-873-1572,Heath,0,Barra da Tijuca,226009-000,RJ,312.28,19.23
+607,Anders,Whereat,1981-02-02 06:13:22.143596,Masculino,awhereatgu@hotmail.com,Sim,913-366-9270,Sim,Não,365-455-8612,Blackbird,15,Copacabana,220004-000,RJ,337.71,49.13
+608,Elonore,Karadzas,1997-10-30 06:13:22.143596,Feminino,ekaradzasgv@gmail.com,Sim,171-790-9458,Não,Sim,761-641-3912,Vernon,69064,Tijuca,205007-000,RJ,104.37,85.61
+609,Wilt,Antuoni,1960-09-15 06:13:22.143596,Masculino,wantuonigw@hotmail.com,Sim,885-117-7748,Não,Não,687-260-9565,Sullivan,1933,Copacabana,220001-000,RJ,196.24,46.68
+610,Ravi,Halpin,1970-03-27 06:13:22.143596,Masculino,rhalpingx@gmail.com,Não,367-965-4401,Não,Não,132-482-8699,Forster,19315,Barra da Tijuca,226002-000,RJ,465.04,2.09
+611,Juieta,Ivanshintsev,2006-12-09 06:13:22.143596,Feminino,jivanshintsevgy@gmail.com,Não,708-194-5660,Sim,Não,767-586-7319,Doe Crossing,1209,Barra da Tijuca,226008-000,RJ,219.91,50.84
+612,Garald,McMichael,1991-11-26 06:13:22.143596,Masculino,gmcmichaelgz@hotmail.com,Não,655-390-8133,Não,Não,378-711-5698,Kingsford,5617,Tijuca,205004-000,RJ,230.29,70.66
+613,Alyss,Daoust,1981-02-16 06:13:22.143596,Feminino,adaousth0@gmail.com,Sim,966-931-1241,Sim,Não,429-431-0634,Sugar,4505,Barra da Tijuca,226008-000,RJ,347.72,88.82
+614,Marnia,Chew,1997-09-11 06:13:22.143596,Feminino,mchewh1@hotmail.com,Sim,997-630-3312,Sim,Sim,484-854-1201,Lakewood Gardens,7147,Tijuca,205004-000,RJ,136.31,46.79
+615,Alfie,Callum,1988-07-06 06:13:22.143596,Feminino,acallumh2@gmail.com,Sim,100-575-1322,Não,Não,354-587-3147,Linden,2922,Barra da Tijuca,226008-000,RJ,350.3,14.08
+616,Cymbre,Lambrick,2000-09-22 06:13:22.143596,Feminino,clambrickh3@gmail.com,Não,292-671-9426,Sim,Não,875-739-7973,Bluejay,657,Copacabana,220007-000,RJ,496.81,5.7
+617,Gene,Warbeys,1983-07-01 06:13:22.143596,Masculino,gwarbeysh4@hotmail.com,Não,738-177-9746,Não,Não,276-410-9776,Elmside,35096,Copacabana,220005-000,RJ,58.2,80.79
+618,Taber,Varney,1994-12-27 06:13:22.143596,Masculino,tvarneyh5@hotmail.com,Não,425-270-8066,Não,Não,919-156-9668,Carey,4,Copacabana,220005-000,RJ,439.17,54.09
+619,Gregor,Wheeler,1971-04-27 06:13:22.143596,Masculino,gwheelerh6@gmail.com,Sim,568-778-7444,Não,Sim,872-713-8506,Homewood,6,Tijuca,205004-000,RJ,92.87,66.94
+620,Missy,Kerr,2006-12-29 06:13:22.143596,Feminino,mkerrh7@gmail.com,Não,932-400-6159,Sim,Não,624-448-9177,Hermina,29391,Copacabana,220007-000,RJ,244.46,67.97
+621,Tedmund,Ironmonger,1975-06-02 06:13:22.143596,Masculino,tironmongerh8@hotmail.com,Sim,565-279-5004,Não,Não,472-672-4852,Goodland,44,Tijuca,205005-000,RJ,227.56,81.91
+622,Leela,Fellona,2000-08-28 06:13:22.143596,Feminino,lfellonah9@hotmail.com,Sim,468-572-4265,Não,Não,296-663-9482,Forest Run,7,Barra da Tijuca,226005-000,RJ,359.2,18.2
+623,Cyndy,Doogan,1966-04-11 06:13:22.143596,Feminino,cdooganha@gmail.com,Não,810-747-8155,Sim,Sim,824-592-9918,Riverside,769,Tijuca,205006-000,RJ,471.72,85.65
+624,Anatollo,Grimme,1984-09-27 06:13:22.143596,Masculino,agrimmehb@gmail.com,Sim,499-320-5762,Sim,Sim,118-315-2750,Crownhardt,8224,Copacabana,220003-000,RJ,422.04,55.51
+625,Dotti,Bulter,1961-08-04 06:13:22.143596,Feminino,dbulterhc@hotmail.com,Não,930-323-4407,Sim,Sim,460-466-6237,Londonderry,59125,Tijuca,205006-000,RJ,248.99,16.83
+626,Wolfie,Jakoub,1997-06-16 06:13:22.143596,Outros,wjakoubhd@gmail.com,Sim,977-367-4017,Sim,Sim,312-621-9144,Melby,9185,Barra da Tijuca,226003-000,RJ,343.01,15.28
+627,Tobye,Liell,1967-10-07 06:13:22.143596,Feminino,tliellhe@gmail.com,Não,955-144-5985,Não,Sim,681-221-0084,Buhler,897,Copacabana,220005-000,RJ,323.2,69.88
+628,Christian,Puttrell,1968-05-16 06:13:22.143596,Masculino,cputtrellhf@hotmail.com,Não,254-165-6771,Sim,Não,409-449-3734,Sherman,17,Tijuca,205008-000,RJ,291.23,56.02
+629,George,McLagan,2004-01-23 06:13:22.143596,Masculino,gmclaganhg@gmail.com,Não,842-470-1701,Sim,Sim,511-873-1306,Bartillon,42,Tijuca,205006-000,RJ,322.08,16.92
+630,Merrily,Knill,1972-03-14 06:13:22.143596,Feminino,mknillhh@gmail.com,Sim,804-434-3436,Não,Sim,251-215-3309,Superior,698,Copacabana,220003-000,RJ,115.6,4.42
+631,Ellerey,Stairmond,1984-11-11 06:13:22.143596,Masculino,estairmondhi@hotmail.com,Não,414-905-5384,Sim,Não,351-928-4088,Portage,2231,Copacabana,220001-000,RJ,278.03,75.44
+632,Garey,Smees,1970-10-29 06:13:22.143596,Masculino,gsmeeshj@hotmail.com,Não,846-291-1021,Sim,Sim,707-353-8584,Valley Edge,17,Barra da Tijuca,226001-000,RJ,394.13,34.56
+633,Thom,Picopp,1964-09-29 06:13:22.143596,Masculino,tpicopphk@gmail.com,Sim,298-835-6094,Não,Sim,417-806-0863,Clarendon,4,Barra da Tijuca,226007-000,RJ,215.59,67.98
+634,Gerome,Cattermull,1967-02-15 06:13:22.143596,Masculino,gcattermullhl@gmail.com,Não,185-363-8218,Sim,Sim,943-653-2583,Fair Oaks,9028,Tijuca,205007-000,RJ,358.51,29.41
+635,Shayne,McCullum,1985-07-25 06:13:22.143596,Feminino,smccullumhm@hotmail.com,Sim,844-842-3029,Não,Não,258-758-2211,Vernon,12,Tijuca,205005-000,RJ,466.62,28.42
+636,Bay,Pitkeathly,2007-06-25 06:13:22.143596,Masculino,bpitkeathlyhn@gmail.com,Não,861-666-7987,Sim,Não,762-176-2388,Swallow,26,Barra da Tijuca,226006-000,RJ,397.21,72.11
+637,Constantine,McEwan,1977-05-19 06:13:22.143596,Masculino,cmcewanho@hotmail.com,Sim,639-258-2392,Sim,Sim,949-387-0876,Doe Crossing,81,Barra da Tijuca,226003-000,RJ,400.74,97.96
+638,Tedman,Sinnat,2002-05-01 06:13:22.143596,Masculino,tsinnathp@hotmail.com,Não,599-127-2271,Não,Sim,713-475-7974,Troy,5,Barra da Tijuca,226007-000,RJ,50.68,24.01
+639,Bradly,Rubinowitsch,1977-11-08 06:13:22.143596,Masculino,brubinowitschhq@hotmail.com,Não,772-391-6327,Sim,Sim,636-857-4501,Petterle,85915,Tijuca,205009-000,RJ,252.39,85.59
+640,Katy,Grute,1990-01-01 06:13:22.143596,Feminino,kgrutehr@gmail.com,Sim,272-227-6422,Não,Não,875-868-3036,Arapahoe,4913,Copacabana,220006-000,RJ,123.8,2.71
+641,Kristofor,Dowson,1989-12-11 06:13:22.143596,Masculino,kdowsonhs@hotmail.com,Sim,230-110-1274,Sim,Não,309-875-3908,Kipling,71271,Barra da Tijuca,226003-000,RJ,325.14,78.43
+642,Moyra,Skein,1989-12-06 06:13:22.143596,Outros,mskeinht@gmail.com,Não,313-382-6293,Sim,Sim,866-422-7483,Algoma,82,Copacabana,220003-000,RJ,373.42,61.39
+643,Mendy,Eberdt,1963-04-21 06:13:22.143596,Masculino,meberdthu@hotmail.com,Sim,413-637-6865,Não,Sim,955-807-7233,Thompson,76,Tijuca,205005-000,RJ,416.58,61.79
+644,Perren,Monery,2000-06-20 06:13:22.143596,Masculino,pmoneryhv@hotmail.com,Não,740-637-0883,Não,Não,153-786-0285,Springview,40750,Barra da Tijuca,226006-000,RJ,187.24,36.62
+645,Lorant,Dolman,1978-03-03 06:13:22.143596,Masculino,ldolmanhw@hotmail.com,Não,316-153-8800,Sim,Sim,465-581-0335,Ramsey,6277,Copacabana,220007-000,RJ,475.46,66.99
+646,Nancie,Aldrick,1999-05-18 06:13:22.143596,Feminino,naldrickhx@gmail.com,Não,535-968-3122,Não,Não,791-561-0463,Harper,444,Copacabana,220002-000,RJ,232.55,8.79
+647,Alfie,Tomeo,2006-11-25 06:13:22.143596,Masculino,atomeohy@gmail.com,Não,425-899-8230,Não,Não,615-895-5403,Brickson Park,3747,Tijuca,205008-000,RJ,479.68,77.94
+648,Garvy,Methringham,2006-09-10 06:13:22.143596,Masculino,gmethringhamhz@gmail.com,Sim,904-651-4540,Sim,Sim,928-218-8357,Canary,15634,Barra da Tijuca,226001-000,RJ,411.85,90.87
+649,Sollie,Trethewey,1980-03-30 06:13:22.143596,Masculino,stretheweyi0@gmail.com,Não,864-615-5154,Sim,Não,805-607-6409,Roth,1,Barra da Tijuca,226009-000,RJ,389.98,30.54
+650,Geoffrey,Easbie,1977-03-02 06:13:22.143596,Masculino,geasbiei1@hotmail.com,Sim,438-253-7408,Não,Não,888-883-0339,Caliangt,598,Barra da Tijuca,226008-000,RJ,490.47,27.73
+651,Rici,Joerning,1961-11-28 06:13:22.143596,Feminino,rjoerningi2@hotmail.com,Sim,760-908-1189,Não,Sim,765-790-7136,Clyde Gallagher,54580,Tijuca,205009-000,RJ,52.83,73.11
+652,Vassily,Lodford,1968-01-04 06:13:22.143596,Masculino,vlodfordi3@gmail.com,Não,359-851-1656,Sim,Não,192-387-2153,Esch,9,Tijuca,205005-000,RJ,490.36,34.28
+653,Fanny,Ghirardi,1994-05-02 06:13:22.143596,Feminino,fghirardii4@hotmail.com,Não,400-780-5681,Não,Sim,189-157-3927,Barby,7471,Tijuca,205007-000,RJ,327.71,84.33
+654,Silvana,Louw,2005-02-21 06:13:22.143596,Feminino,slouwi5@gmail.com,Não,838-484-1588,Não,Sim,940-403-1796,Hansons,5159,Barra da Tijuca,226001-000,RJ,296.19,71.41
+655,Faun,Kellie,1978-12-26 06:13:22.143596,Feminino,fkelliei6@gmail.com,Sim,681-855-8403,Não,Não,461-939-9052,Kingsford,1,Copacabana,220006-000,RJ,188.03,76.07
+656,Bethanne,Stapleton,1991-11-19 06:13:22.143596,Feminino,bstapletoni7@hotmail.com,Não,257-897-3202,Não,Sim,139-858-8183,Jackson,892,Copacabana,220002-000,RJ,248.75,83.38
+657,Rodolphe,Filtness,1993-05-27 06:13:22.143596,Masculino,rfiltnessi8@hotmail.com,Não,917-451-9417,Não,Não,172-329-2890,Mallard,9332,Tijuca,205008-000,RJ,144.84,96.05
+658,Gladys,Dauby,1981-06-14 06:13:22.143596,Feminino,gdaubyi9@hotmail.com,Sim,613-424-7509,Sim,Não,635-468-1133,Troy,80,Barra da Tijuca,226007-000,RJ,91.49,47.88
+659,Tarah,Dillistone,1972-05-13 06:13:22.143596,Feminino,tdillistoneia@hotmail.com,Não,126-474-1219,Não,Não,141-997-3567,Briar Crest,42,Copacabana,220007-000,RJ,267.88,45.44
+660,Daniel,Birts,1969-08-28 06:13:22.143596,Masculino,dbirtsib@gmail.com,Sim,845-706-3637,Sim,Sim,699-750-6652,Arrowood,88,Tijuca,205001-000,RJ,241.58,42.75
+661,Uriel,Hassewell,1976-12-13 06:13:22.143596,Masculino,uhassewellic@hotmail.com,Sim,816-981-3429,Sim,Sim,896-545-9242,Muir,8337,Copacabana,220004-000,RJ,76.72,6.47
+662,Claybourne,Dei,1977-02-23 06:13:22.143596,Masculino,cdeiid@hotmail.com,Sim,569-292-6990,Não,Sim,651-156-8769,Northland,21,Tijuca,205006-000,RJ,385.28,49.8
+663,Laura,Keep,1992-06-22 06:13:22.143596,Feminino,lkeepie@hotmail.com,Sim,945-356-8444,Não,Não,145-809-7982,Anderson,15817,Barra da Tijuca,226007-000,RJ,483.83,20.53
+664,Randall,Birden,1993-12-07 06:13:22.143596,Masculino,rbirdenif@gmail.com,Não,226-355-0467,Não,Sim,254-707-7315,Oak Valley,5,Copacabana,220004-000,RJ,62.3,92.84
+665,D'arcy,Tremblet,1994-04-13 06:13:22.143596,Masculino,dtrembletig@gmail.com,Não,566-977-6362,Não,Sim,117-846-1406,Banding,55849,Barra da Tijuca,226009-000,RJ,460.93,19.03
+666,Pammi,Jagels,2004-04-21 06:13:22.143596,Feminino,pjagelsih@hotmail.com,Não,823-769-7223,Não,Sim,492-433-1552,Anderson,49,Tijuca,205003-000,RJ,280.92,48.71
+667,Flor,Haliday,1992-03-01 06:13:22.143596,Feminino,fhalidayii@gmail.com,Não,996-488-9889,Não,Não,394-576-8302,East,8,Tijuca,205007-000,RJ,251.59,31.21
+668,Sigismund,Dansie,1971-03-06 06:13:22.143596,Masculino,sdansieij@hotmail.com,Não,626-440-8951,Não,Não,538-290-7126,Surrey,90,Copacabana,220009-000,RJ,361.42,96.64
+669,Ina,Gosling,1992-01-16 06:13:22.143596,Feminino,igoslingik@hotmail.com,Não,228-652-5263,Sim,Sim,927-941-8964,Green,37522,Copacabana,220005-000,RJ,297.57,76.11
+670,Tobi,Reely,2005-05-09 06:13:22.143596,Feminino,treelyil@gmail.com,Não,755-713-3358,Sim,Sim,912-327-5310,Walton,61151,Copacabana,220001-000,RJ,315.16,99.07
+671,Kassi,Lynes,2005-08-07 06:13:22.143596,Feminino,klynesim@gmail.com,Não,136-307-7924,Não,Não,661-992-4513,Gerald,0,Copacabana,220008-000,RJ,94.15,7.5
+672,Newton,Pont,1973-10-06 06:13:22.143596,Masculino,npontin@hotmail.com,Sim,455-665-5147,Não,Sim,736-114-8007,Northwestern,901,Copacabana,220009-000,RJ,240.94,23.63
+673,Adria,Werndly,1962-10-21 06:13:22.143596,Feminino,awerndlyio@hotmail.com,Não,220-705-9228,Sim,Não,244-281-2133,Karstens,3814,Barra da Tijuca,226002-000,RJ,327.51,54.89
+674,Denice,Tampin,1990-01-01 06:13:22.143596,Feminino,dtampinip@gmail.com,Não,229-669-8640,Sim,Não,940-160-9352,Florence,943,Barra da Tijuca,226007-000,RJ,438.97,59.15
+675,Joseph,Bonanno,1981-03-06 06:13:22.143596,Masculino,jbonannoiq@gmail.com,Não,612-231-6797,Não,Não,507-738-0483,Chinook,3611,Copacabana,220005-000,RJ,172.53,77.05
+676,Justina,Clemont,1995-05-15 06:13:22.143596,Feminino,jclemontir@gmail.com,Sim,986-129-3621,Não,Não,847-582-2362,Evergreen,56,Tijuca,205006-000,RJ,444.97,93.1
+677,Cristiano,Lovie,1978-03-20 06:13:22.143596,Masculino,clovieis@gmail.com,Não,610-141-1318,Sim,Sim,414-977-5163,Main,22,Tijuca,205006-000,RJ,331.02,36.39
+678,Lon,Garmanson,1999-01-20 06:13:22.143596,Masculino,lgarmansonit@hotmail.com,Sim,144-370-7306,Não,Sim,160-379-8662,Esker,42,Tijuca,205006-000,RJ,326.22,48.23
+679,Raoul,Keysel,1977-07-02 06:13:22.143596,Masculino,rkeyseliu@hotmail.com,Não,213-509-4019,Não,Sim,482-123-2678,Pearson,4,Barra da Tijuca,226007-000,RJ,110.76,38.57
+680,Gradey,Beardsworth,2000-05-15 06:13:22.143596,Masculino,gbeardsworthiv@gmail.com,Não,829-303-6254,Não,Não,981-128-3358,Debs,7414,Copacabana,220008-000,RJ,355.65,35.52
+681,Elsworth,Akehurst,1968-05-18 06:13:22.143596,Masculino,eakehurstiw@gmail.com,Não,211-584-3152,Sim,Sim,175-207-0977,Valley Edge,51,Barra da Tijuca,226007-000,RJ,357.52,21.93
+682,Yettie,Revening,1975-08-15 06:13:22.143596,Feminino,yreveningix@hotmail.com,Sim,252-351-7330,Sim,Não,167-140-6702,Huxley,93,Tijuca,205001-000,RJ,224.24,13.71
+683,Murdoch,Crannell,1973-04-19 06:13:22.143596,Masculino,mcrannelliy@gmail.com,Sim,732-906-1739,Não,Não,687-101-3831,Manitowish,0,Barra da Tijuca,226004-000,RJ,393.64,3.37
+684,Minny,Caroline,1993-06-18 06:13:22.143596,Feminino,mcarolineiz@hotmail.com,Não,576-722-6740,Sim,Sim,430-288-5073,Corben,251,Tijuca,205007-000,RJ,255.26,63.81
+685,Carole,Yuryshev,1968-10-15 06:13:22.143596,Feminino,cyuryshevj0@gmail.com,Não,938-772-7232,Não,Não,350-626-2602,Jenna,349,Barra da Tijuca,226007-000,RJ,319.44,58.16
+686,Elwin,Weald,1988-09-08 06:13:22.143596,Masculino,ewealdj1@gmail.com,Sim,725-546-8671,Sim,Sim,543-799-3110,Dennis,5,Copacabana,220009-000,RJ,162.46,71.22
+687,Bord,Blythin,1987-01-03 06:13:22.143596,Masculino,bblythinj2@gmail.com,Não,699-883-8319,Sim,Sim,685-855-5399,Jackson,5273,Barra da Tijuca,226002-000,RJ,412.98,76.1
+688,Cary,Dorrington,1967-06-04 06:13:22.143596,Outros,cdorringtonj3@gmail.com,Não,207-641-1616,Sim,Sim,160-545-5873,Lawn,931,Tijuca,205006-000,RJ,394.83,16.66
+689,Nelie,De Marchi,1976-02-27 06:13:22.143596,Feminino,ndemarchij4@gmail.com,Sim,431-273-1227,Sim,Não,280-223-6137,Pepper Wood,3791,Barra da Tijuca,226006-000,RJ,324.93,93.3
+690,Hamnet,Swannack,1981-06-05 06:13:22.143596,Masculino,hswannackj5@hotmail.com,Sim,430-750-4823,Não,Sim,717-427-6726,Redwing,35,Copacabana,220002-000,RJ,277.72,82.28
+691,Debbie,Dench,1993-09-03 06:13:22.143596,Feminino,ddenchj6@gmail.com,Sim,501-627-0625,Não,Não,505-265-9645,Stang,32255,Copacabana,220002-000,RJ,251.81,4.94
+692,Rodolphe,Treweek,1965-06-05 06:13:22.143596,Masculino,rtreweekj7@gmail.com,Sim,123-570-3623,Sim,Sim,592-654-6458,Anderson,9276,Copacabana,220008-000,RJ,417.75,9.22
+693,Christel,Duddy,1977-08-31 06:13:22.143596,Feminino,cduddyj8@gmail.com,Sim,125-102-0231,Não,Sim,531-183-7398,Bay,4,Tijuca,205004-000,RJ,333.25,65.52
+694,Tuesday,Mendel,1973-03-09 06:13:22.143596,Feminino,tmendelj9@hotmail.com,Não,530-387-6982,Sim,Não,953-233-8878,Prairie Rose,472,Copacabana,220005-000,RJ,288.36,18.31
+695,Melody,Witchell,1986-04-07 06:13:22.143596,Feminino,mwitchellja@gmail.com,Não,863-770-6180,Sim,Sim,945-711-1167,Old Shore,674,Barra da Tijuca,226006-000,RJ,149.37,12.45
+696,Allin,Meco,1964-03-17 06:13:22.143596,Masculino,amecojb@gmail.com,Não,337-640-0999,Não,Não,567-455-4488,Jana,21,Barra da Tijuca,226004-000,RJ,385.5,71.49
+697,Brock,MacTrustrie,1990-07-04 06:13:22.143596,Masculino,bmactrustriejc@gmail.com,Sim,151-406-5458,Sim,Não,903-988-6053,Raven,94112,Copacabana,220006-000,RJ,462.82,66.31
+698,Ellissa,Piggin,1997-08-22 06:13:22.143596,Feminino,epigginjd@hotmail.com,Não,275-877-1543,Não,Sim,298-432-3301,Evergreen,248,Copacabana,220002-000,RJ,345.55,19.99
+699,Taryn,Timoney,1993-11-29 06:13:22.143596,Feminino,ttimoneyje@hotmail.com,Não,505-365-5196,Não,Não,951-379-2456,Express,10739,Tijuca,205007-000,RJ,347.34,87.47
+700,Dorelle,Gowan,1996-09-02 06:13:22.143596,Outros,dgowanjf@gmail.com,Não,791-165-3428,Não,Sim,403-427-0830,Steensland,1,Copacabana,220009-000,RJ,462.17,83.78
+701,Porter,Zavittieri,1962-01-30 06:13:22.143596,Masculino,pzavittierijg@gmail.com,Sim,233-848-7927,Sim,Sim,666-549-5744,Anzinger,2,Copacabana,220007-000,RJ,274.38,38.3
+702,Dionisio,Brislen,1967-05-27 06:13:22.143596,Masculino,dbrislenjh@hotmail.com,Sim,312-852-2081,Sim,Sim,561-153-2419,Bowman,1879,Tijuca,205002-000,RJ,314.22,31.16
+703,Gerrie,Workman,1977-09-01 06:13:22.143596,Masculino,gworkmanji@hotmail.com,Sim,230-275-3682,Sim,Sim,262-704-5051,1st,98,Barra da Tijuca,226005-000,RJ,101.34,31.2
+704,Trumann,Revie,1991-12-23 06:13:22.143596,Masculino,treviejj@gmail.com,Sim,729-147-8078,Sim,Não,978-891-3104,Twin Pines,1,Barra da Tijuca,226006-000,RJ,340.81,79.37
+705,York,Harteley,1963-04-01 06:13:22.143596,Masculino,yharteleyjk@gmail.com,Sim,547-103-9657,Não,Sim,823-614-7347,Caliangt,3067,Tijuca,205002-000,RJ,120.4,9.76
+706,Rozalin,Brookwell,1965-04-20 06:13:22.143596,Feminino,rbrookwelljl@hotmail.com,Não,973-729-5684,Não,Sim,884-599-0018,Westerfield,5,Copacabana,220002-000,RJ,136.99,11.93
+707,Emily,Sanpere,1989-09-03 06:13:22.143596,Feminino,esanperejm@gmail.com,Sim,818-441-3290,Sim,Sim,294-192-6562,Mayer,9150,Tijuca,205004-000,RJ,411.84,93.47
+708,Lucias,Mattiussi,1993-11-14 06:13:22.143596,Masculino,lmattiussijn@gmail.com,Não,823-452-9826,Sim,Não,972-190-7066,Derek,41,Barra da Tijuca,226004-000,RJ,101.56,8.47
+709,Flor,Ladson,1972-10-17 06:13:22.143596,Feminino,fladsonjo@gmail.com,Sim,740-479-4657,Não,Não,184-761-6117,Starling,5,Copacabana,220003-000,RJ,464.59,54.37
+710,Louisa,Haime,1997-03-21 06:13:22.143596,Outros,lhaimejp@hotmail.com,Sim,647-416-9243,Não,Não,415-960-9357,Jay,79,Barra da Tijuca,226009-000,RJ,264.12,90.79
+711,Cobby,Pride,1984-01-24 06:13:22.143596,Masculino,cpridejq@gmail.com,Sim,324-783-2991,Sim,Não,452-231-6202,Glendale,6717,Copacabana,220005-000,RJ,288.56,80.2
+712,Bailie,Gaitskill,1979-11-02 06:13:22.143596,Masculino,bgaitskilljr@hotmail.com,Não,594-562-4196,Não,Sim,882-155-8075,Pine View,1349,Copacabana,220003-000,RJ,338.12,94.6
+713,Cecily,Brauns,2001-01-22 06:13:22.143596,Feminino,cbraunsjs@hotmail.com,Não,856-340-4995,Sim,Não,376-417-5344,Hayes,76333,Tijuca,205007-000,RJ,484.81,29.96
+714,Anita,Dyball,1971-09-15 06:13:22.143596,Feminino,adyballjt@hotmail.com,Não,236-281-5220,Sim,Sim,251-808-6450,Cody,455,Barra da Tijuca,226004-000,RJ,313.6,24.85
+715,Eric,Alvarez,1991-09-02 06:13:22.143596,Masculino,ealvarezju@gmail.com,Sim,332-912-4926,Sim,Não,632-907-2167,Linden,7,Tijuca,205006-000,RJ,60.79,10.62
+716,Ange,Gorthy,1964-04-07 06:13:22.143596,Masculino,agorthyjv@hotmail.com,Não,610-711-9951,Não,Sim,800-571-5394,Mcguire,4679,Barra da Tijuca,226001-000,RJ,420.38,88.82
+717,Britni,Allmond,1967-12-30 06:13:22.143596,Feminino,ballmondjw@gmail.com,Sim,358-200-4400,Sim,Sim,464-831-4843,Esker,4401,Tijuca,205008-000,RJ,261.61,50.96
+718,Reggie,Showering,2003-12-07 06:13:22.143596,Masculino,rshoweringjx@gmail.com,Não,879-860-4597,Sim,Não,677-566-0941,Muir,5122,Barra da Tijuca,226008-000,RJ,378.89,0.75
+719,Egan,Brody,1987-12-01 06:13:22.143596,Masculino,ebrodyjy@hotmail.com,Não,246-995-5023,Não,Não,745-178-0053,Ilene,938,Copacabana,220003-000,RJ,466.63,73.79
+720,Oralie,Pennetta,1986-11-06 06:13:22.143596,Feminino,opennettajz@hotmail.com,Sim,621-781-4709,Não,Sim,660-940-6331,Linden,9,Copacabana,220007-000,RJ,387.46,71.9
+721,Alwin,Adamik,1971-09-03 06:13:22.143596,Masculino,aadamikk0@hotmail.com,Não,302-900-4217,Não,Não,788-299-5987,Maryland,6,Copacabana,220008-000,RJ,459.22,4.72
+722,Derward,Mundford,1987-03-01 06:13:22.143596,Masculino,dmundfordk1@gmail.com,Não,513-725-3270,Sim,Não,792-219-2206,Farmco,96464,Barra da Tijuca,226004-000,RJ,114.92,21.15
+723,Lawry,Pillman,2002-12-17 06:13:22.143596,Masculino,lpillmank2@hotmail.com,Sim,687-988-1316,Sim,Não,663-710-8309,Kennedy,532,Barra da Tijuca,226001-000,RJ,132.8,85.17
+724,Garrett,Rispen,1991-03-19 06:13:22.143596,Outros,grispenk3@hotmail.com,Não,201-791-8321,Não,Sim,264-940-1295,Fair Oaks,7,Copacabana,220001-000,RJ,141.59,59.03
+725,Aveline,Thurner,1984-12-10 06:13:22.143596,Outros,athurnerk4@gmail.com,Sim,983-942-7096,Sim,Sim,905-247-6844,Graceland,6342,Tijuca,205001-000,RJ,457.15,37.75
+726,Levey,Metrick,1995-06-10 06:13:22.143596,Masculino,lmetrickk5@hotmail.com,Não,638-721-6826,Sim,Sim,752-216-2645,Old Gate,61,Tijuca,205003-000,RJ,254.59,79.04
+727,Hayden,MacAree,1983-05-18 06:13:22.143596,Masculino,hmacareek6@gmail.com,Sim,661-921-4343,Sim,Não,344-863-5703,Sunnyside,49,Barra da Tijuca,226007-000,RJ,70.3,95.65
+728,Pyotr,Whittier,1969-12-03 06:13:22.143596,Masculino,pwhittierk7@gmail.com,Não,568-643-5735,Sim,Sim,843-620-4640,South,3074,Barra da Tijuca,226006-000,RJ,256.9,59.27
+729,Aylmer,Shermore,1992-10-11 06:13:22.143596,Masculino,ashermorek8@gmail.com,Não,373-543-1544,Não,Sim,296-108-5639,Pine View,146,Tijuca,205003-000,RJ,257.05,56.78
+730,Mora,Oosthout de Vree,1981-08-21 06:13:22.143596,Feminino,moosthoutdevreek9@hotmail.com,Sim,360-695-4337,Não,Não,105-207-6683,Oak Valley,83010,Copacabana,220009-000,RJ,265.97,39.32
+731,Brucie,Reucastle,1961-10-28 06:13:22.143596,Masculino,breucastleka@gmail.com,Sim,518-515-5614,Sim,Não,527-776-0477,Pierstorff,5810,Tijuca,205003-000,RJ,346.28,93.08
+732,Marni,Caustick,2004-02-28 06:13:22.143596,Feminino,mcaustickkb@hotmail.com,Não,619-513-9413,Não,Não,535-762-7644,Portage,15,Barra da Tijuca,226008-000,RJ,200.44,79.99
+733,Candis,Bahl,1986-07-27 06:13:22.143596,Feminino,cbahlkc@gmail.com,Não,117-347-8627,Sim,Sim,416-918-1059,Dixon,8,Tijuca,205002-000,RJ,290.83,99.49
+734,Olive,Berndtssen,1992-09-21 06:13:22.143596,Feminino,oberndtssenkd@gmail.com,Sim,235-720-9977,Não,Sim,744-202-8827,Butternut,76,Tijuca,205002-000,RJ,247.76,47.22
+735,Barbette,Kingsworth,1991-10-13 06:13:22.143596,Feminino,bkingsworthke@hotmail.com,Não,542-383-9816,Não,Não,596-273-8631,Pond,8789,Tijuca,205001-000,RJ,478.68,51.1
+736,Jesse,Maryan,1984-01-16 06:13:22.143596,Outros,jmaryankf@gmail.com,Sim,955-872-4950,Sim,Sim,695-955-5576,Cody,88992,Tijuca,205008-000,RJ,240.69,48.36
+737,Shelba,Rozec,1970-04-08 06:13:22.143596,Feminino,srozeckg@hotmail.com,Sim,476-795-8320,Sim,Não,698-110-9512,Bartelt,92649,Copacabana,220008-000,RJ,120.06,85.8
+738,Paolo,Gumme,1990-02-12 06:13:22.143596,Masculino,pgummekh@gmail.com,Não,760-444-2491,Não,Não,301-961-9723,Boyd,6795,Tijuca,205009-000,RJ,182.75,97.44
+739,Aleta,Moffett,1986-08-09 06:13:22.143596,Feminino,amoffettki@hotmail.com,Sim,197-921-0811,Sim,Não,350-569-6221,Fuller,332,Barra da Tijuca,226008-000,RJ,241.19,38.98
+740,Borg,Djurevic,1981-03-22 06:13:22.143596,Masculino,bdjurevickj@hotmail.com,Sim,355-117-0815,Sim,Não,402-647-9764,Menomonie,42676,Copacabana,220009-000,RJ,282.72,38.22
+741,Purcell,Brient,1965-12-14 06:13:22.143596,Masculino,pbrientkk@hotmail.com,Sim,414-894-5091,Sim,Sim,240-688-9904,Fuller,91763,Copacabana,220002-000,RJ,115.78,36.16
+742,Bearnard,Southerton,2000-04-27 06:13:22.143596,Masculino,bsouthertonkl@hotmail.com,Não,688-770-1829,Sim,Não,229-677-6923,Vernon,5,Tijuca,205006-000,RJ,372.68,5.6
+743,Stafford,Bollin,2007-07-02 06:13:22.143596,Masculino,sbollinkm@hotmail.com,Sim,350-802-8035,Não,Não,353-966-6033,Village,62,Barra da Tijuca,226007-000,RJ,300.4,40.12
+744,Brit,Farrimond,1962-08-30 06:13:22.143596,Masculino,bfarrimondkn@hotmail.com,Sim,954-989-3391,Não,Não,669-115-8372,Killdeer,686,Copacabana,220004-000,RJ,195.98,20.74
+745,Pasquale,Caillou,1973-01-23 06:13:22.143596,Masculino,pcaillouko@hotmail.com,Sim,739-423-9549,Não,Sim,526-860-1372,Parkside,7,Barra da Tijuca,226009-000,RJ,364.47,70.21
+746,Julianna,Roft,1992-01-16 06:13:22.143596,Feminino,jroftkp@hotmail.com,Não,433-206-4928,Sim,Sim,249-713-3049,Leroy,30693,Copacabana,220004-000,RJ,372.22,94.76
+747,Milton,Davio,2002-09-19 06:13:22.143596,Masculino,mdaviokq@gmail.com,Não,525-748-4475,Sim,Não,260-983-3677,Sherman,42,Barra da Tijuca,226009-000,RJ,148.16,69.4
+748,Golda,Mattecot,1998-08-10 06:13:22.143596,Feminino,gmattecotkr@hotmail.com,Sim,936-488-9625,Não,Sim,782-632-2355,Badeau,9,Copacabana,220006-000,RJ,124.84,80.23
+749,Joel,Potier,1979-01-15 06:13:22.143596,Masculino,jpotierks@hotmail.com,Não,903-909-8377,Não,Não,498-247-6348,Dayton,703,Copacabana,220007-000,RJ,399.8,9.19
+750,Sibby,Whanstall,1969-02-28 06:13:22.143596,Outros,swhanstallkt@hotmail.com,Sim,212-734-0865,Não,Sim,489-820-6572,Burrows,2,Copacabana,220001-000,RJ,69.48,17.05
+751,Philly,Zorzini,1997-06-03 06:13:22.143596,Feminino,pzorziniku@gmail.com,Sim,993-978-7868,Não,Não,800-426-1317,Northfield,89181,Copacabana,220007-000,RJ,333.37,6.34
+752,Brietta,Crissil,2002-03-21 06:13:22.143596,Outros,bcrissilkv@hotmail.com,Não,917-858-2737,Sim,Sim,145-857-8853,Hoard,3,Barra da Tijuca,226002-000,RJ,100.3,39.08
+753,Gwen,Handman,1995-08-03 06:13:22.143596,Feminino,ghandmankw@hotmail.com,Sim,393-442-8645,Não,Sim,388-663-3370,Roth,69,Barra da Tijuca,226006-000,RJ,167.31,7.57
+754,Griffy,Lomansey,1971-05-12 06:13:22.143596,Masculino,glomanseykx@gmail.com,Sim,117-762-8234,Sim,Não,355-713-1005,Stephen,28772,Copacabana,220002-000,RJ,103.05,58.25
+755,Bevvy,Baccus,2003-09-16 06:13:22.143596,Feminino,bbaccusky@gmail.com,Sim,492-502-4059,Sim,Sim,756-141-6626,Dixon,77573,Copacabana,220006-000,RJ,77.64,42.8
+756,Irita,Aldin,1961-04-07 06:13:22.143596,Feminino,ialdinkz@hotmail.com,Não,468-228-2061,Não,Não,901-510-3437,Oxford,42796,Copacabana,220003-000,RJ,268.61,18.15
+757,Florina,Taylour,1996-06-11 06:13:22.143596,Outros,ftaylourl0@gmail.com,Sim,987-133-0570,Não,Não,447-459-7218,Gerald,6,Copacabana,220008-000,RJ,455.24,80.89
+758,Jacqueline,Gewer,1979-12-03 06:13:22.143596,Feminino,jgewerl1@hotmail.com,Não,304-621-8692,Sim,Não,905-242-9927,Crowley,6638,Barra da Tijuca,226009-000,RJ,348.62,32.36
+759,Kathi,Endle,2005-10-04 06:13:22.143596,Feminino,kendlel2@gmail.com,Sim,249-432-5074,Não,Sim,966-170-3637,Cottonwood,2936,Barra da Tijuca,226006-000,RJ,378.03,82.46
+760,Bax,Cella,2006-07-10 06:13:22.143596,Masculino,bcellal3@gmail.com,Sim,237-159-0450,Não,Sim,599-499-4822,Sachtjen,6,Barra da Tijuca,226007-000,RJ,443.06,70.17
+761,Harald,Wittke,1961-01-26 06:13:22.143596,Masculino,hwittkel4@hotmail.com,Não,673-467-0040,Sim,Não,659-923-1462,Moland,5197,Copacabana,220005-000,RJ,380.66,96.13
+762,Ernestine,Rarity,1962-08-28 06:13:22.143596,Feminino,erarityl5@gmail.com,Sim,404-399-4221,Não,Sim,861-428-3432,Blaine,90890,Copacabana,220004-000,RJ,309.9,2.65
+763,Alphonso,Hillborne,1996-08-06 06:13:22.143596,Masculino,ahillbornel6@gmail.com,Sim,375-992-1906,Não,Não,356-652-5000,Fieldstone,3577,Barra da Tijuca,226006-000,RJ,408.28,89.7
+764,Hatty,Ferro,1995-04-14 06:13:22.143596,Feminino,hferrol7@hotmail.com,Sim,465-651-3034,Sim,Não,391-344-2863,Waywood,9189,Copacabana,220002-000,RJ,278.38,41.14
+765,Tabby,Wibberley,1977-09-16 06:13:22.143596,Feminino,twibberleyl8@gmail.com,Sim,298-974-9625,Não,Sim,524-812-7753,Dottie,44629,Tijuca,205007-000,RJ,309.28,27.89
+766,Olly,Paddell,1975-05-14 06:13:22.143596,Feminino,opaddelll9@hotmail.com,Não,299-192-3276,Não,Sim,266-245-2829,Sommers,70348,Tijuca,205009-000,RJ,169.23,51.11
+767,Free,Sheasby,1985-06-24 06:13:22.143596,Masculino,fsheasbyla@gmail.com,Não,415-587-2413,Não,Sim,606-228-1964,Shasta,50,Tijuca,205001-000,RJ,242.55,38.25
+768,Arly,Tatford,1961-04-04 06:13:22.143596,Outros,atatfordlb@gmail.com,Não,270-188-3902,Não,Sim,646-104-8740,South,26,Barra da Tijuca,226007-000,RJ,275.67,12.4
+769,Joni,Durnin,2007-07-16 06:13:22.143596,Feminino,jdurninlc@hotmail.com,Não,388-551-7548,Sim,Sim,549-566-2192,Manitowish,35,Tijuca,205004-000,RJ,288.59,55.08
+770,Lyndsey,Hawgood,1976-02-19 06:13:22.143596,Feminino,lhawgoodld@hotmail.com,Não,613-841-8740,Não,Não,615-906-6252,Dapin,4029,Tijuca,205007-000,RJ,358.13,26.77
+771,Lucita,Yearsley,1989-06-02 06:13:22.143596,Outros,lyearsleyle@hotmail.com,Sim,364-165-1948,Sim,Não,409-635-7840,Dennis,595,Copacabana,220002-000,RJ,62.65,89.78
+772,Otis,Haythornthwaite,1969-03-12 06:13:22.143596,Masculino,ohaythornthwaitelf@hotmail.com,Sim,641-697-2711,Sim,Sim,317-455-1068,Springs,36402,Copacabana,220002-000,RJ,223.55,95.6
+773,Luther,Shadfourth,1989-07-02 06:13:22.143596,Outros,lshadfourthlg@gmail.com,Não,631-167-4851,Sim,Não,398-296-5415,Dorton,3,Tijuca,205003-000,RJ,423.65,21.73
+774,Inge,Brotherick,1972-10-07 06:13:22.143596,Feminino,ibrothericklh@hotmail.com,Sim,627-496-7910,Não,Sim,525-993-7677,Miller,2,Barra da Tijuca,226003-000,RJ,321.14,34.44
+775,Truman,Seater,1960-12-12 06:13:22.143596,Masculino,tseaterli@hotmail.com,Não,229-439-4282,Sim,Sim,181-322-2454,Dexter,9395,Barra da Tijuca,226004-000,RJ,343.94,54.5
+776,Romonda,Brocks,2001-09-22 06:13:22.143596,Feminino,rbrockslj@gmail.com,Sim,537-483-3160,Sim,Sim,666-826-8199,Anderson,527,Barra da Tijuca,226006-000,RJ,236.59,97.66
+777,Ignatius,Boshere,2007-03-06 06:13:22.143596,Masculino,ibosherelk@hotmail.com,Não,670-601-2809,Não,Sim,194-259-2362,Manley,14,Tijuca,205001-000,RJ,455.6,34.45
+778,Iorgo,Anstis,1990-08-01 06:13:22.143596,Masculino,ianstisll@hotmail.com,Não,521-656-3450,Sim,Não,422-800-8556,Sage,3005,Copacabana,220001-000,RJ,179.8,40.34
+779,Tansy,Saura,1974-12-06 06:13:22.143596,Outros,tsauralm@hotmail.com,Não,702-535-8109,Sim,Sim,940-396-5120,Chinook,1,Tijuca,205006-000,RJ,116.19,10.01
+780,Herrick,Manach,1974-10-15 06:13:22.143596,Masculino,hmanachln@gmail.com,Sim,390-600-7493,Sim,Não,649-185-7098,Brentwood,231,Copacabana,220005-000,RJ,204.59,86.21
+781,Helenelizabeth,Exrol,1993-11-19 06:13:22.143596,Feminino,hexrollo@gmail.com,Sim,717-128-5345,Não,Sim,105-844-4759,Heffernan,939,Copacabana,220002-000,RJ,363.31,20.17
+782,Saloma,Jowitt,1979-09-19 06:13:22.143596,Feminino,sjowittlp@gmail.com,Sim,787-296-8582,Não,Não,270-345-9010,Arrowood,30,Barra da Tijuca,226002-000,RJ,108.12,67.29
+783,Lucien,Tenant,1989-09-13 06:13:22.143596,Masculino,ltenantlq@gmail.com,Sim,625-917-0062,Não,Sim,291-249-3724,Farwell,8181,Tijuca,205006-000,RJ,458.75,13.09
+784,Fara,Dewar,1961-08-15 06:13:22.143596,Feminino,fdewarlr@hotmail.com,Não,519-680-2924,Não,Sim,836-637-4125,Kings,15,Copacabana,220001-000,RJ,244.49,42.22
+785,Rycca,Fakeley,2005-03-19 06:13:22.143596,Feminino,rfakeleyls@gmail.com,Sim,675-496-3002,Não,Não,744-699-1840,Packers,24710,Tijuca,205009-000,RJ,455.97,24.29
+786,Mathilda,Sibbering,1997-09-05 06:13:22.143596,Feminino,msibberinglt@hotmail.com,Não,324-305-7832,Sim,Sim,811-405-0044,New Castle,27591,Copacabana,220009-000,RJ,355.39,12.69
+787,Mada,Muddiman,1966-08-25 06:13:22.143596,Feminino,mmuddimanlu@gmail.com,Não,321-975-0263,Não,Não,456-543-2399,Stang,42627,Copacabana,220007-000,RJ,395.41,55.4
+788,Des,McCaffrey,2000-03-15 06:13:22.143596,Masculino,dmccaffreylv@gmail.com,Sim,195-610-6711,Não,Não,849-567-3760,Dovetail,357,Copacabana,220009-000,RJ,323.97,12.73
+789,Fred,Bowsher,2005-09-04 06:13:22.143596,Masculino,fbowsherlw@gmail.com,Sim,811-426-6067,Sim,Não,617-499-6011,Barby,56,Tijuca,205005-000,RJ,422.51,71.99
+790,Lannie,Theriot,2003-02-25 06:13:22.143596,Masculino,ltheriotlx@gmail.com,Sim,314-741-2993,Sim,Sim,394-987-9924,Saint Paul,92784,Copacabana,220002-000,RJ,139.4,94.96
+791,Boote,Lorentz,2001-09-06 06:13:22.143596,Masculino,blorentzly@gmail.com,Sim,509-192-4092,Não,Sim,103-663-4820,Thompson,54,Copacabana,220001-000,RJ,187.89,56.6
+792,Earvin,O'Logan,2001-08-08 06:13:22.143596,Masculino,eologanlz@gmail.com,Sim,245-740-8413,Sim,Não,279-986-9171,Kinsman,3,Copacabana,220007-000,RJ,62.94,45.65
+793,Lotta,Searby,1992-01-13 06:13:22.143596,Feminino,lsearbym0@gmail.com,Não,516-136-1203,Sim,Não,850-637-1510,Old Gate,11,Tijuca,205001-000,RJ,420.38,21.45
+794,Modestine,Sargison,1977-04-24 06:13:22.143596,Feminino,msargisonm1@hotmail.com,Não,171-953-7300,Sim,Sim,749-254-2282,Harper,75,Copacabana,220009-000,RJ,389.32,39.66
+795,Fredia,Theuff,1971-01-24 06:13:22.143596,Feminino,ftheuffm2@gmail.com,Sim,677-373-0692,Sim,Não,424-738-1159,Marcy,8232,Copacabana,220001-000,RJ,432.5,41.71
+796,Lucky,Alans,1976-01-23 06:13:22.143596,Outros,lalansm3@gmail.com,Não,118-512-2776,Não,Não,733-784-7915,Scofield,1209,Copacabana,220007-000,RJ,211.97,10.12
+797,Rolando,Stit,1992-04-11 06:13:22.143596,Masculino,rstitm4@hotmail.com,Não,388-719-7177,Não,Não,977-456-8734,Eliot,6,Copacabana,220005-000,RJ,290.35,85.14
+798,Ashla,Poznan,1978-01-29 06:13:22.143596,Feminino,apoznanm5@hotmail.com,Não,232-116-2843,Não,Sim,318-756-4633,Pankratz,144,Copacabana,220008-000,RJ,277.67,1.27
+799,Billy,Yannoni,2004-12-30 06:13:22.143596,Feminino,byannonim6@gmail.com,Sim,738-349-3438,Sim,Sim,590-816-4538,Columbus,36,Tijuca,205009-000,RJ,63.87,46.03
+800,Deina,Aspling,1965-05-28 06:13:22.143596,Feminino,dasplingm7@hotmail.com,Não,713-897-8794,Sim,Sim,952-905-9458,Tony,0,Copacabana,220008-000,RJ,301.02,68.45
+801,Shandeigh,Grahl,2002-12-14 06:13:22.143596,Feminino,sgrahlm8@gmail.com,Não,865-906-4445,Não,Sim,716-353-3737,Hooker,0,Copacabana,220005-000,RJ,73.65,36.98
+802,Athene,Christophers,1961-02-06 06:13:22.143596,Feminino,achristophersm9@gmail.com,Não,170-946-9260,Sim,Não,684-950-2625,Onsgard,4,Barra da Tijuca,226007-000,RJ,330.02,41.33
+803,Yul,Tombling,1992-04-05 06:13:22.143596,Masculino,ytomblingma@gmail.com,Sim,911-994-5350,Sim,Sim,150-763-9825,Caliangt,73815,Tijuca,205009-000,RJ,284.87,43.94
+804,Niles,Risso,2003-03-16 06:13:22.143596,Masculino,nrissomb@hotmail.com,Não,933-118-9672,Não,Não,126-408-0679,Spenser,70029,Copacabana,220001-000,RJ,246.47,66.82
+805,Arnoldo,Avrahamian,1991-02-22 06:13:22.143596,Outros,aavrahamianmc@hotmail.com,Não,140-781-2165,Sim,Não,300-234-4915,Meadow Vale,27,Copacabana,220006-000,RJ,151.59,27.46
+806,Joshua,Urvoy,1981-07-11 06:13:22.143596,Masculino,jurvoymd@gmail.com,Não,414-755-0505,Sim,Não,562-801-9708,Rutledge,8,Tijuca,205009-000,RJ,231.94,25.31
+807,Cassius,Wimmers,1971-09-02 06:13:22.143596,Outros,cwimmersme@gmail.com,Não,303-235-2273,Não,Não,719-901-1480,Southridge,52,Tijuca,205009-000,RJ,446.54,45.11
+808,Dianna,McShirrie,1970-02-05 06:13:22.143596,Feminino,dmcshirriemf@gmail.com,Não,932-323-3812,Não,Não,140-549-6623,Doe Crossing,94,Barra da Tijuca,226008-000,RJ,244.22,11.14
+809,Upton,Danser,1970-06-05 06:13:22.143596,Masculino,udansermg@gmail.com,Sim,837-699-7195,Sim,Sim,515-548-3134,Badeau,68472,Tijuca,205009-000,RJ,229.3,18.9
+810,Kevyn,Balcock,1973-07-07 06:13:22.143596,Feminino,kbalcockmh@gmail.com,Não,609-696-3579,Não,Sim,676-480-7709,David,6,Copacabana,220003-000,RJ,374.93,68.96
+811,Lorant,Ruggen,1992-08-22 06:13:22.143596,Masculino,lruggenmi@gmail.com,Sim,304-194-4978,Sim,Não,372-159-4809,Talmadge,67,Barra da Tijuca,226009-000,RJ,180.1,20.9
+812,Ron,Waleworke,2001-04-20 06:13:22.143596,Masculino,rwaleworkemj@gmail.com,Sim,342-691-1602,Não,Não,811-364-7771,Lillian,3,Tijuca,205005-000,RJ,338.77,3.03
+813,Alleen,Riddington,2004-01-13 06:13:22.143596,Outros,ariddingtonmk@gmail.com,Sim,755-238-7075,Não,Não,330-340-9729,Eagan,59759,Barra da Tijuca,226009-000,RJ,272.57,28.07
+814,Faye,Vearncombe,1972-01-12 06:13:22.143596,Feminino,fvearncombeml@gmail.com,Sim,683-791-1727,Sim,Não,552-136-8648,Ridge Oak,7949,Copacabana,220004-000,RJ,491.52,35.73
+815,Barbra,Gilbanks,1982-11-21 06:13:22.143596,Feminino,bgilbanksmm@hotmail.com,Sim,719-775-1382,Não,Não,874-728-8604,Jay,3,Barra da Tijuca,226008-000,RJ,93.27,62.99
+816,Vincent,Siggins,1999-06-22 06:13:22.143596,Masculino,vsigginsmn@hotmail.com,Não,625-864-9918,Não,Não,537-238-7531,Forest Run,36,Copacabana,220008-000,RJ,116.97,84.44
+817,Zonnya,Benedidick,1965-02-04 06:13:22.143596,Feminino,zbenedidickmo@gmail.com,Sim,830-838-1339,Sim,Não,452-666-4405,Eagan,2775,Barra da Tijuca,226006-000,RJ,227.17,81.51
+818,Idell,Calyton,1996-05-23 06:13:22.143596,Feminino,icalytonmp@hotmail.com,Não,418-229-0252,Sim,Sim,408-737-1129,Golden Leaf,777,Copacabana,220008-000,RJ,223.99,93.82
+819,Kathe,Loos,1991-04-13 06:13:22.143596,Feminino,kloosmq@gmail.com,Sim,161-297-4013,Sim,Não,614-275-6645,Montana,7,Copacabana,220001-000,RJ,478.43,53.89
+820,Melissa,Boissier,1962-12-13 06:13:22.143596,Feminino,mboissiermr@gmail.com,Não,353-616-6564,Não,Sim,527-695-8355,Ruskin,6802,Tijuca,205007-000,RJ,56.27,31.09
+821,Diana,Emmison,1966-08-27 06:13:22.143596,Feminino,demmisonms@gmail.com,Sim,217-180-9404,Não,Sim,542-488-5159,Anderson,66029,Barra da Tijuca,226004-000,RJ,263.85,71.01
+822,Ethelind,Bundey,1991-02-18 06:13:22.143596,Feminino,ebundeymt@hotmail.com,Sim,743-528-5299,Não,Não,853-446-7587,Del Sol,0,Copacabana,220001-000,RJ,310.28,10.33
+823,Amalie,Dufall,1971-02-25 06:13:22.143596,Feminino,adufallmu@hotmail.com,Sim,689-148-1925,Sim,Sim,327-209-8616,Charing Cross,97997,Copacabana,220004-000,RJ,422.46,86.82
+824,Karisa,Santori,2007-03-11 06:13:22.143596,Feminino,ksantorimv@hotmail.com,Não,454-781-5584,Não,Sim,257-724-2070,Redwing,8,Copacabana,220003-000,RJ,156.63,96.96
+825,Elvyn,Rankmore,1999-10-01 06:13:22.143596,Masculino,erankmoremw@gmail.com,Não,916-838-1808,Não,Não,859-935-3967,Annamark,26,Barra da Tijuca,226007-000,RJ,484.89,1.06
+826,Mitchel,Dewdney,1967-05-10 06:13:22.143596,Masculino,mdewdneymx@hotmail.com,Sim,122-782-2937,Não,Não,872-219-9212,Gina,7200,Barra da Tijuca,226009-000,RJ,92.93,1.02
+827,Eloisa,Nichols,2003-12-26 06:13:22.143596,Feminino,enicholsmy@gmail.com,Sim,869-447-6555,Não,Sim,247-382-3554,Delladonna,5246,Barra da Tijuca,226003-000,RJ,137.72,91.53
+828,Mannie,Carlsson,1995-08-16 06:13:22.143596,Masculino,mcarlssonmz@gmail.com,Sim,465-708-0006,Não,Sim,467-704-7727,Basil,5071,Barra da Tijuca,226005-000,RJ,277.77,67.03
+829,Ezmeralda,Waterson,1998-01-21 06:13:22.143596,Feminino,ewatersonn0@gmail.com,Não,258-220-7819,Não,Sim,269-889-2170,Rieder,16,Copacabana,220006-000,RJ,391.31,40.41
+830,Emili,Ewbach,1985-08-04 06:13:22.143596,Feminino,eewbachn1@gmail.com,Não,409-801-2796,Sim,Sim,339-667-2167,Granby,49406,Copacabana,220004-000,RJ,266.97,62.2
+831,Todd,Vasser,2006-01-20 06:13:22.143596,Masculino,tvassern2@hotmail.com,Não,748-641-0213,Sim,Não,271-718-3560,Mallard,11266,Copacabana,220006-000,RJ,359.9,25.99
+832,Lavinia,Jurkowski,2007-05-08 06:13:22.143596,Feminino,ljurkowskin3@hotmail.com,Sim,771-794-9891,Sim,Não,190-251-0920,Shelley,404,Tijuca,205001-000,RJ,292.19,34.81
+833,Reuven,Ciccottini,1975-02-12 06:13:22.143596,Masculino,rciccottinin4@hotmail.com,Não,237-671-7856,Sim,Não,549-412-7384,Packers,9438,Tijuca,205006-000,RJ,185.91,32.53
+834,Conroy,Shelvey,1978-05-05 06:13:22.143596,Masculino,cshelveyn5@hotmail.com,Sim,481-728-2035,Não,Não,771-794-0259,Waubesa,33,Copacabana,220007-000,RJ,459.18,50.32
+835,Cynthy,Yearnes,1977-03-18 06:13:22.143596,Feminino,cyearnesn6@gmail.com,Sim,206-246-4811,Sim,Sim,775-971-8708,Loomis,43283,Tijuca,205006-000,RJ,273.98,52.03
+836,Roxine,Berney,2003-08-28 06:13:22.143596,Feminino,rberneyn7@gmail.com,Não,219-225-2027,Não,Sim,889-950-3377,Fordem,72390,Copacabana,220005-000,RJ,117.45,77.54
+837,Pavlov,Wybrew,1989-05-18 06:13:22.143596,Masculino,pwybrewn8@hotmail.com,Não,678-293-1341,Sim,Sim,689-554-5121,Stoughton,3464,Tijuca,205006-000,RJ,483.31,7.23
+838,Colline,Toombes,2000-07-09 06:13:22.143596,Feminino,ctoombesn9@hotmail.com,Não,972-541-4216,Sim,Não,116-497-9125,Pawling,78,Tijuca,205001-000,RJ,204.52,82.36
+839,Kellsie,Gaynor,1981-11-09 06:13:22.143596,Feminino,kgaynorna@gmail.com,Sim,904-504-5683,Sim,Não,608-667-4510,Dennis,754,Tijuca,205007-000,RJ,174.38,83.73
+840,Terri,Burt,1972-01-12 06:13:22.143596,Masculino,tburtnb@hotmail.com,Sim,942-269-8808,Sim,Não,174-965-2838,Weeping Birch,1668,Copacabana,220002-000,RJ,74.06,70.25
+841,Leanora,Digweed,1984-03-09 06:13:22.143596,Feminino,ldigweednc@hotmail.com,Não,293-761-4599,Não,Sim,265-695-7846,Brickson Park,70,Copacabana,220003-000,RJ,133.3,79.02
+842,Bron,Yuille,1977-06-30 06:13:22.143596,Masculino,byuillend@hotmail.com,Sim,114-312-4864,Não,Não,382-632-2357,Huxley,12738,Tijuca,205002-000,RJ,271.88,8.64
+843,Donovan,Navaro,1962-02-18 06:13:22.143596,Masculino,dnavarone@gmail.com,Não,473-148-2292,Sim,Não,652-548-7629,Monica,55,Copacabana,220003-000,RJ,144.36,37.22
+844,Lolita,Burgise,1978-01-22 06:13:22.143596,Feminino,lburgisenf@hotmail.com,Não,806-766-6665,Sim,Sim,121-416-1404,High Crossing,9868,Copacabana,220003-000,RJ,120.62,85.73
+845,Domingo,Filipyev,1979-09-14 06:13:22.143596,Masculino,dfilipyevng@hotmail.com,Não,319-401-9578,Não,Não,895-474-3646,Fordem,9423,Barra da Tijuca,226007-000,RJ,406.33,43.05
+846,Levin,Chevers,1986-11-23 06:13:22.143596,Masculino,lcheversnh@hotmail.com,Não,281-520-6327,Sim,Não,626-699-4588,Spohn,34,Copacabana,220001-000,RJ,455.64,17.41
+847,Hill,Belham,1982-02-05 06:13:22.143596,Outros,hbelhamni@gmail.com,Sim,959-384-6915,Sim,Sim,573-938-3633,Forest,5,Tijuca,205004-000,RJ,343.21,95.15
+848,Caril,Paffley,1991-08-30 06:13:22.143596,Outros,cpaffleynj@hotmail.com,Não,161-682-4208,Não,Sim,916-404-6935,Monica,0,Tijuca,205004-000,RJ,485.97,97.0
+849,Phillipe,Woodruffe,1983-05-06 06:13:22.143596,Masculino,pwoodruffenk@gmail.com,Não,622-460-3381,Não,Não,487-905-3081,Dwight,36,Barra da Tijuca,226009-000,RJ,292.25,1.78
+850,Tamqrah,Jaquest,1969-10-26 06:13:22.143596,Feminino,tjaquestnl@gmail.com,Sim,948-593-1080,Não,Não,567-304-5842,Hallows,4237,Copacabana,220007-000,RJ,348.5,66.23
+851,Mathe,Grimbaldeston,2000-07-23 06:13:22.143596,Masculino,mgrimbaldestonnm@hotmail.com,Sim,831-721-0377,Não,Não,277-607-2505,Anhalt,4,Barra da Tijuca,226008-000,RJ,462.92,9.43
+852,Sally,McCartney,1961-12-23 06:13:22.143596,Feminino,smccartneynn@hotmail.com,Não,473-132-7297,Não,Não,156-895-9686,Spohn,47,Copacabana,220006-000,RJ,144.12,52.01
+853,Norry,Huburn,1988-11-22 06:13:22.143596,Masculino,nhuburnno@gmail.com,Sim,571-792-9929,Sim,Sim,167-105-2238,Ohio,3772,Barra da Tijuca,226009-000,RJ,158.25,95.04
+854,Justinian,Spurrett,2005-06-25 06:13:22.143596,Masculino,jspurrettnp@hotmail.com,Sim,680-111-5453,Não,Sim,277-659-1279,Fremont,7,Barra da Tijuca,226005-000,RJ,299.66,28.17
+855,Janaya,Douglass,2006-06-25 06:13:22.143596,Feminino,jdouglassnq@hotmail.com,Sim,162-666-5157,Sim,Não,708-788-5934,Iowa,9,Copacabana,220008-000,RJ,366.24,14.06
+856,Mil,Divine,2006-05-29 06:13:22.143596,Feminino,mdivinenr@hotmail.com,Sim,143-529-0096,Sim,Não,761-778-8399,School,44256,Tijuca,205003-000,RJ,468.54,18.0
+857,Tracie,Du Hamel,1999-04-29 06:13:22.143596,Feminino,tduhamelns@hotmail.com,Não,653-512-1780,Não,Sim,709-488-9551,Brickson Park,641,Barra da Tijuca,226002-000,RJ,72.54,3.33
+858,Sherrie,MacPhail,1976-06-22 06:13:22.143596,Feminino,smacphailnt@gmail.com,Sim,582-697-3409,Não,Não,644-831-4785,Bartillon,84462,Copacabana,220009-000,RJ,380.12,73.51
+859,Raleigh,Raoux,1991-09-08 06:13:22.143596,Masculino,rraouxnu@gmail.com,Não,361-664-6532,Sim,Não,288-337-8464,Forest,27399,Tijuca,205007-000,RJ,141.87,40.11
+860,Kayle,Skittles,1994-05-25 06:13:22.143596,Feminino,kskittlesnv@gmail.com,Sim,190-972-0510,Sim,Sim,933-118-6936,Duke,18400,Barra da Tijuca,226009-000,RJ,210.51,72.37
+861,Ximenez,Lightwing,1966-07-24 06:13:22.143596,Masculino,xlightwingnw@hotmail.com,Não,160-288-4528,Não,Não,752-362-1105,Jana,68,Tijuca,205002-000,RJ,465.47,18.8
+862,Wendy,Reven,2001-06-08 06:13:22.143596,Feminino,wrevennx@gmail.com,Sim,649-271-8852,Não,Não,136-864-3033,Melody,53408,Copacabana,220008-000,RJ,134.92,55.36
+863,Bruis,Cambden,1974-02-18 06:13:22.143596,Masculino,bcambdenny@hotmail.com,Sim,361-549-4446,Sim,Não,423-241-6069,Bashford,93,Barra da Tijuca,226004-000,RJ,480.8,69.8
+864,Elsey,Hempshall,1970-03-31 06:13:22.143596,Outros,ehempshallnz@gmail.com,Não,563-636-1873,Sim,Não,524-817-0171,Thompson,69,Tijuca,205005-000,RJ,339.46,14.15
+865,Angelo,Pollett,2003-07-02 06:13:22.143596,Outros,apolletto0@hotmail.com,Não,769-740-7915,Não,Sim,830-865-5640,Steensland,9,Tijuca,205003-000,RJ,458.42,27.29
+866,Analiese,Hymer,1978-02-21 06:13:22.143596,Feminino,ahymero1@hotmail.com,Sim,424-934-8208,Não,Sim,344-429-4200,Coleman,5415,Copacabana,220002-000,RJ,410.43,81.22
+867,Kaia,Bescoby,1995-12-19 06:13:22.143596,Feminino,kbescobyo2@gmail.com,Sim,114-202-7358,Sim,Sim,478-437-9317,Badeau,5,Tijuca,205009-000,RJ,116.22,73.92
+868,Nobie,Pieterick,1967-10-03 06:13:22.143596,Masculino,npietericko3@hotmail.com,Sim,513-644-2935,Não,Não,422-517-4972,Stoughton,6086,Copacabana,220008-000,RJ,240.15,1.29
+869,Ned,Clues,1996-04-04 06:13:22.143596,Masculino,nclueso4@gmail.com,Não,868-592-2197,Não,Sim,910-464-2348,Anzinger,40,Barra da Tijuca,226008-000,RJ,456.35,2.55
+870,Anderea,Mell,1980-02-06 06:13:22.143596,Outros,amello5@hotmail.com,Não,143-805-3596,Não,Sim,596-265-7990,Corry,9556,Tijuca,205007-000,RJ,407.43,25.54
+871,Megan,Ludman,1994-02-07 06:13:22.143596,Feminino,mludmano6@gmail.com,Sim,211-832-8270,Não,Não,250-746-7942,Chive,76,Tijuca,205006-000,RJ,255.63,51.2
+872,Grannie,Segot,1978-01-10 06:13:22.143596,Masculino,gsegoto7@gmail.com,Sim,540-570-3796,Sim,Não,206-150-6657,Elmside,26,Barra da Tijuca,226002-000,RJ,273.32,61.91
+873,Claiborne,Campaigne,1982-09-19 06:13:22.143596,Masculino,ccampaigneo8@gmail.com,Sim,145-830-9129,Sim,Não,874-768-9501,Esker,6684,Copacabana,220008-000,RJ,448.59,92.01
+874,Esdras,Shea,1980-03-24 06:13:22.143596,Masculino,esheao9@hotmail.com,Sim,847-727-7530,Não,Não,412-463-2099,Shelley,5,Copacabana,220008-000,RJ,325.75,41.46
+875,Melantha,Birchwood,1997-01-09 06:13:22.143596,Feminino,mbirchwoodoa@hotmail.com,Não,752-871-5100,Sim,Não,102-704-8996,Cascade,8,Copacabana,220002-000,RJ,356.4,59.92
+876,Christie,Leaney,1962-11-30 06:13:22.143596,Masculino,cleaneyob@hotmail.com,Sim,349-846-2803,Não,Sim,838-210-1008,Acker,569,Copacabana,220006-000,RJ,424.18,64.52
+877,Theodore,Ivancevic,1996-03-26 06:13:22.143596,Masculino,tivancevicoc@hotmail.com,Sim,691-511-3546,Não,Sim,249-530-9972,Nevada,26,Tijuca,205006-000,RJ,144.11,7.3
+878,Randall,Calbreath,1969-12-12 06:13:22.143596,Masculino,rcalbreathod@gmail.com,Sim,717-234-0842,Sim,Sim,146-933-1051,Weeping Birch,715,Barra da Tijuca,226003-000,RJ,386.45,65.77
+879,Iseabal,Botger,1969-01-14 06:13:22.143596,Feminino,ibotgeroe@gmail.com,Sim,256-663-2210,Sim,Não,994-561-3703,Grasskamp,461,Tijuca,205004-000,RJ,395.21,1.35
+880,Viv,Goater,1979-06-06 06:13:22.143596,Feminino,vgoaterof@gmail.com,Não,188-368-6353,Não,Sim,315-621-6700,Elka,33732,Barra da Tijuca,226007-000,RJ,221.75,87.78
+881,Ethelyn,Pawelczyk,1983-11-18 06:13:22.143596,Feminino,epawelczykog@gmail.com,Sim,328-481-8171,Não,Não,519-872-5595,Butterfield,153,Barra da Tijuca,226007-000,RJ,110.1,46.32
+882,Estell,Goneau,1967-08-24 06:13:22.143596,Feminino,egoneauoh@hotmail.com,Sim,962-365-2230,Sim,Não,303-194-2606,Scott,62392,Tijuca,205004-000,RJ,148.75,81.08
+883,Orel,Mahood,2000-11-03 06:13:22.143596,Outros,omahoodoi@hotmail.com,Sim,905-103-5080,Sim,Não,410-934-0284,Sheridan,55,Tijuca,205008-000,RJ,333.98,41.11
+884,Ingunna,Carman,1972-10-24 06:13:22.143596,Feminino,icarmanoj@gmail.com,Sim,918-801-6541,Sim,Sim,681-982-8495,Anthes,2,Copacabana,220001-000,RJ,400.25,94.93
+885,Joice,Signoret,1994-09-05 06:13:22.143596,Feminino,jsignoretok@hotmail.com,Não,717-147-8199,Não,Não,679-930-9729,Bultman,66,Barra da Tijuca,226009-000,RJ,76.97,43.91
+886,Alley,Prater,1995-08-09 06:13:22.143596,Masculino,apraterol@gmail.com,Sim,855-611-5527,Sim,Sim,536-961-8831,Arapahoe,5,Copacabana,220009-000,RJ,319.75,71.07
+887,Boot,Baskett,1967-11-14 06:13:22.143596,Masculino,bbaskettom@gmail.com,Não,828-654-2946,Sim,Sim,950-889-2775,Clyde Gallagher,1356,Tijuca,205008-000,RJ,265.96,31.4
+888,Jerrylee,Cheetham,1983-09-13 06:13:22.143596,Feminino,jcheethamon@gmail.com,Não,744-147-5311,Sim,Não,592-197-2416,Mifflin,10,Copacabana,220009-000,RJ,53.1,73.49
+889,Husain,Litchfield,2000-05-15 06:13:22.143596,Masculino,hlitchfieldoo@hotmail.com,Não,904-423-6313,Não,Não,380-414-0921,Garrison,254,Copacabana,220002-000,RJ,221.48,51.76
+890,Aubrette,Philcock,1983-01-11 06:13:22.143596,Feminino,aphilcockop@gmail.com,Sim,919-660-1407,Não,Não,306-292-6602,Lawn,41,Barra da Tijuca,226006-000,RJ,87.16,49.64
+891,Sherwin,Skeldinge,1969-01-30 06:13:22.143596,Masculino,sskeldingeoq@hotmail.com,Não,638-471-0866,Sim,Não,177-187-1650,Kings,89,Barra da Tijuca,226009-000,RJ,164.32,57.41
+892,Henryetta,Feckey,1973-04-12 06:13:22.143596,Feminino,hfeckeyor@gmail.com,Sim,400-373-7411,Sim,Sim,675-516-9746,7th,67,Copacabana,220008-000,RJ,441.38,39.44
+893,Tymon,Arkley,1978-11-11 06:13:22.143596,Masculino,tarkleyos@gmail.com,Não,216-985-8446,Sim,Não,561-332-1689,Village Green,5,Copacabana,220007-000,RJ,238.96,59.86
+894,Alina,Vigers,1986-10-21 06:13:22.143596,Feminino,avigersot@gmail.com,Não,421-966-0846,Sim,Sim,443-429-9293,Fairfield,618,Tijuca,205006-000,RJ,76.28,82.97
+895,Tabbie,Kleynermans,1997-04-07 06:13:22.143596,Masculino,tkleynermansou@gmail.com,Sim,459-679-0074,Sim,Não,918-104-3817,Lakewood Gardens,0,Barra da Tijuca,226002-000,RJ,497.23,85.89
+896,Felipe,Hellsdon,1972-12-20 06:13:22.143596,Masculino,fhellsdonov@hotmail.com,Sim,633-605-2216,Não,Não,627-380-2429,Dayton,4,Barra da Tijuca,226007-000,RJ,377.45,56.12
+897,Aigneis,Mauro,2005-09-16 06:13:22.143596,Feminino,amauroow@gmail.com,Não,940-263-1921,Sim,Sim,563-286-3531,Bartelt,56,Copacabana,220007-000,RJ,276.59,58.53
+898,Reagen,Croker,1975-08-16 06:13:22.143596,Masculino,rcrokerox@gmail.com,Sim,149-525-3640,Não,Não,518-166-7271,Bartelt,5866,Tijuca,205002-000,RJ,166.52,51.98
+899,Raymund,Foad,1999-04-28 06:13:22.143596,Masculino,rfoadoy@gmail.com,Sim,561-541-0434,Não,Não,945-902-7350,Summer Ridge,42493,Tijuca,205006-000,RJ,395.33,37.08
+900,Devonne,Chastagnier,1995-12-21 06:13:22.143596,Feminino,dchastagnieroz@hotmail.com,Sim,755-237-8521,Não,Sim,391-821-1754,Scoville,407,Copacabana,220006-000,RJ,420.12,4.62
+901,Aland,Parrott,1984-01-16 06:13:22.143596,Masculino,aparrottp0@gmail.com,Sim,734-858-5411,Sim,Não,731-205-3154,Clemons,429,Tijuca,205002-000,RJ,219.66,76.18
+902,Vanessa,Brockhouse,1969-08-11 06:13:22.143596,Feminino,vbrockhousep1@gmail.com,Não,755-890-2529,Não,Não,387-525-6104,Gateway,7603,Copacabana,220004-000,RJ,124.89,51.26
+903,Iorgos,Sofe,1988-03-18 06:13:22.143596,Masculino,isofep2@hotmail.com,Sim,522-349-2007,Sim,Não,604-727-2210,5th,89,Copacabana,220003-000,RJ,143.96,61.18
+904,Salli,Taggerty,1995-02-06 06:13:22.143596,Feminino,staggertyp3@hotmail.com,Sim,616-435-9665,Sim,Sim,954-575-3169,Armistice,976,Tijuca,205001-000,RJ,215.14,1.51
+905,Mavis,Nunson,1993-07-31 06:13:22.143596,Feminino,mnunsonp4@hotmail.com,Sim,472-967-8910,Não,Não,832-311-3627,Vera,82,Tijuca,205007-000,RJ,371.86,25.44
+906,Lloyd,Attree,1998-12-30 06:13:22.143596,Masculino,lattreep5@hotmail.com,Não,737-306-4417,Sim,Sim,934-280-7112,Norway Maple,3,Barra da Tijuca,226008-000,RJ,68.91,87.56
+907,Marijn,Lissandri,1967-05-31 06:13:22.143596,Outros,mlissandrip6@gmail.com,Sim,303-883-9758,Sim,Não,413-692-3908,Delaware,45,Copacabana,220006-000,RJ,350.8,78.86
+908,Giffard,Chalmers,2005-06-28 06:13:22.143596,Masculino,gchalmersp7@hotmail.com,Sim,771-724-3612,Sim,Sim,670-999-2930,Talmadge,6,Tijuca,205009-000,RJ,469.17,74.21
+909,Rozalin,Dunlap,1982-08-08 06:13:22.143596,Feminino,rdunlapp8@gmail.com,Não,221-306-4992,Não,Não,491-761-1398,Heath,7571,Copacabana,220007-000,RJ,224.52,67.77
+910,Lion,Mylechreest,1972-05-26 06:13:22.143596,Masculino,lmylechreestp9@gmail.com,Não,758-283-4264,Não,Sim,282-397-6551,3rd,4731,Barra da Tijuca,226008-000,RJ,308.95,34.49
+911,Marylou,Redbourn,1975-04-30 06:13:22.143596,Feminino,mredbournpa@gmail.com,Não,440-207-2396,Sim,Sim,979-321-2043,Prairie Rose,0,Copacabana,220002-000,RJ,337.4,4.53
+912,Walther,Ostick,1963-04-12 06:13:22.143596,Masculino,wostickpb@hotmail.com,Não,486-476-4539,Não,Sim,826-311-1752,Fulton,2260,Barra da Tijuca,226004-000,RJ,302.32,9.82
+913,Lisle,Sheed,1985-12-14 06:13:22.143596,Masculino,lsheedpc@hotmail.com,Não,825-358-2244,Sim,Sim,512-932-7721,Norway Maple,37,Copacabana,220007-000,RJ,209.99,83.26
+914,Audrey,Gocke,1988-04-08 06:13:22.143596,Feminino,agockepd@gmail.com,Não,255-551-7581,Não,Não,668-101-8469,Stone Corner,5,Tijuca,205006-000,RJ,307.28,39.73
+915,Micheal,January,1971-12-31 06:13:22.143596,Masculino,mjanuarype@gmail.com,Não,679-957-1546,Sim,Sim,129-820-3376,Del Mar,3131,Copacabana,220008-000,RJ,287.94,31.44
+916,Doralynne,Rodie,1990-07-23 06:13:22.143596,Feminino,drodiepf@gmail.com,Sim,417-613-9783,Sim,Sim,544-787-5960,Mifflin,69238,Tijuca,205002-000,RJ,77.63,4.23
+917,Doro,Blakden,2001-04-05 06:13:22.143596,Feminino,dblakdenpg@hotmail.com,Não,747-718-8049,Sim,Não,920-518-1539,Cambridge,765,Copacabana,220007-000,RJ,405.9,20.24
+918,Mylo,Poyntz,1981-07-15 06:13:22.143596,Masculino,mpoyntzph@hotmail.com,Sim,665-496-9575,Sim,Sim,585-164-3419,Golf,1127,Tijuca,205008-000,RJ,345.06,68.44
+919,Karoly,Bradnam,1968-05-10 06:13:22.143596,Feminino,kbradnampi@hotmail.com,Não,790-604-5813,Sim,Não,837-909-8398,Alpine,5,Tijuca,205001-000,RJ,93.59,38.35
+920,Selby,Pollins,1961-08-14 06:13:22.143596,Masculino,spollinspj@hotmail.com,Sim,273-592-0900,Não,Não,997-335-9555,Calypso,984,Tijuca,205002-000,RJ,491.12,57.92
+921,Winnie,Pellingar,2001-07-06 06:13:22.143596,Feminino,wpellingarpk@gmail.com,Sim,910-980-9645,Não,Sim,780-577-8667,Grayhawk,6288,Copacabana,220005-000,RJ,204.49,56.31
+922,Bale,Bristoe,1973-05-28 06:13:22.143596,Masculino,bbristoepl@hotmail.com,Não,572-502-5814,Não,Não,541-327-0766,Ronald Regan,15367,Copacabana,220002-000,RJ,124.45,43.32
+923,Konstance,Cocklie,1966-12-24 06:13:22.143596,Feminino,kcockliepm@gmail.com,Sim,145-469-7284,Sim,Não,954-658-6230,Drewry,9348,Copacabana,220003-000,RJ,168.5,50.71
+924,Carmela,Bover,1977-09-04 06:13:22.143596,Feminino,cboverpn@gmail.com,Não,535-976-0704,Não,Sim,801-390-9543,Farwell,1637,Tijuca,205007-000,RJ,423.32,61.83
+925,Jessie,Manoelli,1995-07-16 06:13:22.143596,Masculino,jmanoellipo@hotmail.com,Sim,272-162-4890,Não,Não,489-975-7442,Melvin,1,Barra da Tijuca,226008-000,RJ,247.83,85.37
+926,Gun,Bumford,1972-05-12 06:13:22.143596,Masculino,gbumfordpp@hotmail.com,Sim,584-696-4635,Não,Não,291-768-6899,John Wall,68,Barra da Tijuca,226009-000,RJ,170.93,18.15
+927,Tabbie,Loughman,1998-06-01 06:13:22.143596,Masculino,tloughmanpq@gmail.com,Não,163-826-6106,Não,Não,146-103-3820,Declaration,58684,Barra da Tijuca,226009-000,RJ,121.62,95.59
+928,Iorgo,Peascod,1981-09-05 06:13:22.143596,Masculino,ipeascodpr@hotmail.com,Sim,223-623-4506,Sim,Sim,217-250-3940,Anderson,9,Copacabana,220005-000,RJ,241.56,49.25
+929,Keriann,Dakers,1990-07-16 06:13:22.143596,Feminino,kdakersps@gmail.com,Sim,306-924-0640,Sim,Não,748-218-6010,Bluestem,6,Barra da Tijuca,226004-000,RJ,122.88,89.93
+930,Hastie,Otham,1990-09-29 06:13:22.143596,Masculino,hothampt@gmail.com,Sim,544-883-7306,Sim,Não,347-979-3911,Swallow,27,Barra da Tijuca,226002-000,RJ,432.58,26.56
+931,Fayette,Cottom,1990-10-02 06:13:22.143596,Feminino,fcottompu@gmail.com,Não,887-716-4841,Não,Não,914-394-0274,Hagan,4,Copacabana,220009-000,RJ,421.55,79.9
+932,Hettie,Danks,1994-11-04 06:13:22.143596,Feminino,hdankspv@gmail.com,Sim,569-504-3871,Não,Sim,946-707-6152,Dunning,30044,Tijuca,205002-000,RJ,344.6,22.16
+933,Asa,Ragg,2004-03-27 06:13:22.143596,Masculino,araggpw@gmail.com,Sim,849-614-6336,Não,Sim,503-276-8591,Utah,67045,Barra da Tijuca,226001-000,RJ,434.57,62.12
+934,Ilene,May,2001-11-28 06:13:22.143596,Feminino,imaypx@gmail.com,Sim,978-456-4990,Sim,Sim,797-499-5875,Moulton,20710,Copacabana,220009-000,RJ,294.38,34.23
+935,Loralie,MacCombe,2003-11-27 06:13:22.143596,Feminino,lmaccombepy@gmail.com,Sim,347-250-5099,Não,Sim,139-919-9395,Mendota,443,Tijuca,205009-000,RJ,317.07,61.98
+936,Papageno,Gillespey,2003-04-16 06:13:22.143596,Masculino,pgillespeypz@hotmail.com,Sim,252-103-1142,Sim,Não,257-353-6507,Helena,4049,Tijuca,205007-000,RJ,397.84,22.7
+937,Belia,Hastewell,1980-05-10 06:13:22.143596,Feminino,bhastewellq0@hotmail.com,Não,781-373-5164,Sim,Não,639-477-1131,Blue Bill Park,8781,Copacabana,220008-000,RJ,301.81,40.83
+938,Garwood,Ferrar,1970-12-31 06:13:22.143596,Masculino,gferrarq1@gmail.com,Sim,245-605-0819,Sim,Sim,892-585-1164,Schiller,780,Tijuca,205008-000,RJ,99.47,77.39
+939,Damien,Epsley,1974-08-05 06:13:22.143596,Masculino,depsleyq2@gmail.com,Sim,223-797-8832,Não,Não,160-600-2859,Delaware,8,Barra da Tijuca,226002-000,RJ,456.97,2.14
+940,Roobbie,Swetland,1984-08-02 06:13:22.143596,Feminino,rswetlandq3@gmail.com,Não,706-191-6577,Não,Não,708-353-1561,Ohio,342,Barra da Tijuca,226003-000,RJ,64.42,48.45
+941,Viole,Amer,1990-08-24 06:13:22.143596,Outros,vamerq4@hotmail.com,Sim,826-303-0920,Não,Não,787-533-4753,Red Cloud,1,Barra da Tijuca,226007-000,RJ,195.97,25.61
+942,Binni,Waller-Bridge,1999-06-29 06:13:22.143596,Feminino,bwallerbridgeq5@hotmail.com,Não,166-209-4517,Sim,Sim,790-646-7091,Kings,452,Barra da Tijuca,226005-000,RJ,175.29,55.94
+943,Orrin,Nassey,1971-11-15 06:13:22.143596,Masculino,onasseyq6@hotmail.com,Sim,565-973-1916,Sim,Sim,460-338-1149,Kings,7,Tijuca,205002-000,RJ,301.95,31.14
+944,Theresina,Valens-Smith,1987-03-12 06:13:22.143596,Feminino,tvalenssmithq7@gmail.com,Sim,231-401-7460,Não,Não,117-593-4730,Forest Dale,9,Tijuca,205001-000,RJ,468.14,31.27
+945,Virgie,Waldie,1981-09-05 06:13:22.143596,Feminino,vwaldieq8@gmail.com,Não,994-187-6025,Não,Não,383-128-8449,Loomis,27,Tijuca,205001-000,RJ,156.74,58.01
+946,Sergio,Colchett,1979-04-23 06:13:22.143596,Masculino,scolchettq9@gmail.com,Sim,613-664-6700,Sim,Não,408-508-6177,Crest Line,99,Tijuca,205004-000,RJ,463.52,62.15
+947,Desmond,Klementz,2001-02-03 06:13:22.143596,Masculino,dklementzqa@gmail.com,Não,873-968-1285,Não,Sim,244-589-8586,Bashford,7,Tijuca,205004-000,RJ,483.8,24.26
+948,Reinwald,Danter,1992-09-09 06:13:22.143596,Masculino,rdanterqb@gmail.com,Sim,204-975-7176,Sim,Não,587-772-2008,Monument,55225,Barra da Tijuca,226004-000,RJ,59.09,19.46
+949,Jorey,Burgne,1993-10-29 06:13:22.143596,Feminino,jburgneqc@gmail.com,Sim,282-912-8547,Sim,Sim,903-292-1877,Longview,552,Copacabana,220008-000,RJ,435.77,78.32
+950,Fabio,Pynner,1997-10-26 06:13:22.143596,Masculino,fpynnerqd@gmail.com,Sim,438-756-7605,Sim,Sim,508-589-1988,Crownhardt,5302,Copacabana,220001-000,RJ,425.82,15.69
+951,Michal,Liveley,1966-08-02 06:13:22.143596,Feminino,mliveleyqe@gmail.com,Não,752-401-8933,Não,Não,509-314-0460,Surrey,47465,Copacabana,220009-000,RJ,330.23,28.03
+952,Sheba,Nelissen,1975-07-08 06:13:22.143596,Feminino,snelissenqf@gmail.com,Não,663-270-6514,Sim,Sim,107-139-0157,Eastlawn,66098,Tijuca,205004-000,RJ,287.89,91.15
+953,Ezra,Ruselin,1996-12-28 06:13:22.143596,Masculino,eruselinqg@hotmail.com,Não,684-584-1870,Sim,Não,961-762-8802,Maywood,46,Copacabana,220004-000,RJ,275.14,0.29
+954,Dar,Insworth,1990-08-17 06:13:22.143596,Masculino,dinsworthqh@hotmail.com,Sim,322-703-3937,Sim,Não,499-333-5843,Service,70,Barra da Tijuca,226001-000,RJ,64.95,67.86
+955,Lauri,Ragat,1976-01-19 06:13:22.143596,Feminino,lragatqi@hotmail.com,Sim,793-631-6844,Não,Não,613-151-2474,Havey,376,Barra da Tijuca,226005-000,RJ,400.55,5.43
+956,Tonie,Topaz,1974-08-28 06:13:22.143596,Feminino,ttopazqj@hotmail.com,Não,572-334-4397,Não,Sim,396-742-2901,Mcguire,5792,Barra da Tijuca,226006-000,RJ,408.74,60.61
+957,Ralph,Rubinek,1977-11-13 06:13:22.143596,Masculino,rrubinekqk@hotmail.com,Não,601-564-1301,Sim,Sim,682-452-8367,Little Fleur,4548,Barra da Tijuca,226006-000,RJ,304.7,2.61
+958,Huntlee,McGowran,1973-07-15 06:13:22.143596,Masculino,hmcgowranql@hotmail.com,Não,320-992-9708,Não,Não,780-575-5405,Warbler,339,Barra da Tijuca,226001-000,RJ,281.11,46.88
+959,Janelle,Scola,1969-11-24 06:13:22.143596,Feminino,jscolaqm@gmail.com,Não,266-334-0495,Sim,Não,146-917-0197,Autumn Leaf,45093,Barra da Tijuca,226004-000,RJ,326.96,3.96
+960,Kelsi,Leppingwell,1990-01-11 06:13:22.143596,Feminino,kleppingwellqn@gmail.com,Não,404-147-1809,Não,Sim,936-155-6531,Fuller,2158,Tijuca,205008-000,RJ,245.38,2.72
+961,Gerianna,Seelbach,1982-07-04 06:13:22.143596,Feminino,gseelbachqo@hotmail.com,Não,599-279-4313,Não,Não,608-780-5177,Summer Ridge,45,Barra da Tijuca,226008-000,RJ,51.27,20.47
+962,Madella,Cleeve,1965-02-22 06:13:22.143596,Feminino,mcleeveqp@hotmail.com,Não,282-855-4221,Sim,Sim,921-283-6684,Golf Course,12,Barra da Tijuca,226005-000,RJ,326.92,2.91
+963,Cahra,Nye,2003-01-29 06:13:22.143596,Feminino,cnyeqq@gmail.com,Não,496-504-3433,Não,Sim,664-485-6442,Schmedeman,333,Tijuca,205002-000,RJ,129.6,25.81
+964,Octavia,Melody,1997-07-20 06:13:22.143596,Feminino,omelodyqr@hotmail.com,Sim,578-500-3855,Sim,Não,700-356-0387,Little Fleur,8423,Barra da Tijuca,226001-000,RJ,330.81,62.46
+965,Alicia,Deveral,2007-06-12 06:13:22.143596,Feminino,adeveralqs@gmail.com,Não,839-606-0704,Sim,Não,656-967-6076,4th,33865,Barra da Tijuca,226005-000,RJ,466.39,91.0
+966,Velma,Swiffan,1978-02-23 06:13:22.143596,Feminino,vswiffanqt@gmail.com,Sim,370-161-9724,Sim,Sim,841-813-9378,Warrior,8008,Tijuca,205006-000,RJ,455.61,25.11
+967,Cherri,Roj,1992-08-23 06:13:22.143596,Feminino,crojqu@gmail.com,Sim,173-569-5789,Não,Sim,879-538-2478,Sachtjen,509,Barra da Tijuca,226006-000,RJ,187.01,50.14
+968,Waite,Gammons,1975-07-09 06:13:22.143596,Masculino,wgammonsqv@gmail.com,Não,885-476-0436,Não,Não,480-131-7392,Miller,3,Barra da Tijuca,226003-000,RJ,260.69,99.47
+969,Genny,Loude,1990-09-21 06:13:22.143596,Feminino,gloudeqw@hotmail.com,Sim,876-898-1898,Não,Não,852-517-9839,Superior,4183,Tijuca,205001-000,RJ,144.09,8.57
+970,Ainslee,Madrell,1979-12-15 06:13:22.143596,Feminino,amadrellqx@gmail.com,Não,813-203-8260,Não,Sim,504-728-3414,Butterfield,8,Tijuca,205003-000,RJ,253.49,31.65
+971,Jarrid,Coppins,1963-06-04 06:13:22.143596,Masculino,jcoppinsqy@gmail.com,Não,319-496-4565,Sim,Sim,338-127-7940,Fairview,341,Barra da Tijuca,226006-000,RJ,236.4,85.65
+972,Keith,Dyka,1978-02-08 06:13:22.143596,Masculino,kdykaqz@gmail.com,Não,983-868-2563,Sim,Não,114-460-6303,Waywood,1,Tijuca,205005-000,RJ,497.49,69.66
+973,Shurlocke,Peyzer,1979-09-08 06:13:22.143596,Masculino,speyzerr0@gmail.com,Não,410-982-6524,Sim,Sim,649-426-8748,Tony,76,Tijuca,205002-000,RJ,313.29,72.65
+974,Baudoin,Wint,1989-02-24 06:13:22.143596,Masculino,bwintr1@hotmail.com,Não,290-182-6685,Não,Sim,805-843-0786,Amoth,1,Tijuca,205007-000,RJ,260.35,23.68
+975,Katlin,Boyce,1984-10-09 06:13:22.143596,Feminino,kboycer2@gmail.com,Sim,432-238-8871,Não,Não,115-890-9207,Ilene,6,Barra da Tijuca,226003-000,RJ,227.7,37.04
+976,Tynan,Pigrome,1974-06-25 06:13:22.143596,Masculino,tpigromer3@hotmail.com,Sim,189-234-5804,Não,Sim,353-609-0389,Summerview,26672,Barra da Tijuca,226007-000,RJ,133.0,67.85
+977,Ashely,Langlois,1978-11-23 06:13:22.143596,Feminino,alangloisr4@gmail.com,Não,140-578-1990,Sim,Sim,318-205-2930,Novick,71329,Tijuca,205003-000,RJ,90.12,22.99
+978,Marjy,Minghetti,1973-01-12 06:13:22.143596,Feminino,mminghettir5@gmail.com,Sim,245-948-0094,Sim,Sim,753-437-7467,Eggendart,5,Tijuca,205009-000,RJ,319.86,84.92
+979,Rafaelia,Stubbe,1997-12-06 06:13:22.143596,Feminino,rstubber6@hotmail.com,Não,901-579-9722,Sim,Não,130-293-0599,Boyd,648,Barra da Tijuca,226002-000,RJ,432.86,47.09
+980,Laurette,Pettecrew,1996-09-15 06:13:22.143596,Feminino,lpettecrewr7@hotmail.com,Sim,495-188-6801,Não,Sim,470-871-9872,Thompson,1018,Copacabana,220007-000,RJ,204.15,66.46
+981,Stu,Skeemor,1996-11-27 06:13:22.143596,Outros,sskeemorr8@hotmail.com,Sim,589-714-5471,Não,Sim,656-319-7627,Ridgeway,94,Copacabana,220006-000,RJ,487.37,3.68
+982,Wynne,McDougle,1969-03-31 06:13:22.143596,Feminino,wmcdougler9@hotmail.com,Sim,297-791-8871,Sim,Não,112-608-8952,Sullivan,1,Tijuca,205006-000,RJ,311.07,49.75
+983,Lauryn,Ohm,1970-04-11 06:13:22.143596,Feminino,lohmra@gmail.com,Sim,652-103-2763,Sim,Sim,341-481-9684,Calypso,2266,Copacabana,220004-000,RJ,359.28,47.67
+984,Marion,Vossing,1992-06-10 06:13:22.143596,Masculino,mvossingrb@gmail.com,Sim,712-973-6411,Não,Não,598-172-9838,Towne,7,Copacabana,220002-000,RJ,89.03,33.11
+985,Humberto,Lipp,1988-06-24 06:13:22.143596,Masculino,hlipprc@hotmail.com,Não,517-756-0098,Não,Não,691-488-7865,Bayside,4,Copacabana,220009-000,RJ,208.32,66.04
+986,Maynard,Colleran,1963-12-12 06:13:22.143596,Masculino,mcolleranrd@gmail.com,Sim,114-166-4808,Sim,Não,689-931-2859,Londonderry,1584,Tijuca,205005-000,RJ,123.25,94.23
+987,Giana,Burridge,1995-12-25 06:13:22.143596,Feminino,gburridgere@hotmail.com,Sim,849-117-2213,Sim,Não,215-568-9675,Cascade,24,Copacabana,220006-000,RJ,449.97,43.35
+988,Karry,Carvil,1965-08-23 06:13:22.143596,Feminino,kcarvilrf@gmail.com,Não,499-964-2577,Sim,Sim,371-779-8436,Ilene,38,Copacabana,220001-000,RJ,406.22,77.02
+989,Jaymee,Gaskoin,1980-12-13 06:13:22.143596,Feminino,jgaskoinrg@hotmail.com,Sim,269-199-9892,Sim,Não,990-680-0050,Reindahl,75492,Barra da Tijuca,226009-000,RJ,410.27,49.25
+990,Rand,MacKean,1999-04-27 06:13:22.143596,Masculino,rmackeanrh@gmail.com,Sim,390-175-2283,Sim,Sim,232-114-5143,Birchwood,28,Copacabana,220008-000,RJ,383.7,54.57
+991,Donny,Dawby,1992-04-15 06:13:22.143596,Masculino,ddawbyri@hotmail.com,Não,971-799-3636,Sim,Sim,491-839-9813,Bonner,59,Copacabana,220009-000,RJ,146.36,45.05
+992,Adrienne,Frankiewicz,1980-10-15 06:13:22.143596,Feminino,afrankiewiczrj@hotmail.com,Sim,993-169-6732,Não,Sim,260-835-8744,Kenwood,7326,Tijuca,205006-000,RJ,347.24,29.41
+993,Jilleen,Bruty,1969-06-29 06:13:22.143596,Feminino,jbrutyrk@hotmail.com,Sim,847-997-3504,Não,Sim,387-101-1658,Miller,37060,Barra da Tijuca,226004-000,RJ,325.96,1.63
+994,Dredi,Coil,2000-06-16 06:13:22.143596,Feminino,dcoilrl@hotmail.com,Sim,219-230-8697,Sim,Não,476-126-3627,Dexter,241,Copacabana,220003-000,RJ,186.04,64.49
+995,Maxwell,Gersam,1973-06-26 06:13:22.143596,Masculino,mgersamrm@hotmail.com,Não,294-856-0766,Sim,Não,376-162-2644,Becker,9721,Copacabana,220008-000,RJ,473.25,13.45
+996,Danyelle,Splevins,1992-03-11 06:13:22.143596,Feminino,dsplevinsrn@hotmail.com,Não,132-693-4194,Não,Não,810-760-0542,Farragut,35546,Copacabana,220002-000,RJ,76.16,32.2
+997,Constantine,Canceller,2000-04-13 06:13:22.143596,Masculino,ccancellerro@hotmail.com,Sim,932-245-4954,Não,Sim,887-932-2888,Marquette,22,Tijuca,205003-000,RJ,57.36,73.36
+998,Lorelle,Coonihan,1995-01-13 06:13:22.143596,Feminino,lcoonihanrp@gmail.com,Sim,736-127-1844,Não,Sim,298-678-5049,Dennis,92964,Copacabana,220005-000,RJ,67.62,53.83
+999,Marten,Swynley,1976-12-09 06:13:22.143596,Masculino,mswynleyrq@hotmail.com,Não,248-769-3897,Sim,Não,896-242-2729,Springs,70043,Copacabana,220007-000,RJ,79.94,4.98
+1000,Charlotte,Ashplant,1989-12-15 06:13:22.143596,Outros,cashplantrr@gmail.com,Não,415-941-7714,Não,Não,375-420-1956,Kedzie,5,Tijuca,205007-000,RJ,314.59,20.25
