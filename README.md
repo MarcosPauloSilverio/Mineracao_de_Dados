@@ -28,14 +28,12 @@ O projeto identificou um cluster de clientes com alto engajamento em produtos sa
 # [Recomendações Estratégicas:]
 As conclusões da análise foram traduzidas em um plano de ação claro, sugerindo estratégias de marketing personalizadas, ofertas exclusivas e um plano de expansão baseado em dados.
 
-# Arquivos e Scripts
+# 📄 Arquivos e Scripts
 Este repositório contém os seguintes scripts, que representam as etapas do projeto:
 
-[preparar_dados.py:] Limpeza e preparação da base de dados.
+- [preparar_dados.py:] Limpeza e preparação da base de dados.
+- [analise_exploratoria.py:] Geração de gráficos para análise demográfica e de padrões de compra.
+- [segmentacao_clientes.py:] Aplicação do K-Means e segmentação de clientes.
 
-[analise_exploratoria.py:] Geração de gráficos para análise demográfica e de padrões de compra.
-
-[segmentacao_clientes.py:] Aplicação do K-Means e segmentação de clientes.
-
-# Sobre a Base de Dados
+# 🔍 Sobre a Base de Dados
 A base de dados utilizada é [fictícia], criada para simular um cenário de negócio real. Embora os dados não sejam de clientes reais, a sua estrutura permite a aplicação da metodologia de mineração de dados de forma autêntica e replicável para qualquer base de clientes no futuro.
