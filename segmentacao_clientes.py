@@ -53,5 +53,6 @@ print(f"\nO cluster de alto potencial para o programa de alimentação saudável
 print(f"\n--- Exemplo de Clientes do Cluster Alvo ({cluster_alvo}) ---")
 print(df[df['cluster'] == cluster_alvo][['nome_cliente', 'sobrenome_cliente', 'bairro', 'ticket_medio', 'produtos_saudaveis_percentual']].head())
 
-print("\nAnálise de segmentação concluída. Agora temos o perfil ideal de clientes para o programa!")
+print("\nAnálise de segmentação concluída!")
+
 
